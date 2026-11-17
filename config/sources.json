@@ -1,0 +1,20 @@
+{
+  "_說明": "type=google_news 會自動組成 Google News 搜尋 RSS；type=rss 為直接 RSS。enabled=false 的來源須先人手確認網址仍有效。",
+  "lookback_hours": 30,
+  "sources": [
+    {"id": "gn_rodent", "name": "Google News：鼠患", "type": "google_news", "tier": "media", "query": "(鼠患 OR 老鼠 OR 滅鼠 OR 鼠蹤) 香港 when:1d", "enabled": true},
+    {"id": "gn_mosquito", "name": "Google News：蚊患及病媒", "type": "google_news", "tier": "media", "query": "(蚊患 OR 登革熱 OR 基孔肯雅熱 OR 白紋伊蚊 OR 誘蚊產卵器) 香港 when:1d", "enabled": true},
+    {"id": "gn_other_pests", "name": "Google News：其他害蟲", "type": "google_news", "tier": "media", "query": "(曱甴 OR 蟑螂 OR 木蝨 OR 床蝨 OR 白蟻 OR 紅火蟻 OR 跳蚤) 香港 when:1d", "enabled": true},
+    {"id": "gn_tree_pests", "name": "Google News：樹木蟲害", "type": "google_news", "tier": "media", "query": "(朱紅毛斑蛾 OR 樹木蟲害 OR 紅棕象甲 OR 入侵物種) 香港 when:1d", "enabled": true},
+    {"id": "gn_fehd", "name": "Google News：食環署行動", "type": "google_news", "tier": "media", "query": "食環署 (滅蟲 OR 防治 OR 消除蟲鼠 OR 滅蚊 OR 除害) when:1d", "enabled": true},
+    {"id": "gn_en", "name": "Google News：English", "type": "google_news", "tier": "media", "query": "Hong Kong (rodent OR rats OR mosquito OR dengue OR \"pest control\" OR FEHD) when:1d", "lang": "en", "enabled": true},
+    {"id": "gn_site_oriental", "name": "東方日報（site 搜尋）", "type": "google_news", "tier": "media", "query": "site:orientaldaily.on.cc (鼠 OR 蚊 OR 曱甴 OR 蟲) when:1d", "enabled": true},
+    {"id": "gn_site_mingpao", "name": "明報（site 搜尋）", "type": "google_news", "tier": "media", "query": "site:news.mingpao.com (鼠 OR 蚊 OR 曱甴 OR 蟲) when:1d", "enabled": true},
+    {"id": "gn_site_hk01", "name": "香港01（site 搜尋）", "type": "google_news", "tier": "media", "query": "site:hk01.com (鼠患 OR 蚊患 OR 曱甴 OR 木蝨 OR 滅蟲) when:1d", "enabled": true},
+    {"id": "gn_site_rthk", "name": "香港電台（site 搜尋）", "type": "google_news", "tier": "media", "query": "site:news.rthk.hk (鼠 OR 蚊 OR 蟲) when:1d", "enabled": true},
+    {"id": "gn_site_singtao", "name": "星島（site 搜尋）", "type": "google_news", "tier": "media", "query": "site:stheadline.com (鼠患 OR 蚊患 OR 曱甴 OR 滅蟲) when:1d", "enabled": true},
+    {"id": "gn_site_gov", "name": "政府新聞公報（site 搜尋）", "type": "google_news", "tier": "official", "query": "site:info.gov.hk (鼠 OR 蚊 OR 登革熱 OR 蟲) when:1d", "enabled": true},
+    {"id": "gov_press_zh", "name": "政府新聞公報 RSS", "type": "rss", "tier": "official", "url": "https://www.info.gov.hk/gia/rss/general_zh.xml", "enabled": true},
+    {"id": "chp_press", "name": "衞生防護中心新聞公報 RSS", "type": "rss", "tier": "official", "url": "https://www.chp.gov.hk/tc/rss/pressreleases.xml", "enabled": false}
+  ]
+}

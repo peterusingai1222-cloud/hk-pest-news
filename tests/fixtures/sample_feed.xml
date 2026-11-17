@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 測試用虛構資料，只供離線驗證流程 -->
+<rss version="2.0"><channel><title>test</title>
+<item><title>食環署深水埗展開滅鼠行動 巡查食肆後巷 - 測試日報</title><link>https://example.com/a1</link><pubDate>Mon, 16 Nov 2026 02:00:00 GMT</pubDate><description>食環署深水埗展開滅鼠行動 巡查食肆後巷 測試日報</description><source url="https://example.com">測試日報</source></item>
+<item><title>食環署深水埗展開滅鼠行動　巡查食肆後巷 - 測試電台</title><link>https://example.com/a2</link><pubDate>Mon, 16 Nov 2026 03:00:00 GMT</pubDate><description></description><source url="https://example.com">測試電台</source></item>
+<item><title>衞生防護中心呼籲市民防蚊 預防登革熱 - 測試政府</title><link>https://example.com/b1</link><pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate><description>衞生防護中心提醒市民清除積水</description><source url="https://example.com">測試政府</source></item>
+<item><title>沙田屋苑住戶投訴木蝨 - 測試01</title><link>https://example.com/c1</link><pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate><description>有住戶反映單位出現木蝨</description><source url="https://example.com">測試01</source></item>
+<item><title>新款無線滑鼠評測 - 測試科技</title><link>https://example.com/x1</link><pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate><description>滑鼠 老鼠造型</description><source url="https://example.com">測試科技</source></item>
+<item><title>恒指收市升200點 - 測試財經</title><link>https://example.com/x2</link><pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate><description>股市</description><source url="https://example.com">測試財經</source></item>
+</channel></rss>
