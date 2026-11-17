@@ -1,9 +1,18 @@
 {
-  "time": "2026-11-17T03:58:05.428731+00:00",
-  "fetched": 368,
+  "time": "2026-11-17T04:01:47.006316+00:00",
+  "fetched": 365,
   "kept": 0,
   "new_events": 0,
   "merged": 0,
-  "errors": [],
+  "errors": [
+    {
+      "source": "gn_fehd",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "gn_site_takungpao",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "drafts_pending": 0
 }

@@ -1,1 +1,1 @@
-window.NEWS_DATA = {"generated": "2026-11-17T03:58:05.428731+00:00", "count": 0, "items": []};
+window.NEWS_DATA = {"generated": "2026-11-17T04:01:47.006316+00:00", "count": 0, "items": []};
