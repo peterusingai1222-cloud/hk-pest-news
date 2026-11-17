@@ -5,11 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>香港蟲害管理新聞情報中心</title>
 <style>
-:root{--g:#1f5e3b;--g2:#2f7d52;--bg:#f4f6f3;--card:#fff;--line:#e2e6e0;--txt:#1d2620;--sub:#5d6b62;
---hi:#c0392b;--md:#d68910;--lo:#6c7a71}
+:root{--g:#1f5e3b;--g2:#2f7d52;--bg:#f4f6f3;--card:#fff;--line:#e2e6e0;--txt:#1d2620;--sub:#5d6b62;--hi:#c0392b;--md:#d68910;--lo:#6c7a71}
 *{box-sizing:border-box}
 body{margin:0;font-family:"Noto Sans TC","PingFang HK","Microsoft JhengHei",sans-serif;background:var(--bg);color:var(--txt);line-height:1.6}
-header{background:linear-gradient(120deg,var(--g),var(--g2));color:#fff;padding:22px 24px 18px}
+header{background:linear-gradient(120deg,var(--g),var(--g2));color:#fff;padding:22px 24px 26px}
 header h1{margin:0;font-size:24px;letter-spacing:1px}
 header p{margin:4px 0 0;opacity:.85;font-size:14px}
 .wrap{max-width:1180px;margin:0 auto;padding:0 18px}
@@ -21,6 +20,7 @@ header p{margin:4px 0 0;opacity:.85;font-size:14px}
 .layout{display:grid;grid-template-columns:250px 1fr;gap:18px;align-items:start}
 @media(max-width:820px){.layout{grid-template-columns:1fr}}
 aside{background:var(--card);border-radius:10px;padding:14px 16px;position:sticky;top:12px}
+@media(max-width:820px){aside{position:static}}
 aside h3{font-size:14px;margin:14px 0 6px;color:var(--g)}
 aside h3:first-child{margin-top:0}
 aside select,aside input[type=search]{width:100%;padding:8px;border:1px solid var(--line);border-radius:6px;font-size:14px}
@@ -54,7 +54,7 @@ footer{font-size:12px;color:var(--sub);text-align:center;padding:24px 18px 40px}
 </head>
 <body>
 <header><div class="wrap">
-  <h1>🐀 香港蟲害管理新聞情報中心</h1>
+  <h1>香港蟲害管理新聞情報中心</h1>
   <p>每日自動綜合香港報章、電子媒體及政府公布的蟲害管理新聞｜<span id="updated">載入中…</span></p>
 </div></header>
 
@@ -73,10 +73,10 @@ footer{font-size:12px;color:var(--sub);text-align:center;padding:24px 18px 40px}
       <h3>媒體</h3><select id="fMedia"><option value="">全部媒體</option></select>
       <h3>來源類型</h3>
       <select id="fTier"><option value="">全部</option><option value="official">只看官方</option><option value="media">只看媒體</option></select>
-      <button class="reset" id="reset">清除篩選</button>
+      <button class="reset" id="reset" type="button">清除篩選</button>
     </aside>
     <main>
-      <div class="tabs"><button class="tab on" data-v="list">新聞</button><button class="tab" data-v="trend">趨勢統計</button></div>
+      <div class="tabs"><button class="tab on" data-v="list" type="button">新聞</button><button class="tab" data-v="trend" type="button">趨勢統計</button></div>
       <div class="bar"><span id="count"></span>
         <select id="sort"><option value="time">按時間（新→舊）</option><option value="pri">按關注度</option><option value="src">按報道數量</option></select></div>
       <div id="list"></div>
@@ -88,7 +88,9 @@ footer{font-size:12px;color:var(--sub);text-align:center;padding:24px 18px 40px}
 
 <script src="data/news.js"></script>
 <script>
-const PRI = ["高","中","低"], st = {pri:new Set(), cat:new Set(), view:"list"};
+const PRI = ["高","中","低"];
+const CAT_ORDER = ["鼠患","蚊患及病媒疾病","蟑螂及室內害蟲","白蟻及木材害蟲","樹木及戶外蟲害","技術及藥劑","政府政策及執法"];
+const st = {pri:new Set(), cat:new Set(), view:"list"};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt = iso => new Date(iso).toLocaleString("zh-HK",{timeZone:"Asia/Hong_Kong",month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit",hour12:false});
@@ -97,11 +99,10 @@ let DATA = {items:[]};
 async function load(){
   try{ const r = await fetch("data/news.json?t="+Date.now(),{cache:"no-store"}); if(r.ok) DATA = await r.json(); else throw 0; }
   catch(e){ if(window.NEWS_DATA) DATA = window.NEWS_DATA; }
-  DATA.items = (DATA.items||[]).filter(i => i.title);
+  DATA.items = (DATA.items||[]).filter(i => i.title && (i.categories||[]).length);
   $("updated").textContent = DATA.generated ? "最後更新："+fmt(DATA.generated)+"（香港時間）" : "尚未有資料，請先執行每日更新";
   build(); render();
 }
-
 function chips(el, values, set){
   el.innerHTML = values.map(v => `<span class="chip" data-v="${esc(v)}">${esc(v)}</span>`).join("");
   el.onclick = e => { const v = e.target.dataset.v; if(!v) return;
@@ -110,14 +111,15 @@ function chips(el, values, set){
 function build(){
   const uniq = f => [...new Set(DATA.items.flatMap(f))].sort((a,b)=>a.localeCompare(b,"zh-HK"));
   chips($("fPri"), PRI, st.pri);
-  chips($("fCat"), uniq(i=>i.categories||[]), st.cat);
+  const cats = uniq(i=>i.categories||[]).sort((a,b)=>(CAT_ORDER.indexOf(a)+99)%99-(CAT_ORDER.indexOf(b)+99)%99);
+  chips($("fCat"), cats, st.cat);
   uniq(i=>i.districts||[]).forEach(d => $("fDist").add(new Option(d,d)));
   uniq(i=>(i.sources||[]).map(s=>s.media)).forEach(m => $("fMedia").add(new Option(m,m)));
 }
 function filtered(){
-  const q = $("q").value.trim().toLowerCase(), days = +$("fDays").value, since = Date.now()-days*864e5;
+  const q = $("q").value.trim().toLowerCase(), since = Date.now()-(+$("fDays").value)*864e5;
   const d = $("fDist").value, m = $("fMedia").value, t = $("fTier").value;
-  let out = DATA.items.filter(i =>
+  const out = DATA.items.filter(i =>
     new Date(i.first_seen).getTime() >= since &&
     (!st.pri.size || st.pri.has(i.priority)) &&
     (!st.cat.size || (i.categories||[]).some(c => st.cat.has(c))) &&
@@ -146,11 +148,11 @@ function card(i){
     <div class="meta"><span class="pr ${esc(i.priority)}">${esc(i.priority)}關注</span>
       ${i.tier==="official"?'<span class="off">官方</span>':""}
       ${(i.categories||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}
-      ${(i.districts||[]).length?`<span>📍${esc(i.districts.join("、"))}</span>`:""}
-      <span>🕒 ${fmt(i.first_seen)}</span>${i.sources.length>1?`<span>📰 ${i.sources.length} 個來源</span>`:""}</div>
+      ${(i.districts||[]).length?`<span>地區：${esc(i.districts.join("、"))}</span>`:""}
+      <span>${fmt(i.first_seen)}</span>${i.sources.length>1?`<span>${i.sources.length} 個來源</span>`:""}</div>
     <h2>${esc(i.title)}</h2>
     <div class="sum">${esc(i.summary)}</div>
-    ${i.management_note && !i.management_note.startsWith("資料不足") ? `<div class="note">🏢 管理提示：${esc(i.management_note)}</div>`:""}
+    ${i.management_note && !i.management_note.startsWith("資料不足") ? `<div class="note">管理提示：${esc(i.management_note)}</div>`:""}
     ${i.priority!=="低"?`<div class="meta">關注原因：${esc(i.priority_reason)}</div>`:""}
     <div class="src">${srcs}</div></article>`;
 }
@@ -169,7 +171,7 @@ function render(){
   const items = filtered(); stats(items);
   $("count").textContent = `共 ${items.length} 個事件`;
   $("list").innerHTML = items.length ? items.map(card).join("")
-    : `<div class="empty">${DATA.items.length ? "沒有符合篩選條件的新聞，請放寬條件。" : "暫時未有新聞資料。<br>部署後執行一次「每日蟲害新聞更新」即會出現內容。"}</div>`;
+    : `<div class="empty">${DATA.items.length ? "沒有符合篩選條件的新聞，請放寬條件。" : "暫時未有新聞資料。<br>執行一次「每日蟲害新聞更新」即會出現內容。"}</div>`;
   trend(items);
   $("list").hidden = st.view!=="list"; $("trend").hidden = st.view!=="trend";
 }

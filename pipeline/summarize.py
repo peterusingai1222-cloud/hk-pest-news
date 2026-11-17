@@ -1,6 +1,6 @@
 """步驟5：中文摘要。
-設定 AZURE_OPENAI_ENDPOINT + AZURE_OPENAI_KEY + AZURE_OPENAI_DEPLOYMENT，或 OPENAI_API_KEY，
-即使用 AI；否則用規則式摘要（不會捏造內容）。"""
+設定 AZURE_OPENAI_ENDPOINT + AZURE_OPENAI_KEY + AZURE_OPENAI_DEPLOYMENT，或 OPENAI_API_KEY 即用 AI；
+否則用規則式摘要（不會捏造內容）。"""
 import json, os, urllib.request
 
 PROMPT = """你是香港物業管理公司的蟲害管理情報編輯。只可根據以下提供的標題及描述，
@@ -38,8 +38,8 @@ def _rule_based(event):
     if len(base) > 110:
         base = base[:108] + "…"
     n = len(event["sources"])
-    tail = f"（共 {n} 個來源報道）" if n > 1 else ""
-    return {"summary": base + tail, "management_note": "資料不足，請參閱原文"}
+    return {"summary": base + (f"（共 {n} 個來源報道）" if n > 1 else ""),
+            "management_note": "資料不足，請參閱原文"}
 
 
 def summarize(event, log=print):

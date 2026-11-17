@@ -7,6 +7,9 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: 抓取、去重、分類、摘要
+      - name: 抓取、過濾、去重、分類、摘要
         env:
           REVIEW_MEDIA: "false"   # 改 "true" 則媒體報道先入草稿待審批
           AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
@@ -28,4 +31,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Hong_Kong date '+%F %H:%M') 更新"
+          git pull --rebase
           git push

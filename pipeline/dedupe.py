@@ -16,7 +16,7 @@ def bigrams(s):
 
 def similarity(a, b):
     A, B = bigrams(norm(a)), bigrams(norm(b))
-    return len(A & B) / max(1, min(len(A), len(B)))  # overlap coefficient
+    return len(A & B) / max(1, min(len(A), len(B)))
 
 
 def event_id(title):
@@ -28,7 +28,6 @@ def _dt(s):
 
 
 def merge(new_items, existing_events, threshold=0.55, window_hours=72):
-    """把新項目合併入現有事件；回傳 (全部事件, 新增事件數, 合併報道數)。"""
     events = list(existing_events)
     url_index = {s["url"]: e for e in events for s in e["sources"]}
     added = merged = 0
@@ -38,7 +37,7 @@ def merge(new_items, existing_events, threshold=0.55, window_hours=72):
         ref = _dt(it.get("published"))
         best, best_sim = None, 0.0
         for e in events:
-            if abs((_dt(e["first_seen"]) - ref)) > timedelta(hours=window_hours):
+            if abs(_dt(e["first_seen"]) - ref) > timedelta(hours=window_hours):
                 continue
             sim = similarity(it["title"], e["title"])
             if sim > best_sim:
@@ -48,17 +47,15 @@ def merge(new_items, existing_events, threshold=0.55, window_hours=72):
             if not any(s["media"] == it["media"] and s["title"] == it["title"] for s in best["sources"]):
                 best["sources"].append(src)
                 merged += 1
-            if it["tier"] == "official" and best.get("tier") != "official":
+            if it["tier"] == "official":
                 best["tier"] = "official"
             best["needs_resummary"] = True
             url_index[it["url"]] = best
         else:
-            e = {
-                "id": event_id(it["title"]), "title": it["title"], "description": it.get("description", ""),
-                "first_seen": it.get("published") or datetime.now(timezone.utc).isoformat(),
-                "tier": it["tier"], "sources": [src], "needs_resummary": True,
-                "relevance": it.get("relevance", 0),
-            }
+            e = {"id": event_id(it["title"]), "title": it["title"], "description": it.get("description", ""),
+                 "first_seen": it.get("published") or datetime.now(timezone.utc).isoformat(),
+                 "tier": it["tier"], "sources": [src], "needs_resummary": True,
+                 "relevance": it.get("relevance", 0)}
             events.append(e)
             url_index[it["url"]] = e
             added += 1

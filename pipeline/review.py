@@ -12,7 +12,7 @@ def main():
                 print(f"{e['id']}  【{e.get('priority')}】{e['title']}  ({len(e['sources'])}來源)")
         return
     for e in events:
-        if cmd == "approve-all" and e.get("status") == "draft" or e["id"] in ids:
+        if (cmd == "approve-all" and e.get("status") == "draft") or e["id"] in ids:
             e["status"] = "rejected" if cmd == "reject" else "published"
     save_json(DATA / "events.json", events)
     print("已更新；下次執行 run 時會重新生成 news.json")

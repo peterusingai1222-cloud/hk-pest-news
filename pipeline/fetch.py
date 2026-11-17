@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
-UA = "HKPestIntelBot/1.0 (+internal monitoring; contact: admin@example.com)"
+UA = "HKPestIntelBot/1.0 (+internal monitoring)"
 
 
 def google_news_url(query, lang="zh"):
@@ -64,7 +64,7 @@ def parse_feed(xml_bytes, src):
             if el is None:
                 el = n.find(atom + tag)
             return el
-        title = strip_html((g("title").text if g("title") is not None else ""))
+        title = strip_html(g("title").text if g("title") is not None else "")
         link_el = g("link")
         link = ""
         if link_el is not None:
@@ -73,7 +73,7 @@ def parse_feed(xml_bytes, src):
         desc = strip_html(desc_el.text if desc_el is not None else "")
         date_el = g("pubDate") if g("pubDate") is not None else g("updated")
         published = parse_date(date_el.text if date_el is not None else None)
-        # Google News：<source> 為實際媒體名稱；標題尾巴 " - 媒體" 要拆走
+        # Google News：<source> 為實際媒體名稱；標題尾 " - 媒體" 要拆走
         media = src["name"]
         s_el = n.find("source")
         if s_el is not None and s_el.text:
@@ -107,5 +107,5 @@ def fetch_all(sources, log=print):
         except Exception as e:
             log(f"  [失敗] {src['name']}: {e}")
             errors.append({"source": src["id"], "error": str(e)})
-        time.sleep(1)  # 禮貌間隔，避免過密請求
+        time.sleep(1)  # 禮貌間隔
     return out, errors
