@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-18T05:58:08.434006+00:00",
-  "count": 4,
+  "generated": "2026-11-18T11:45:49.433282+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "c78509534dcb",
+      "title": "區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work",
+      "summary": "區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "中",
+      "priority_reason": "指數",
+      "districts": [],
+      "first_seen": "2026-11-18T11:13:53+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjRkaGxWaGE3V0d2ZlBreHE0Qjd0MFA5TG9pcC1Dd0NjSi16dkR6ZkczT1V0Z3hVU2w1ejFTblhnNDEwWWI5eXNYLWtHY3RhQ2UwRUxGcEtFbzlQaTNCUHEwb0RfSG9Wd0pIdlNBQ3JDQmhfbWdrb1FXeWJVVXQxVm1Ea1dPZGotUERR?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-18T11:13:53+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "40411a0729ad",
       "title": "葵涌大隴街斜坡滅鼠 食環署捕80活鼠填18 鼠洞",
@@ -45,6 +68,29 @@
           "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQMDlveFFHNHVtOHFJR1pIYzhjelNpOHFzUnRTN0tXV0FzRlBNSzhUTlA4TFJMdlFQSEJZZmRhd3h0SHJCT01TZE1HVlhMVjBHVUNtWnZSLVRzZVBYODRIYzNldUdJVUFmek5oNGh1aUZmRVJiLS11czFlWlBiVVJTYkV3ZlJwWUJXQXU4aEFnZGtRRGdWRmpPSUlNTVVJQ3hSdHhJZV93VGFsRHFKeDVUb3U1Sms0NXA2ZlZNSmhhVG9RU09TaFdMMklaYW10X0J4WHBqUER0Q255d1h5MkNnamZZdEtSRHpKbDhwTXZ1S1FyRXVZYWpiNFJ0anQ3U3ZFM0VsR2dINmNraFlaZmx0Z2Q3YlRzUmR0VTR5ZENoVjFvTUYteXkzZkNLQ3gtbkVyaVJWbHgzRzlfdUQyODVBXy1rdmRyQWtQTGsyVjRLYm02azdKaUlsd3RLWVJtVFlNWUtkMDFUNE5KZkdIX0poUGxVZDdiQUJuVUVMSEJlTHVZTjZJUlM4bA?oc=5",
           "media": "Sundaykiss",
           "published": "2026-11-18T01:53:39+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "61bd1560a8c8",
+      "title": "秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com",
+      "summary": "秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-17T23:27:11+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzN042amJPYjV3REhlVkl5UnNPazBkTmJPVHBqRTRhZnN0bl9YSy01czhHWlN2MGZuX2F0ekd3OWZTR1VRX1o1cTMzaTJ0RFVjQVFnVTJzRFFhelhiYW8tUmdvbkxoT2lHOXZVTjJ6NjI?oc=5",
+          "media": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published": "2026-11-17T23:27:11+00:00",
           "tier": "media"
         }
       ]

@@ -1,6 +1,13 @@
 # 香港蟲害管理新聞每日摘要（2026-11-18）
 
-過去24小時共 4 個事件；高關注 1 個。
+過去24小時共 6 個事件；高關注 2 個。
+
+## 【高】秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzN042amJPYjV3REhlVkl5UnNPazBkTmJPVHBqRTRhZnN0bl9YSy01czhHWlN2MGZuX2F0ekd3OWZTR1VRX1o1cTMzaTJ0RFVjQVFnVTJzRFFhelhiYW8tUmdvbkxoT2lHOXZVTjJ6NjI?oc=5)
 
 ## 【高】衞生署舉行「白水晶」跨部門公共衞生演習 提升防控新型傳染病的應變能力和防範意識（附圖）
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -8,6 +15,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/17/P2026111700409.htm)
+
+## 【中】區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work
+- 類別：鼠患；地區：未註明
+- 摘要：區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjRkaGxWaGE3V0d2ZlBreHE0Qjd0MFA5TG9pcC1Dd0NjSi16dkR6ZkczT1V0Z3hVU2w1ejFTblhnNDEwWWI5eXNYLWtHY3RhQ2UwRUxGcEtFbzlQaTNCUHEwb0RfSG9Wd0pIdlNBQ3JDQmhfbWdrb1FXeWJVVXQxVm1Ea1dPZGotUERR?oc=5)
 
 ## 【中】珀麗灣沙灘現老鼠藥 專家斥危害小童健康 管理處稱已提醒承辦商
 - 類別：鼠患；地區：未註明
