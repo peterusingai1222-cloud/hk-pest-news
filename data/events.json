@@ -1,5 +1,64 @@
 [
   {
+    "id": "40411a0729ad",
+    "title": "葵涌大隴街斜坡滅鼠 食環署捕80活鼠填18 鼠洞",
+    "description": "",
+    "first_seen": "2026-11-18T02:40:44+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街斜坡滅鼠 食環署捕80活鼠填18 鼠洞",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNcElfdlFTaGF5eXhTNUc1REdINmdlbjdqYmRybGNjU0VyRE5CZWJoeE50eWFQakdLQzNXUHdheWNfYlBaeGpPdnFsa2VUQ25GMjVQTlduNUx6Y0x6OXVxS1V3Z052dlRmWFZOazJQeE5LZmVSZ0JSdDlDUWs2ZE1vY1pCV1Z3MnZDWUp3TFpzeHRHeXkyNXVFWjFJQ1p6RkZRZVF4a25DQnIwQ0VxYXFWaHdxb2YwUEtpbXlXazBoRTM2VS1XX29wSHI5ZFdVZ1pOYUVBRDJ0bWE0bDZ1TlQ3RnZJNERTTmJpMzg4RDFQLTNjekVJOW53UEJla0hLSk5Bb0huam5sX1RMeW5uc1E1dGdyOVdiZnhFV0s2eVVRZnlfcDk1dmlmVzVBYWpnWkxSOEpjMlk1TXBuZ3BEMGhQRmY1RGY?oc=5",
+        "media": "巴士的報",
+        "published": "2026-11-18T02:40:44+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葵涌大隴街斜坡滅鼠 食環署捕80活鼠填18 鼠洞",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-18T05:58:08.434006+00:00"
+  },
+  {
+    "id": "9e1b98dac87e",
+    "title": "廚餘亂放隨時變曱甴溫床 拆解最常中招5大廚餘迷思 附蝸居防臭收納術",
+    "description": "",
+    "first_seen": "2026-11-18T01:53:39+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "廚餘亂放隨時變曱甴溫床 拆解最常中招5大廚餘迷思 附蝸居防臭收納術",
+        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQMDlveFFHNHVtOHFJR1pIYzhjelNpOHFzUnRTN0tXV0FzRlBNSzhUTlA4TFJMdlFQSEJZZmRhd3h0SHJCT01TZE1HVlhMVjBHVUNtWnZSLVRzZVBYODRIYzNldUdJVUFmek5oNGh1aUZmRVJiLS11czFlWlBiVVJTYkV3ZlJwWUJXQXU4aEFnZGtRRGdWRmpPSUlNTVVJQ3hSdHhJZV93VGFsRHFKeDVUb3U1Sms0NXA2ZlZNSmhhVG9RU09TaFdMMklaYW10X0J4WHBqUER0Q255d1h5MkNnamZZdEtSRHpKbDhwTXZ1S1FyRXVZYWpiNFJ0anQ3U3ZFM0VsR2dINmNraFlaZmx0Z2Q3YlRzUmR0VTR5ZENoVjFvTUYteXkzZkNLQ3gtbkVyaVJWbHgzRzlfdUQyODVBXy1rdmRyQWtQTGsyVjRLYm02azdKaUlsd3RLWVJtVFlNWUtkMDFUNE5KZkdIX0poUGxVZDdiQUJuVUVMSEJlTHVZTjZJUlM4bA?oc=5",
+        "media": "Sundaykiss",
+        "published": "2026-11-18T01:53:39+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "廚餘亂放隨時變曱甴溫床 拆解最常中招5大廚餘迷思 附蝸居防臭收納術",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-18T05:58:08.434006+00:00"
+  },
+  {
     "id": "94b8b2668647",
     "title": "珀麗灣沙灘現老鼠藥 專家斥危害小童健康 管理處稱已提醒承辦商",
     "description": "",
@@ -26,7 +85,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T22:50:52.569582+00:00"
+    "updated": "2026-11-18T05:58:08.434006+00:00"
   },
   {
     "id": "119d741f1af6",
