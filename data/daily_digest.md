@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-19）
 
-過去24小時共 6 個事件；高關注 2 個。
+過去24小時共 6 個事件；高關注 1 個。
 
 ## 【高】秘魯登革熱病例攀升，Co-Diagnostics獲當地經銷商測試訂單 作者 Investing.com
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -8,13 +8,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[Investing.com 香港 - 股市報價& 財經新聞](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzN042amJPYjV3REhlVkl5UnNPazBkTmJPVHBqRTRhZnN0bl9YSy01czhHWlN2MGZuX2F0ekd3OWZTR1VRX1o1cTMzaTJ0RFVjQVFnVTJzRFFhelhiYW8tUmdvbkxoT2lHOXZVTjJ6NjI?oc=5)
-
-## 【高】衞生署舉行「白水晶」跨部門公共衞生演習 提升防控新型傳染病的應變能力和防範意識（附圖）
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月十七日）聯同多個政府部門和輔助部隊舉行代號「白水晶」的公共衞生演習，旨在提升本港應對新型傳染病的應變能力，並加強持份者對突發公共衞生事件的防範意識。是次實地演習約有110名代表參…
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/17/P2026111700409.htm)
 
 ## 【中】區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work
 - 類別：鼠患；地區：未註明
@@ -29,6 +22,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMiyANBVV95cUxNa0pyZWVjYl9TNl84dlhmMmtEdDRkWlRkRF8xUDdRczd1NjBHVVRtekVBZDlfcjBZY2lpNms0WUdTUjFpZFpXcFlwUTBlLVpoRWtsay1CX0pfRlBSbGV6M3BoRVdLUDRDY0tQRXYyLW15T3VCYjNCTmtiSmFkYk41WUdhLXhwWmVWMnVUbW4wUGRxYjQwWW1yZy10THhmM1h4WTBhQVlpcENLVk1ubG1Sa3lINWhNaVZ4NDhRcGw1Y2tfQlNoYXJXS25leXFxRDljTkgzMUpzRmphV0ttekFCbjZvSmw2ZkFNN3VDVmR6N1c5NUx3MFNMSWpwblZSVzdyeldTMUUyNjQ0eG9UcXdLRFI3a3ZsNE4yLUxxVDdwdzZyR2lmTDVQZ1d2TDAwZU5ZQ2M3MVlQVFdIN1Jqd3VndllIc19VaDN1ZUNIT0RFVjRXNlNsbDFVUFFZVUtXYmhqRUFES1UxQWY0MGZCNXlUak9OUDdmZjdmZEtFZVVhYUtfSUxKMVdSYlpvU1Zza0V3MXN0WDBPVC1JN1p4Ynp6RHh4SnRuUVU0eHkzUVJJQlgwNjlVRmdZZXlyeDljUjRzLVRtZ1VqOGU?oc=5)
+
+## 【低】5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片
+- 類別：鼠患；地區：未註明
+- 摘要：5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMipgNBVV95cUxQWExPSDdqazJtNHMxbVJEMzBFMjhxVG9pS2lUd05ZeHFtM2FROVktYkFBb25mQmMwdXJFNTRlWXhiMkJtbWpVRDdYWVF3aXpSZE43Y2QxQzhHcXd5cmsta1pBOW02MG9abzE3N3M0czgxOFBQUEp5dXpEbzF5bmV3d3FTSUl6Y2N4ZFBxNUdpQUI0TkdjV25iOHl2MlpTMF9kLWdwNjczdjlMTk1XcHRNRS1LWDctUTE4NXpLMGdaWHZEM0dVaThvbWl2bUh3UjQtS2F3dTNJbWpPbTdKMkNZd0lFRjV5eDFGRHZHTzlJR3FQQjc1NVFFR01TSWhIREVrMkJEcGFMMzhiUmtMaFB6SFNVODR2NWdubktndmZucjctSTVyMGJyZ0NfOFpvNk0wbllQU1l4OGxRcGx5Z2d4NEtxd3RZUF9LYzZ6RHdqSnU0U3NZUnN1WDQ5NTZ2OE1jazBzZHoyLWltU090Q20xQWY3SVh1Yy1qUm91a2dIVzI0MTRJLUQ2dVFoZkNLUUxJUGRRSzF6R1lxS1RMck5kd3I3dHdmdw?oc=5)
 
 ## 【低】葵涌大隴街斜坡滅鼠 食環署捕80活鼠填18 鼠洞
 - 類別：鼠患、政府政策及執法；地區：未註明

@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-18T22:49:40.064623+00:00",
-  "count": 6,
+  "generated": "2026-11-19T05:57:50.665795+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "6cdf92552465",
+      "title": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+      "summary": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-18T23:00:46+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQWExPSDdqazJtNHMxbVJEMzBFMjhxVG9pS2lUd05ZeHFtM2FROVktYkFBb25mQmMwdXJFNTRlWXhiMkJtbWpVRDdYWVF3aXpSZE43Y2QxQzhHcXd5cmsta1pBOW02MG9abzE3N3M0czgxOFBQUEp5dXpEbzF5bmV3d3FTSUl6Y2N4ZFBxNUdpQUI0TkdjV25iOHl2MlpTMF9kLWdwNjczdjlMTk1XcHRNRS1LWDctUTE4NXpLMGdaWHZEM0dVaThvbWl2bUh3UjQtS2F3dTNJbWpPbTdKMkNZd0lFRjV5eDFGRHZHTzlJR3FQQjc1NVFFR01TSWhIREVrMkJEcGFMMzhiUmtMaFB6SFNVODR2NWdubktndmZucjctSTVyMGJyZ0NfOFpvNk0wbllQU1l4OGxRcGx5Z2d4NEtxd3RZUF9LYzZ6RHdqSnU0U3NZUnN1WDQ5NTZ2OE1jazBzZHoyLWltU090Q20xQWY3SVh1Yy1qUm91a2dIVzI0MTRJLUQ2dVFoZkNLUUxJUGRRSzF6R1lxS1RMck5kd3I3dHdmdw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-18T23:00:46+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "c78509534dcb",
       "title": "區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work",
