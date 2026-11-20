@@ -1,6 +1,34 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 8 個事件；高關注 4 個。
+過去24小時共 14 個事件；高關注 8 個。
+
+## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患
+- 類別：鼠患、政府政策及執法；地區：九龍城、元朗、尖沙咀
+- 摘要：食物環境衞生署（食環署）發言人今日（十一月二十日）表示，署方持續在全港各區推展「雷霆行動」和「天羅行動」，以專項巡查和精準措施全方位打擊鼠患問題，旨在堵截鼠患源頭，改善社區環境衞生。 自十一月四日開展的「雷霆行動」秉…（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000723.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5VVEtURmQyTWlMYlpjYVZOOVNPWWtjWE9BTTJTQ1pHR0hSbTlLRXRPcWcwdzBDeWc5YWxpa1lBSG1SVFBuODdXNHJPMGQ4V19XOEwwb0tuUzktVnBpVm5ELWNDMjk1N3g4dm5MQ2lzSjFfUQ?oc=5)
+
+## 【高】本港新增1宗基孔肯雅熱及2宗登革熱 全屬輸入個案
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：本港新增1宗基孔肯雅熱及2宗登革熱 全屬輸入個案（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[商業電台](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNEpnS3VneklhV2xmRWpJYm5LenRYNjFTS1ZIQ0RLVWZmOWs4UXNUS0xiWXQxekxWaElOcExzdXdvS0REdjM2R2Nid3pka2N0UFFj0gFYQVVfeXFMTmZWazA2WUZYanZlajN0d0Z0aUZla2ZRYTJUcVVRY3VJSzRlMkt2NFc0cHNXMWtLOS00czJhbGo0TERVZ29RQ25LN0prNk9BUS03Z0h4bnRLdA?oc=5)；[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)
+
+## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)
+
+## 【高】蚊患｜71歲翁內地回港後證染基孔肯雅熱 另錄兩宗登革熱個案患者均曾外遊
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：蚊患｜71歲翁內地回港後證染基孔肯雅熱 另錄兩宗登革熱個案患者均曾外遊
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi6wNBVV95cUxPbm9vVGJGbHhSZlEtRnczckNCeldsek5PXy00SF9BWjRzSmVXdDZlbVVpZkxCYzVYMHZYZjZERFBGRlJuQUJJdWpJenpZYXdCY1FSRURpVC1aZWVtX1VPa1ZxSG1lUjJuYkxKZWVReHl6WG12Z3RRdXlKODEtQm8xZWxvcWREMUlrVUR0RFNYVXFLZXZYWk5EQUh2UTRkaUtISjNLQm4xN0JIUW5nSEhyV0ZiSGs4VXRwZDQ0UU5wckxLaEJOd0FFd0swcHp2bjlvWjFFbEVUWGl3RWZGNHE3M1BmZ3hWQWNvdERMR21Fc01nQkpEQjQxcUljeFN1NE9DOTVhMUFmNEVhdnI1eWN1VWdzVmhDYXJHczk2QTJMOTd2eXJnRHNCWW8xc1hZYmVsa3E2OFNfTUdIUU5vck45NlNfb1lzR3hMb1d5RU1iMjhDSjlLa1ZqMWlYQWI2VGZ2YWdjRWRYZWR3b3BTVHBJNnJzNjNFUkd3WWVsYTFsQ3ZjblBXaUswdDZXZTBDS05KM09LMkczaU4yZEs2eTZ4NVRJbGxWUUdXbGNUVFI4OThqazdfLW4wNHVlQWdJWXJuRHBWWlo0WFJSYUJLNHBmbGFDdTBsOFJZTF9uQ0dHeU9zZEZTWVVDeEwtVQ?oc=5)
 
 ## 【高】天氣寒冷市民應注意健康
 - 類別：技術及藥劑、政府政策及執法；地區：未註明
@@ -32,10 +60,24 @@
 
 ## 【低】馬灣珀麗灣管理處被指放黏鼠膠板丟老鼠藥 大量雀鳥及野生動物遇害慘死
 - 類別：鼠患；地區：未註明
-- 摘要：香港動物報Hong Kong Animal Post
+- 摘要：香港動物報Hong Kong Animal Post（共 2 個來源報道）
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[- 香港動物報Hong Kong Animal Post](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZllnYzZtR2pvTjVzb3p1NkxIdFhvdUpKMXJTMVI2MERITFh2U0x2Y2xzNHN5Rl9vTnkzZlNFSWxSM3V1MllkOWZ4a3VDQ1Z1T3BQVXh6cw?oc=5)
+- 來源：[- 香港動物報Hong Kong Animal Post](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZllnYzZtR2pvTjVzb3p1NkxIdFhvdUpKMXJTMVI2MERITFh2U0x2Y2xzNHN5Rl9vTnkzZlNFSWxSM3V1MllkOWZ4a3VDQ1Z1T3BQVXh6cw?oc=5)；[Yahoo](https://news.google.com/rss/articles/CBMi1ANBVV95cUxPWXdXTGVfVnJkcE9heEo1ZW5kY3Z0Z2N1aHNhY0ZUT2ZIMzZ3WUxMcmwwLU9oeVN1WVY3R3ltOVJwUXlUeThyaGI3Y24xR29MMFZ1N04wU2pvQ0F4d2F1em4tcHR1VnJkb0dmV21wM2NMR0lVSWgwSUhYeUlKOVQ4cGMzMVVJNjdjM0xPWWhPWlNmRjdiZmJ5YjA4ZUdlbkNMQ2tlOHRxbnB4Y3ZQeEFRQVdqZG1PZVhHQ2lfZVlpRlBJN2hrSVFJNjg3czJ3Q2JvVGF5ZHNVWHJ3RXpvSWtDNXlBWGJzVV85VWlOcFk4RmI4NTl1NUQycFo3S2ZvbEh3aVZUOW1lU2I4MXExRG9NTVdlWnhiNWpGNHpMZUVkdkVGd0FianE1UkFScjNIaXNSU3o3Nzg2SFZjcl83S2JzNzVjYlBtVE1DS2pDVEVjODNobVBhbE9wWUJjTGp2R0pnUFYtVUlvc2xQTHNIUkxaYVp6MDF3WGh3dTJULVN1dXBmTERING1BNFd2RGZLTF9yaVhlZU9wUUR5eGxxcTdjZFd4aVBJVTFpbWdKNFp6X0pCNlpMNURhT2Y4eC1WaThzX1pBdm9pUUZzeGpqanRicVdsYWU?oc=5)
+
+## 【低】Hong Kong Reports New Dengue and Chikungunya Cases; Public Urged to Prevent Mosquito Bites
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：Hong Kong Reports New Dengue and Chikungunya Cases; Public Urged to Prevent Mosquito Bites
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOEtlRlhGc1pnSXpMNUluRXhvTjJjNTJ2ZHRSTFg2bVRrcEhxS2s3SkthTnVJTnFhYzJFckc4ZXRRNm9vdENBR3JYTTNSZWhobTN6LXZaekIxRkdLc05pXzU3dHFwYjRKd3FMNjNyQmhWVDJwQTVaV2VNTU9HbmNUNzQ2OGVpM1N2LUtlWjZiaVEzN1RCRVJwUGJWYlNHSXJkRmw2LTFSRFlabmFwSzNoX2I5bnpoZm5Kc1lCUWxfZnNzZjVQbjlGOGpUUnlFWHdvSlNoU3hjSlI?oc=5)
+
+## 【低】將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
+- 類別：蟑螂及室內害蟲；地區：將軍澳
+- 摘要：將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxOTHF2Tl9ZcTNNZzlwUE9JVkdRM1RVbng0djlRX3Q1NTJQQzdFQU8xc0o1eTRFaFNTSHpsSTF0TjVXd0M5bFRuWkh4WDBwaEFGWVdPQW8yZEF0akFJNmUyT29JRWZkRnRFeURZWllMZnBlMW5jRmpUYllaMTNHbl9fWlZfcEJ4emMzajQ2UXpXOEpncnlMR1hQQXRET2NyY2k5Q0twNF93aUdGcS1UUERuejcwcG53WlVKWWc2ckQ2RTZCWHh4cklVbFM3US05TzFEM1NYaDR1djhXOXQyR0dMSDhud08zcFdTNEtjSUpjYUo0SHFoTXVKekhUcl9KWk1xWnNnSFl5YVFWS0JGZUVVbXEySGZXZ0gxN1FqMHRVSWlxNW1iM09UamVENEV0SUVSR0d2RTdmcE1aYkd5bENfZ2lGZWwxcjlRTlpqcmpKZ2dPSHZmZS1WY1V2cll3dDFOdUFuUUJ0Rk9KakxuTGdkendacmppREk5cE9NNHJIY29MUlQ0WEpDSHZXNXhxYTU0blBrTGtEWnJBNENtMC0za003SkhhQmZXNEVtZXAyZWNkTkxIVjlSZkVWNm80QQ?oc=5)
 
 ## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
 - 類別：鼠患；地區：未註明
