@@ -1,6 +1,27 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 2 個事件；高關注 1 個。
+過去24小時共 8 個事件；高關注 4 個。
+
+## 【高】天氣寒冷市民應注意健康
+- 類別：技術及藥劑、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）表示，由於天氣寒冷，市民特別是重點人群包括長者、長期病患者、戶外工作人士、孕婦、嬰幼兒和兒童應採取適當措施，保障健康。 長者和長期病患者 ———————— 中心發言人表示…
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000316.htm)
+
+## 【高】香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
+- 類別：鼠患；地區：未註明
+- 摘要：香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR25paTZKeUNpVUxtSE1faTdRNzlwQzFFcl84ZXFxc1gxa25GTnVCd3paWjZOOGdjcEFfYUduWnF1UUpyRVNkRFl3OXNXSmxQNkE?oc=5)
+
+## 【高】鴨脷靼商場驚現老鼠
+- 類別：鼠患；地區：未註明
+- 摘要：鴨脷靼商場驚現老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[metrohk.com.hk](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0ZKWS1WUkF3VGJjRWpZdnp5Y21ZU2NpNGJ1R3NZOV9tN0lBSmJ2ZktMRV82Q1Z4d1BGR1A1N21oblVpSDBzRkNhcV84OUJ6Y211dnlMdHVQNFFrNDUzc1A1bzBwOUI3c0VZWG94QTNjMUIxckF2TGRaS2t1Y1ctUGNMYnNRTGZrYUloUGNRNHNobjZOZV8wZDQ4V01aVkpzNGppNEpXc0FjMldRWVpBd21aRVJUT1F3SUUzcXlCVHBLa21wZHNUSHpR?oc=5)
 
 ## 【高】香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟
 - 類別：鼠患；地區：未註明
@@ -9,9 +30,30 @@
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMiggNBVV95cUxOVEZybVpfVTZRdDBLV0VfcG0tdHpRVDN2UGhLUllhMmJhbG40SVFlLW10NmhkQnhUMDJfM0NFUTE4c2R4MzFQbTFfUlJ6VnhJTzlTUGIyMkplOExzMXByaXhuYkkxV0xuZkNuZGZQT1FRd3l1YWhMWTA2NkhjYnBIaU03OVZMcE8tZGttNzNlakVXWFVyMVFLV0hTMDRQR25uMTNtZWJ4Z2RYVVlWazd4MG1MTUR0MGZUbTRhVmRPZng2cW1HaktublR4VG1ZWGltSEx4bEwxZTFiMnZmWmZHX09lcnlRUGp5U3U4ZXJQLUROT3IzVWJXcUlwUDF3UzAyVEhNZFh6VGFoUDc2SllPVV9yWFF0ekhQMUZCeVBKMWtIZHFGMUVWZTg3X2JJQ3kzOUlGTHllU2E4ZGx6eDAzRDFZWElPZWppdERTQVhXYWlxbmQyclNRTExhWGp4azh5X1hRSkhXd0VzckFpY1ZWdEpJWkV6Y3YwbUcyaGp6azFfZw?oc=5)
 
-## 【低】5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片
+## 【低】馬灣珀麗灣管理處被指放黏鼠膠板丟老鼠藥 大量雀鳥及野生動物遇害慘死
 - 類別：鼠患；地區：未註明
-- 摘要：5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片
+- 摘要：香港動物報Hong Kong Animal Post
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[星島頭條](https://news.google.com/rss/articles/CBMipgNBVV95cUxQWExPSDdqazJtNHMxbVJEMzBFMjhxVG9pS2lUd05ZeHFtM2FROVktYkFBb25mQmMwdXJFNTRlWXhiMkJtbWpVRDdYWVF3aXpSZE43Y2QxQzhHcXd5cmsta1pBOW02MG9abzE3N3M0czgxOFBQUEp5dXpEbzF5bmV3d3FTSUl6Y2N4ZFBxNUdpQUI0TkdjV25iOHl2MlpTMF9kLWdwNjczdjlMTk1XcHRNRS1LWDctUTE4NXpLMGdaWHZEM0dVaThvbWl2bUh3UjQtS2F3dTNJbWpPbTdKMkNZd0lFRjV5eDFGRHZHTzlJR3FQQjc1NVFFR01TSWhIREVrMkJEcGFMMzhiUmtMaFB6SFNVODR2NWdubktndmZucjctSTVyMGJyZ0NfOFpvNk0wbllQU1l4OGxRcGx5Z2d4NEtxd3RZUF9LYzZ6RHdqSnU0U3NZUnN1WDQ5NTZ2OE1jazBzZHoyLWltU090Q20xQWY3SVh1Yy1qUm91a2dIVzI0MTRJLUQ2dVFoZkNLUUxJUGRRSzF6R1lxS1RMck5kd3I3dHdmdw?oc=5)
+- 來源：[- 香港動物報Hong Kong Animal Post](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tZllnYzZtR2pvTjVzb3p1NkxIdFhvdUpKMXJTMVI2MERITFh2U0x2Y2xzNHN5Rl9vTnkzZlNFSWxSM3V1MllkOWZ4a3VDQ1Z1T3BQVXh6cw?oc=5)
+
+## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
+- 類別：鼠患；地區：未註明
+- 摘要：甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMingNBVV95cUxOOTFJWVAxVHlzT2JyNTFnekRsZklJY0hzVUxtb0NrU2M0bU9pWmZRalJTdzZBYVgwek52cXhqMGtUVDVSV0VJYm9RWllDWWRMa19aSGEzeDlOYVBqUHcza3JrQUFsSXhLN3RfWkZnNmtwT3lZWkV3OWxBSFloeGxXM2U5QzlBa09CS3U0ZXpnSHBOOTAxUDB4MkZYeFNVT3dRMERsM19aMXkxYWRLYzdscHYwT1d2M0ZFTGxIWlNsRXF5TGNzV3FFUGtqbl9XeXFjRGM1Q01uX1d4Y3RLU1pfMWd6VmtSVWxNZ09jYk9rOWJsZmNrTHo5TWl6ZjZ0X2h6eDBxQWstRjlOTkNGV0pJT3Q5aE1lb0lNZjNwYUZxMF9yaFcwVVZUSE8yeXZWV0NqR3RGbl9weFRzOXdCR09hV0l6WTdKWTBGTl92TTlBdmJUSENjY2w3OW93eU41SGxXMkxBVWxNejVGN2JjS0tqeUJJQnByNUdNLWJZSktEWFVPWGdRVUdpajk4cDNjNVg0NVVObXk1SElMNUJsZnc?oc=5)
+
+## 【低】鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[信報網站](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMWN1bC1JU3pWRTRFSGxNSjlFOXVNZVBIZThBaFN6LTRlMkFKM3BjY1BoR2N2V0tmaVZtYlRGM2JhempZa2lkRlRYaDdKYUI4WWpoTHBWSVZ0ZXFuVmlLeFJGeFZzaG4tdXZsVXhGT05yem5XVUtEY3oxY0FxbVh2UHJDakUwWHVlb0NrdVE2QTVOdzB3MWUyYlJkN1BzMGdiSF9fNmd1akN1ZldzOXBxNGh3QTItYXJXWHcyWXg3OFBWeTZYcW5qWm0xTDlGSWw5X25kODhKU0FxY2gzQ3FWRy1heFBySldyUG5VZTVCMi1tU25wTFQ4a1RScFV1SDFVQlpGZ1lOWkZBczRBRThzQ0RfNnJ3eGw5Rk80dzdBM1A3ak5IcWc5dGxQbkwtbVJJVmFVOW5ZMUxfY2I3aHBzRFFzTDVHTnFRQ2ZSZFoyLWNsMngwTm9IbnFobWZ2VG9hZGlqbkpKcXBMWHB2?oc=5)
+
+## 【低】食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠
+- 類別：鼠患、政府政策及執法；地區：尖沙咀
+- 摘要：食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[i-CABLE](https://news.google.com/rss/articles/CBMigANBVV95cUxQYjNlVG5Qc2VsS0hFWTR1VHVVckdMQXlXTFYxOTlRVHZJYzdzVDhIM3RsQkVPUVVtV1dtbHVPMjdpSDRHeWNjcXlBOUxDVVE2T1JNWnVBZ0N1UDZnQ2hmaGlVTmUzM1BGVDFSOFV3SzBXZXlGYjRlNkVieE9yRnZZYjNPMXlNZk5pWW5QNTgyd0dUb3JoSDJGQjlsbERwUEhPWGF0TDFSd2RlLS1WUGFvazFIMllCSTNoeHllVm0zSUF2eEtLVy1mNl9RTVJyRFU1ZGVzc0Z1VE9aLU9sd25wYnlkUm02YkVFd0hISTBlWmQzRW1FU3prb0xaZHBVVDZaUU41U19uNXlnbm9aVF9zUjRpcEdNMVhyMEpfV2RtaVVnRmpYZkJWZHYxNlZVbkMyM0xWemtlc25sdkJCS2pEUWluV0Q4S1JrQWlEaFBhMjRlQWRpZmJZWDNkd2JROFBoeDA3dHp6QzluRVFRZk9SYUNxdXdsYktQUmdIOF9uY3U?oc=5)
