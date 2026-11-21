@@ -1,5 +1,36 @@
 [
   {
+    "id": "bab5ca6690c2",
+    "title": "港鐵尖沙咀站扶手電梯旁發現老鼠 網民關注車站衛生情況",
+    "description": "",
+    "first_seen": "2026-11-21T01:52:35+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "港鐵尖沙咀站扶手電梯旁發現老鼠 網民關注車站衛生情況",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNko5M2VwV2Q3SkZLeDZKNE9OZEdtQjlpa3I2YVZHWkR6ZzJzckVvYWVaR0VpV0htT3oyM29ZWjJiWG1zMzliUl9pS0diR0hTRGJaNWtJdHE1R0R1amdacXhmQ0p6TjlKaVdTOVpHMlJpSTZuZmUzRnZJUW5VU2pfT1BiN3hzcjNHMkhYQkg0UkVZWVpw?oc=5",
+        "media": "Singtaousa",
+        "published": "2026-11-21T01:52:35+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "尖沙咀"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "港鐵尖沙咀站扶手電梯旁發現老鼠 網民關注車站衛生情況",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-21T05:51:49.977804+00:00"
+  },
+  {
     "id": "216b00275a08",
     "title": "FEHD steps up territory-wide anti-rodent blitzes across parks and malls",
     "description": "",
@@ -58,6 +89,35 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-20T22:44:11.750561+00:00"
+  },
+  {
+    "id": "249288ead3b0",
+    "title": "Mosquito Gene Variant Boosts Malaria Spread Risk",
+    "description": "",
+    "first_seen": "2026-11-20T19:13:16+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "Mosquito Gene Variant Boosts Malaria Spread Risk",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2lscFM4eXpKWkY1VWpMUWstVEFIM2pseWp3Qm80Qks5ZHctaWtlZzJjaE5OdHFUWkhOcFU1Tk4zeHB0SmduQjljOS1QTFlxMUJEenhpbjhEcHdJR1pIN041d05sRFJnN2ZpUHYzVjR5VW1mWHM1bzM3S3BrUGhqSnBqcnd2TFhKRzZDc3JISm9XMXc?oc=5",
+        "media": "Wisevoter",
+        "published": "2026-11-20T19:13:16+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "Mosquito Gene Variant Boosts Malaria Spread Risk",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-21T05:51:49.977804+00:00"
   },
   {
     "id": "5fbe1adcc3f2",
@@ -230,6 +290,13 @@
         "media": "TVB",
         "published": "2026-11-20T15:26:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "本港錄兩宗登革熱及一宗基孔肯雅熱個案 衞防中心指全為外地傳入",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTGtrdTNtTGdLbHlPRklQcUJ3dGp5bHNkS2ltWHVvcmVjSkE5cFpCdjE0emJ2bmhvOTRBTm1UdFM3QVRkY0ZISFFiVzRYOHdobVZQT0I4TFhndEVYZ2dtRmNIaFRwQTd5TjB6Q2ZyOUliVXJlSTRPd0tLNDR2eGZPVTdOcm12Z1dCQTRIQ3RMZmR2TzkzMjJFdEdPNVRzeHdGNmlJOWU5b1lvN3c5Z2t4UDlFbnY0RFNiaE56RkU0bVkyaTE2YzNzR0U0dzZvMF90aWJJaDZnRTI1eVdTSm93TUt2MEhRNWt1VnR5ZHB4Yl9VOTcybDZ6X2lxUXNfdjdCNDM3SnZJblR0Mll4UTcwa3NrMXEtNFRKU1BHdW5oY0dBQ1BXZGxwcURVNUFlSmtQWDd1bldydDN2d1BqcW01VlJCbkdXU3hrbFBEQjRRTEhfNXpPMl8wVG5xdGwzajFsVlkyMTFwMGJQVDBhN2tv?oc=5",
+        "media": "巴士的報",
+        "published": "2026-11-20T12:21:59+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -240,11 +307,11 @@
     "districts": [],
     "priority": "高",
     "priority_reason": "登革熱、基孔肯雅熱",
-    "summary": "本港錄得兩宗登革熱及一宗基孔肯雅熱個案 均為外地傳入（共 2 個來源報道）",
+    "summary": "本港錄得兩宗登革熱及一宗基孔肯雅熱個案 均為外地傳入（共 3 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:44:11.750561+00:00"
+    "updated": "2026-11-21T05:51:49.977804+00:00"
   },
   {
     "id": "928710a38405",
@@ -349,6 +416,13 @@
         "media": "Sing Tao Daily 星島日報加拿大",
         "published": "2026-11-20T13:53:59+00:00",
         "tier": "media"
+      },
+      {
+        "title": "食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKaWxwc1pnZ1NMWDNUQnJkNzd0a25RQzJMazBNV3k2RWlnekhKOG5yRHpkbDBCX3VmUFR6VTFCMnhuWUxWMkFsbXVqZDN3bHk3MFU5LTQ0QlJrTXduRE03d0ZlLUJnUGx1QVR2WERNczdzWkN1?oc=5",
+        "media": "風火輪傳媒有限公司",
+        "published": "2026-11-21T00:47:03+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -364,11 +438,41 @@
     ],
     "priority": "高",
     "priority_reason": "檢控、消除蟲鼠通知、商場",
-    "summary": "食物環境衞生署（食環署）發言人今日（十一月二十日）表示，署方持續在全港各區推展「雷霆行動」和「天羅行動」，以專項巡查和精準措施全方位打擊鼠患問題，旨在堵截鼠患源頭，改善社區環境衞生。 自十一月四日開展的「雷霆行動」秉…（共 4 個來源報道）",
+    "summary": "食物環境衞生署（食環署）發言人今日（十一月二十日）表示，署方持續在全港各區推展「雷霆行動」和「天羅行動」，以專項巡查和精準措施全方位打擊鼠患問題，旨在堵截鼠患源頭，改善社區環境衞生。 自十一月四日開展的「雷霆行動」秉…（共 5 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:44:11.750561+00:00"
+    "updated": "2026-11-21T05:51:49.977804+00:00"
+  },
+  {
+    "id": "9023399e3464",
+    "title": "寶琳新都城中心快餐店鐵鍋現疑似曱甴 食客指食環署將派員並保留物證",
+    "description": "",
+    "first_seen": "2026-11-20T10:31:11+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "寶琳新都城中心快餐店鐵鍋現疑似曱甴 食客指食環署將派員並保留物證",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQNWM0QzA2S21WekptTGxWeG1BRTdaNWdKUExTQjZRWUNMVXNnT0htclNqbDNCUk9QcGx1bG1fbGV6UzJ5bTRDd3lXVDh2TEdIZVd5RDhacnZYSnpjVXlabmplQTlldGNJT1ZybXUxRFNtNFk4dkctYkxYVlExMTN5Y250d0NRWWkxUVkzWFZGeHdqZlBkRy00djJCNFJGS01DR1pjVy1jSXVINDNYTEpvSDI4a2RmMW9VY2xadWRPYmNSWC1NV3htRDktQjN1dmE5d19qNjVJYkh1T3VGMlctVS1Id3pzVzVaMkdJbzI2TmUxYll0Y3VNTEVEeDg3WmNyN1QySVQzLW93MkxBLVctUmRLYWRLa0l4RjJxRlhFN0V0d20xSy1sUVBlUjlrSmFMYTA1eVdlTWliVnp0MVhYMEo0Wjh2MVNPYjFYTmZNRDVCclFHUUxSZVdqY1AtM3p4ZFNqWkYwOWpSNnlrd1MzNHZJZVFSX3JpRmtQZWlnM1c?oc=5",
+        "media": "GOtrip.hk",
+        "published": "2026-11-20T10:31:11+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "蟑螂及室內害蟲",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "寶琳新都城中心快餐店鐵鍋現疑似曱甴 食客指食環署將派員並保留物證",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-21T05:51:49.977804+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -397,7 +501,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:44:11.750561+00:00"
+    "updated": "2026-11-21T05:51:49.977804+00:00"
   },
   {
     "id": "2815cbdffd82",
@@ -433,7 +537,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:44:11.750561+00:00"
+    "updated": "2026-11-21T05:51:49.977804+00:00"
   },
   {
     "id": "f22fe73fe929",
