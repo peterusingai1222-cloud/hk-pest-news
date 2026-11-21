@@ -348,7 +348,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:44:11.750561+00:00"
+    "updated": "2026-11-21T11:31:53.241703+00:00"
   },
   {
     "id": "a25c9cc956bb",
@@ -588,6 +588,13 @@
         "media": "香港政府資訊中心",
         "published": "2026-11-20T10:11:13+00:00",
         "tier": "official"
+      },
+      {
+        "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWmhIZTBLTUtTRUJOQTlIMUJQUW9Wa2JhNmFTNExid3JIeTJlUHhQcU5YOEFBMkJQQW9IeVRaVzRuaFFKU2huV3JwampzZjhVSVlCbUlGZE13eUdpWFlveXg2VVFoOWctcUxCd0dhek5uN3c?oc=5",
+        "media": "www.info.gov.hk",
+        "published": "2026-11-21T07:53:44+00:00",
+        "tier": "official"
       }
     ],
     "needs_resummary": false,
@@ -599,11 +606,11 @@
     "districts": [],
     "priority": "高",
     "priority_reason": "登革熱、基孔肯雅熱、本地個案",
-    "summary": "衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 2 個來源報道）",
+    "summary": "衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 3 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T11:44:06.860123+00:00"
+    "updated": "2026-11-21T11:31:53.241703+00:00"
   },
   {
     "id": "9f286b4f1ee8",

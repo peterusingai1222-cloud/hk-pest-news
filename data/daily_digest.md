@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 27 個事件；高關注 10 個。
+過去24小時共 25 個事件；高關注 8 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患
 - 類別：鼠患、政府政策及執法；地區：九龍城、元朗、尖沙咀
@@ -16,19 +16,19 @@
 - 狀態：已發布
 - 來源：[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5)；[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSTlPNU9uZ290WHB2Wi0wdGg4X2VEeG1uZGw1c2N0LVJlMnFBaDdoVHFPNXhReGI2UmVua3dqLVYta0VUVlpwam1rWjlYMEFMYzQ2UWliSmo5U1FZYUN6bkZ3ODNlZGJ2RWN6aHh3UDEyLWxIQjlEWGZLaVI2YU1FcFBJZ2ZPWnMweFV3a1VHeDFlUFY1YmdGYlJTMmttVGNDend4dFI3a0ZJa21iWUFlc21peW1jOENKYkdzZk9wSVlfZDBsZGZMQVlsQXU5V1BQTzUtanNkUGhWLUpiMlNoUnNRVEZOclVkcXcwcmlRdUtzdDg4WW9pYjc1MVFHUGFEYURYeG51UUtQMjZWdGJlTTN6ZVBKTzVZZ1dvN0ItQ2llckd2TWttcDAtMERoQ2pEaHdQUjhYdVg0V3owdjlkWHAweWJRSms3eEFHc0VIOGNIMEVZQVUxaFZoNA?oc=5)；[巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTGtrdTNtTGdLbHlPRklQcUJ3dGp5bHNkS2ltWHVvcmVjSkE5cFpCdjE0emJ2bmhvOTRBTm1UdFM3QVRkY0ZISFFiVzRYOHdobVZQT0I4TFhndEVYZ2dtRmNIaFRwQTd5TjB6Q2ZyOUliVXJlSTRPd0tLNDR2eGZPVTdOcm12Z1dCQTRIQ3RMZmR2TzkzMjJFdEdPNVRzeHdGNmlJOWU5b1lvN3c5Z2t4UDlFbnY0RFNiaE56RkU0bVkyaTE2YzNzR0U0dzZvMF90aWJJaDZnRTI1eVdTSm93TUt2MEhRNWt1VnR5ZHB4Yl9VOTcybDZ6X2lxUXNfdjdCNDM3SnZJblR0Mll4UTcwa3NrMXEtNFRKU1BHdW5oY0dBQ1BXZGxwcURVNUFlSmtQWDd1bldydDN2d1BqcW01VlJCbkdXU3hrbFBEQjRRTEhfNXpPMl8wVG5xdGwzajFsVlkyMTFwMGJQVDBhN2tv?oc=5)
 
+## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 3 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWmhIZTBLTUtTRUJOQTlIMUJQUW9Wa2JhNmFTNExid3JIeTJlUHhQcU5YOEFBMkJQQW9IeVRaVzRuaFFKU2huV3JwampzZjhVSVlCbUlGZE13eUdpWFlveXg2VVFoOWctcUxCd0dhek5uN3c?oc=5)
+
 ## 【高】本港新增1宗基孔肯雅熱及2宗登革熱 全屬輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
 - 摘要：本港新增1宗基孔肯雅熱及2宗登革熱 全屬輸入個案（共 2 個來源報道）
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[商業電台](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNEpnS3VneklhV2xmRWpJYm5LenRYNjFTS1ZIQ0RLVWZmOWs4UXNUS0xiWXQxekxWaElOcExzdXdvS0REdjM2R2Nid3pka2N0UFFj0gFYQVVfeXFMTmZWazA2WUZYanZlajN0d0Z0aUZla2ZRYTJUcVVRY3VJSzRlMkt2NFc0cHNXMWtLOS00czJhbGo0TERVZ29RQ25LN0prNk9BUS03Z0h4bnRLdA?oc=5)；[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)
-
-## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
-- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)
 
 ## 【高】將軍澳大家樂西多士疑現曱甴 生猛程度嚇窒網民 食環署：已檢控
 - 類別：蟑螂及室內害蟲、政府政策及執法；地區：將軍澳
@@ -44,26 +44,12 @@
 - 狀態：已發布
 - 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi6wNBVV95cUxPbm9vVGJGbHhSZlEtRnczckNCeldsek5PXy00SF9BWjRzSmVXdDZlbVVpZkxCYzVYMHZYZjZERFBGRlJuQUJJdWpJenpZYXdCY1FSRURpVC1aZWVtX1VPa1ZxSG1lUjJuYkxKZWVReHl6WG12Z3RRdXlKODEtQm8xZWxvcWREMUlrVUR0RFNYVXFLZXZYWk5EQUh2UTRkaUtISjNLQm4xN0JIUW5nSEhyV0ZiSGs4VXRwZDQ0UU5wckxLaEJOd0FFd0swcHp2bjlvWjFFbEVUWGl3RWZGNHE3M1BmZ3hWQWNvdERMR21Fc01nQkpEQjQxcUljeFN1NE9DOTVhMUFmNEVhdnI1eWN1VWdzVmhDYXJHczk2QTJMOTd2eXJnRHNCWW8xc1hZYmVsa3E2OFNfTUdIUU5vck45NlNfb1lzR3hMb1d5RU1iMjhDSjlLa1ZqMWlYQWI2VGZ2YWdjRWRYZWR3b3BTVHBJNnJzNjNFUkd3WWVsYTFsQ3ZjblBXaUswdDZXZTBDS05KM09LMkczaU4yZEs2eTZ4NVRJbGxWUUdXbGNUVFI4OThqazdfLW4wNHVlQWdJWXJuRHBWWlo0WFJSYUJLNHBmbGFDdTBsOFJZTF9uQ0dHeU9zZEZTWVVDeEwtVQ?oc=5)
 
-## 【高】天氣寒冷市民應注意健康
-- 類別：技術及藥劑、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）表示，由於天氣寒冷，市民特別是重點人群包括長者、長期病患者、戶外工作人士、孕婦、嬰幼兒和兒童應採取適當措施，保障健康。 長者和長期病患者 ———————— 中心發言人表示…
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000316.htm)
-
 ## 【高】香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
 - 類別：鼠患；地區：未註明
 - 摘要：香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR25paTZKeUNpVUxtSE1faTdRNzlwQzFFcl84ZXFxc1gxa25GTnVCd3paWjZOOGdjcEFfYUduWnF1UUpyRVNkRFl3OXNXSmxQNkE?oc=5)
-
-## 【高】鴨脷靼商場驚現老鼠
-- 類別：鼠患；地區：未註明
-- 摘要：鴨脷靼商場驚現老鼠
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[metrohk.com.hk](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0ZKWS1WUkF3VGJjRWpZdnp5Y21ZU2NpNGJ1R3NZOV9tN0lBSmJ2ZktMRV82Q1Z4d1BGR1A1N21oblVpSDBzRkNhcV84OUJ6Y211dnlMdHVQNFFrNDUzc1A1bzBwOUI3c0VZWG94QTNjMUIxckF2TGRaS2t1Y1ctUGNMYnNRTGZrYUloUGNRNHNobjZOZV8wZDQ4V01aVkpzNGppNEpXc0FjMldRWVpBd21aRVJUT1F3SUUzcXlCVHBLa21wZHNUSHpR?oc=5)
 
 ## 【高】香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟
 - 類別：鼠患；地區：未註明
