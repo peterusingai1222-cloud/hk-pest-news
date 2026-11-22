@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-22）
 
-過去24小時共 8 個事件；高關注 3 個。
+過去24小時共 10 個事件；高關注 3 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患
 - 類別：鼠患、政府政策及執法；地區：九龍城、元朗、尖沙咀
@@ -50,6 +50,20 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwANBVV95cUxPMWlQcWp0RlpwTDNVdmJ1b3RtNUJZeHFZU3FndmdUbHh3bDgwcHpzRWU0Y0NWeVBXRFlxbmJrV0tHdHphZnRzRkpQc0JaZ015enRpSnBJZkNmdk5aV2czNDlZTC1sTjlFM296azgzYkp0clJITmswZGVDQmFLZG0tZENKT2dBMTk1MG9ZTEtJdG5HRFRXWmJ4MDNOczBLVFhUQkhfY05rYjB0T0J6R1hjVlRUVlhFNkRDbTdfVGhjcEQ5Vll6TnplWUI0SWM1OUZRQWtPX3c4aFpWRVA1cWdPZks5Z0VSaS1HclVfMm5pNWF2bzBGb2dmNDY0NmZnTk9nRzYydmZPQ1dRUE5HVmZDR2t6VHBqX0Nia2kwRjBtRk1wc2ZQWjJpS2VhUVZXQU02R0hDSUtTY2FzeUJ4aGRvRkY5dFlLdmotUlZRZUtVSDRORVVRQ1h5TEtiRE5YYVJzT0c2ZXE5U1BobzA3ZXBZS2NPREtSV2FwbmFqbjFVWktMT1FhTWU0VnNGS1pFdmw4cWVnQjg4N3V3R2s5a3ZoNUNicWtOVHB4QlZQSUNveEJ4aFRsbzFYQW8wZXp6cWxJ?oc=5)；[商業電台](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CamtIU0lmMXlOZEl5dmZuZUw1R3VudFNxYXRYVGdyYmVkLTlhZE9CMWNxLXlOOGV4bnRfU2ltclZhd3BpNFJmQUk1TkhzQ0hvZGd30gFYQVVfeXFMTXRNTXlUZl8xUmpXRE14Q25fSEltTHhRc0JGYUc5Wl9xOWNzWDV5S29WR1hlVlFjOTNLVGY0aC12WXFlZ3B1SVBIbVJnUUpMakJyOWlnakt2Yw?oc=5)
+
+## 【低】天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUTVfODByeUVpamdUQ3JVMF9uakk4dVRHTzAwWlNxWGdaRHE2d3IwMDhhRC1xNVVvSDJXdzFXLWU5VHJibFF0UklsSFlRUUdXbjNvMkg2RXNDb2dZb3gtOS1jeTRvQzF4UTQ5Tl9wSjhMeVFqbjcw?oc=5)
+
+## 【低】食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[巴士的報](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdFhJMDlranA3ZW1ZLS1jV1hobUp5TU94RGtyYzBqQjd1YzRUQl8waGJidzNMYzg0YUZfemNLRkFDV1BKay1DZ1FfUktTM3FyUVFJaTUxY3NyNnBrUkVuM0EwVWNvYUMwUmxleV9lOWRxYzNrMXZiZE80cjZ1elFHa3JkWlM3ZkVqY0sxSG83Ym9PNTN0RlRIZXluR2RWUG5oNnJWYlQtOTN6Njd5UGVQYXdoVUJRYUxiOEYzQzlWZjlXZGlEWHRjNmF0VDdhMEd4SDBUMzZ3RmJ1UVFRTGh4ZnN0LTJyS1QtZ0wxNEN6WGIwZWRTSlFPQVcxZTFjQnFjeXNfZHBpTEVETUc1VHJvU1VkVmRWWUFSMWRqZHFsNjMwbmEzOV9RY3Bya3VmOVdha2FzbUk5Nmo?oc=5)
 
 ## 【低】道具蟑螂太潮濕全滅 劇組衝地下道現抓百隻大軍 《善男信女》驚爆「為民除害」
 - 類別：蟑螂及室內害蟲；地區：未註明

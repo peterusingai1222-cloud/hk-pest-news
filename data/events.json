@@ -1,5 +1,64 @@
 [
   {
+    "id": "679bc249f0b9",
+    "title": "天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌",
+    "description": "",
+    "first_seen": "2026-11-22T09:30:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUTVfODByeUVpamdUQ3JVMF9uakk4dVRHTzAwWlNxWGdaRHE2d3IwMDhhRC1xNVVvSDJXdzFXLWU5VHJibFF0UklsSFlRUUdXbjNvMkg2RXNDb2dZb3gtOS1jeTRvQzF4UTQ5Tl9wSjhMeVFqbjcw?oc=5",
+        "media": "香港文匯報",
+        "published": "2026-11-22T09:30:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 6,
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T11:31:14.529799+00:00"
+  },
+  {
+    "id": "f84f86a01f6b",
+    "title": "食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠",
+    "description": "",
+    "first_seen": "2026-11-22T01:32:30+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdFhJMDlranA3ZW1ZLS1jV1hobUp5TU94RGtyYzBqQjd1YzRUQl8waGJidzNMYzg0YUZfemNLRkFDV1BKay1DZ1FfUktTM3FyUVFJaTUxY3NyNnBrUkVuM0EwVWNvYUMwUmxleV9lOWRxYzNrMXZiZE80cjZ1elFHa3JkWlM3ZkVqY0sxSG83Ym9PNTN0RlRIZXluR2RWUG5oNnJWYlQtOTN6Njd5UGVQYXdoVUJRYUxiOEYzQzlWZjlXZGlEWHRjNmF0VDdhMEd4SDBUMzZ3RmJ1UVFRTGh4ZnN0LTJyS1QtZ0wxNEN6WGIwZWRTSlFPQVcxZTFjQnFjeXNfZHBpTEVETUc1VHJvU1VkVmRWWUFSMWRqZHFsNjMwbmEzOV9RY3Bya3VmOVdha2FzbUk5Nmo?oc=5",
+        "media": "巴士的報",
+        "published": "2026-11-22T01:32:30+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T11:31:14.529799+00:00"
+  },
+  {
     "id": "cfc3cbc6ae93",
     "title": "有片｜土瓜灣快餐店驚現兩大老鼠爬圍板互相依偎 網民：好多老鼠",
     "description": "",
