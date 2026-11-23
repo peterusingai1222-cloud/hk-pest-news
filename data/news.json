@@ -1,7 +1,76 @@
 {
-  "generated": "2026-11-22T22:40:55.884700+00:00",
-  "count": 42,
+  "generated": "2026-11-23T06:01:38.434044+00:00",
+  "count": 46,
   "items": [
+    {
+      "id": "11832065814e",
+      "title": "悉尼發現第二個紅火蟻巢穴 或已存在一年",
+      "summary": "悉尼發現第二個紅火蟻巢穴 或已存在一年",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "樹木及戶外蟲害"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-23T01:50:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "悉尼發現第二個紅火蟻巢穴 或已存在一年",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbTZrNUdzeVowQTFPVWNSakRqb3huZ3FqNWhtUTlWbWllZVhscFFvZ0MwYUtNVTVlc1laM0lwRlFkWVZxeER1Zjd3SW5raGlxeExHbjR0eGpDRUxyY0tlYXpIWjlmMmfSAWdBVV95cUxOb202azVHc3laMEExT1VjUmpEam94bmdxajVobVE5Vm1pZWVYbHBRb2dDMGFLTVU1ZXNZWjNJcEZRZFlWcXhEdWY3d0lua2hpcXhMR240dHhqQ0VMcmNLZWF6SFo5ZjJn?oc=5",
+          "media": "大紀元",
+          "published": "2026-11-23T01:50:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "a7bf1f4720aa",
+      "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+      "summary": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-23T00:00:29+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPS0xveFJPS2llVVpLaHNpaFdBMGR0ZUYzNFhFdTRrNzBpTkdNckhUVkxoQWhXT1c4Y0tJd1J3d2Zvem9fZC1lcFJsX0JBQ1BxSFFueFJad0JOcm02UnlxbTNwdTZSWEUtV2Flb3BRUndIQWpJWHBSeDRXbzVIWEdkZ2hkekxkeGMwU1Yzd2REQzB0LXhpaV9UUlJmVmFhanFOd2F3c2hZR0U4bGxDbHJGcjltSjU3OXM0VnJNS3FsdmdaV0RpWFpBVm9CLWVQQ1pRekhDa2haN3pwaThSanpvRE9MV0E3cXppcDZHTnVhYVFfZWlxNURzbnlBUHA1RlN0RllENGJfdFU3Sk1FanpWeGVJOERscG4zSmxUV2R4UXY0bFh0aE5tTGdQbXh3dVlLTld1anVuQ1Y3UFc3eUFOSmRFdVgxd3VEbVI5YzZXZHZyWk5PcEVoMVo4SkFOT05iNm1TalVLTTB4bU9Qa0M1U0tIdGI0ejJ3azB1d29BUkRxWjc2a0E4SjFnRDR6RWZJZjhORjRHZ1RBalFyY3pXWm80dG1OUQ?oc=5",
+          "media": "香港01",
+          "published": "2026-11-23T00:00:29+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "d399520a777d",
+      "title": "聖嬰現象恐延續至明年春季 臺南強化環境巡查防範登革熱疫情",
+      "summary": "聖嬰現象恐延續至明年春季 臺南強化環境巡查防範登革熱疫情",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-22T23:45:29+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "聖嬰現象恐延續至明年春季 臺南強化環境巡查防範登革熱疫情",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcC15a3pITkJNVEtpTGhDbi1hOFdKSjI4ck8ycFlrU1VzQm1pREhlR1ltVDc0MzczcGt0M3dVbXRvRHNBdkpCdkZOTkNnaC0xa2c?oc=5",
+          "media": "蕃新聞",
+          "published": "2026-11-22T23:45:29+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "21dc60e88bcf",
       "title": "土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控",
@@ -31,6 +100,31 @@
           "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOG5qWGpQMWwxSThucnFJYjVvb1M4RzJPaDZldzlZR0h0RnhuVlZHVFNhcko2OURxanRWSVROWl9NZTk1bUpIRGxsTWoxV1VpTUU4dUlRSFpxeEtHdDJwZ1RfTVhCczNOSHpTMERVczZDTkprVGs5UWkzTW0xbkdmV0xKamdRSktuOWh1V04xaE53dGRySGV1RFBjVEFZUlhfYWYtN2F1VGpEcHZPS0lmRDF6SS14djFXT3l0RHJOV0tiZGVaRXc4SHFuM3E5bmtrMFNVSjlUWXRkdjE1d2ZRckhVV0RxLTB3QWswRjhvZzc3aGlmQ1JTSGJQTksxQklsR1dtTXNlN3JGQVBZd01zUUk1WlhENHdtTG9XYzRtUjFJTkZ5bjl0bWtpVV9HWVk3eGdBa0RqMzdDZTJiUjdsbVFuMXZFRWkybWliRHVBcldiM3JPNWZFbXFTNm1uaGZodlBEZjI4TDRCekxxbWltWHZIN3dCTFhMRS05c29jN1ZnR0JHSGc?oc=5",
           "media": "AM730",
           "published": "2026-11-22T14:20:30+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "535817e4c6d7",
+      "title": "東張西望跟進｜土瓜灣連鎖快餐店關門後驚現兩隻大老鼠「共舞」 網民驚呼「好大隻好恐怖」",
+      "summary": "東張西望跟進｜土瓜灣連鎖快餐店關門後驚現兩隻大老鼠「共舞」 網民驚呼「好大隻好恐怖」",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "土瓜灣"
+      ],
+      "first_seen": "2026-11-22T11:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "東張西望跟進｜土瓜灣連鎖快餐店關門後驚現兩隻大老鼠「共舞」 網民驚呼「好大隻好恐怖」",
+          "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxOLWJoa05FdkhyVDFEdFd5YUVNOFFKc2Y1Szh2eEVtLW8tMGRYVGdGQXZ0NUdHcVFDR3Fvam82UmZyN2FNT3BjV3FaWldDWUEySWF5TjlENlZ4eENkRWE5alNDRkY4elZBbm5MRU5qZHN0V1FHS1lJQ195a3ItM0JNeHBETGJ1aDIxWFF1Uy1fV1NHNnY2MjlXMXlBSVJza3dEVFJ0ZkU5NFk4cUhZdmRmd1J6UVJEbHo0cTZFTm9mUXJEZ1NrV3lBd0FTU3UzV21CVmRxTjViSGQyNjVzUmU0NFVqZjdkNzNrSW5NQkdQTlFobWhDdEpUbGhpa1dyYk1HSXhQLTBMT3hBQkVLWGNZcktESTFXMmZWT2MtVl9ibWQ0d3R1Nmo5WVdLREN4UjFzbWRGZXpoTEZoREpkMHhmWWEydUlLMDJwSUk3alE5UGFBUTVRZW1uMEo0YVJhTGs5UUdlZzNUa01OLTMxamp2MDlZcnEwZWRoZGw3RGVJakc2SGpSRWlGaWdLNnU3U0dvcHphVHRvb1QzellZTEk0c1JlM3FoZUp1azAtS0lnODdKNVEyTzJfMTgxYy1KZm1SLWxhemlyOHVkSndxdC1rZVZJZUJWeEI1OS1mQWVycGlCLWhSRlI3VXlUeW9ZUS1Gb3lFOGwwRGxIT3htZW1Ya05sSVM3ZmlrSmdlcmRlcnRtZndxREp3V2lqeHZWa1o4aTBKVDlIYm90N3kxNlJJX1hZRWxvRENFYzBVa0U5c0VNcWIyZ1BHcTFrLWRROWU5emdVMkx1UzdxRjh6LUw1TC1B?oc=5",
+          "media": "myTV SUPER",
+          "published": "2026-11-22T11:00:00+00:00",
           "tier": "media"
         }
       ]
