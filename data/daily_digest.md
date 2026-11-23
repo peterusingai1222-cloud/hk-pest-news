@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-23）
 
-過去24小時共 9 個事件；高關注 3 個。
+過去24小時共 7 個事件；高關注 3 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：土瓜灣
@@ -50,17 +50,3 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi4gRBVV95cUxOLWJoa05FdkhyVDFEdFd5YUVNOFFKc2Y1Szh2eEVtLW8tMGRYVGdGQXZ0NUdHcVFDR3Fvam82UmZyN2FNT3BjV3FaWldDWUEySWF5TjlENlZ4eENkRWE5alNDRkY4elZBbm5MRU5qZHN0V1FHS1lJQ195a3ItM0JNeHBETGJ1aDIxWFF1Uy1fV1NHNnY2MjlXMXlBSVJza3dEVFJ0ZkU5NFk4cUhZdmRmd1J6UVJEbHo0cTZFTm9mUXJEZ1NrV3lBd0FTU3UzV21CVmRxTjViSGQyNjVzUmU0NFVqZjdkNzNrSW5NQkdQTlFobWhDdEpUbGhpa1dyYk1HSXhQLTBMT3hBQkVLWGNZcktESTFXMmZWT2MtVl9ibWQ0d3R1Nmo5WVdLREN4UjFzbWRGZXpoTEZoREpkMHhmWWEydUlLMDJwSUk3alE5UGFBUTVRZW1uMEo0YVJhTGs5UUdlZzNUa01OLTMxamp2MDlZcnEwZWRoZGw3RGVJakc2SGpSRWlGaWdLNnU3U0dvcHphVHRvb1QzellZTEk0c1JlM3FoZUp1azAtS0lnODdKNVEyTzJfMTgxYy1KZm1SLWxhemlyOHVkSndxdC1rZVZJZUJWeEI1OS1mQWVycGlCLWhSRlI3VXlUeW9ZUS1Gb3lFOGwwRGxIT3htZW1Ya05sSVM3ZmlrSmdlcmRlcnRtZndxREp3V2lqeHZWa1o4aTBKVDlIYm90N3kxNlJJX1hZRWxvRENFYzBVa0U5c0VNcWIyZ1BHcTFrLWRROWU5emdVMkx1UzdxRjh6LUw1TC1B?oc=5)
-
-## 【低】天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUTVfODByeUVpamdUQ3JVMF9uakk4dVRHTzAwWlNxWGdaRHE2d3IwMDhhRC1xNVVvSDJXdzFXLWU5VHJibFF0UklsSFlRUUdXbjNvMkg2RXNDb2dZb3gtOS1jeTRvQzF4UTQ5Tl9wSjhMeVFqbjcw?oc=5)
-
-## 【低】食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署太子滅鼠3個月 檢獲近400 隻活鼠死鼠
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[巴士的報](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNdFhJMDlranA3ZW1ZLS1jV1hobUp5TU94RGtyYzBqQjd1YzRUQl8waGJidzNMYzg0YUZfemNLRkFDV1BKay1DZ1FfUktTM3FyUVFJaTUxY3NyNnBrUkVuM0EwVWNvYUMwUmxleV9lOWRxYzNrMXZiZE80cjZ1elFHa3JkWlM3ZkVqY0sxSG83Ym9PNTN0RlRIZXluR2RWUG5oNnJWYlQtOTN6Njd5UGVQYXdoVUJRYUxiOEYzQzlWZjlXZGlEWHRjNmF0VDdhMEd4SDBUMzZ3RmJ1UVFRTGh4ZnN0LTJyS1QtZ0wxNEN6WGIwZWRTSlFPQVcxZTFjQnFjeXNfZHBpTEVETUc1VHJvU1VkVmRWWUFSMWRqZHFsNjMwbmEzOV9RY3Bya3VmOVdha2FzbUk5Nmo?oc=5)
