@@ -1,5 +1,35 @@
 [
   {
+    "id": "f6e6c222e180",
+    "title": "康文署維園展開綜合防治鼠患 邀食環署聯合視察",
+    "description": "",
+    "first_seen": "2026-11-24T01:52:21+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "康文署維園展開綜合防治鼠患 邀食環署聯合視察",
+        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQbzRpZFZFMGhFR3loY1dVOUkyZU1KYmhhRWtqTTFqNVFhQnJfY1FVdDduLThCX2ZsVFFYRHdzLTdJdHpjLXZCOVFYbHRFTW9WYWx0U1FkNk8wdU9TSzUtM2xNRzJwel84anllZE9hSUlSZEE4b05ZNndMUlZJRlhxVFdNb0dhMHZCMmVYeVcwekJtakRQZ1hkVDhQbkJSS0M5amwzSUtKRWZQXzFCYkdNZVNVTFFCNnkwUlZqWHpzS2VHcXpRNFJLb1d4OV91b3BwajBDdnZ1ajRDZVF2N0cwVVlGUmdrdWMyaEhPaDhSOFdGeUhQVVJmeER3QjZ5S0x6dnlQNUVadWcwUEVhWHBhNlRTNjNHSFJLdm8tdHV4UTN0UGlNcS1ZaWE3TE85UnNRMlZ1SU1yMlNYMEJuLU5sbVdHZzJPb2x0aEswOHpyRm16cXgzWGtQNXBwN3Z2RHQ4TGxj?oc=5",
+        "media": "巴士的報",
+        "published": "2026-11-24T01:52:21+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "中",
+    "priority_reason": "防治",
+    "summary": "康文署維園展開綜合防治鼠患 邀食環署聯合視察",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-24T05:57:05.138461+00:00"
+  },
+  {
     "id": "d3501054a5a0",
     "title": "筆下風雲：這就是精準滅鼠？｜評論｜港澳｜on.cc東網",
     "description": "",
@@ -63,7 +93,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T22:50:48.183142+00:00"
+    "updated": "2026-11-24T05:57:05.138461+00:00"
   },
   {
     "id": "eb2f56250db0",

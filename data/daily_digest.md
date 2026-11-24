@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 11 個事件；高關注 4 個。
+過去24小時共 12 個事件；高關注 4 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：土瓜灣
@@ -29,6 +29,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcC15a3pITkJNVEtpTGhDbi1hOFdKSjI4ck8ycFlrU1VzQm1pREhlR1ltVDc0MzczcGt0M3dVbXRvRHNBdkpCdkZOTkNnaC0xa2c?oc=5)
+
+## 【中】康文署維園展開綜合防治鼠患 邀食環署聯合視察
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：康文署維園展開綜合防治鼠患 邀食環署聯合視察
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQbzRpZFZFMGhFR3loY1dVOUkyZU1KYmhhRWtqTTFqNVFhQnJfY1FVdDduLThCX2ZsVFFYRHdzLTdJdHpjLXZCOVFYbHRFTW9WYWx0U1FkNk8wdU9TSzUtM2xNRzJwel84anllZE9hSUlSZEE4b05ZNndMUlZJRlhxVFdNb0dhMHZCMmVYeVcwekJtakRQZ1hkVDhQbkJSS0M5amwzSUtKRWZQXzFCYkdNZVNVTFFCNnkwUlZqWHpzS2VHcXpRNFJLb1d4OV91b3BwajBDdnZ1ajRDZVF2N0cwVVlGUmdrdWMyaEhPaDhSOFdGeUhQVVJmeER3QjZ5S0x6dnlQNUVadWcwUEVhWHBhNlRTNjNHSFJLdm8tdHV4UTN0UGlNcS1ZaWE3TE85UnNRMlZ1SU1yMlNYMEJuLU5sbVdHZzJPb2x0aEswOHpyRm16cXgzWGtQNXBwN3Z2RHQ4TGxj?oc=5)
 
 ## 【低】筆下風雲：這就是精準滅鼠？｜評論｜港澳｜on.cc東網
 - 類別：鼠患；地區：未註明
