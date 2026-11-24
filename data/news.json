@@ -1,7 +1,106 @@
 {
-  "generated": "2026-11-24T11:43:39.062327+00:00",
-  "count": 54,
+  "generated": "2026-11-24T22:55:09.503259+00:00",
+  "count": 60,
   "items": [
+    {
+      "id": "000ca1173f95",
+      "title": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋",
+      "summary": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T19:41:42+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQYWtnT3hOOFU4LXV2UFFwRHRtZUg5T3UxUTd0LWF5c3JpNGJ1WWdyU2o2LUs0ZXp0S0NjWkI3UFhMbXVEcVg3Vjk0SzRGUHo5V0xrZDFPSUZrb19ubGZnMlhwZkRrOTZsNFBtR0E1bWZXVG1SMWV1U3ZKWFVMWlVyMng2MWhxMFhNVDZJU0ZCN1duQ1dDaE95UjhUSU9IXzYwVkE3RjM5NEtzU3RIZmRVOTNXdEhoZE4zVXg0TEZOdmJvYi1TZlU3T3RCdEF6T1JaZnNvVnBMVXRaS0I4a29xTllZTlZrU3FBT21tVTkxcl9iMnpybFk0UjJTZzRTMktVVFNVX1VjVm41VEJHZHBSejI1NURNMEZ0RFNFZkpnOVJsN0FrRi1LSnoxTXplbFNzOFZTbkF3NHpaRGxIdlNPeVhLSHBXNG9RaVRnbE9jdnJoNV90Ym1HQ1NlV3ZZalQ2c0RvYmZvU1h2REtqaEIwSU5raHRtUGc0RGtjVm1vaXpJUQ?oc=5",
+          "media": "東方日報",
+          "published": "2026-11-24T19:41:42+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "3aa74d8d93e3",
+      "title": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回",
+      "summary": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T19:09:10+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPejFFbFRKR2JDNmtuYzd2SWV2WEpjeHAwaVZMSWVQcE1MaWV3RFRPaDFQQmdTT29WdGkwTGxMQmxQZm1iSlU1aXhuSjBBUElWdk1tVjVkZ2w2WFhkWXZ3R2RjUlFzWWFMeFlFS09nX2NkN1lyVGJUdnRTY2FpX2JSM2s4M3AxaWVDSy15Qm9vamtZRXFKVlJBOU91dk5mdEdkVEFHSDUxU0V5am1SYTcwLVZQa2tXUXUyN2pUSXd3d2d2Y2h6QkZJSGd1NFNZd1I4MDkxaWFTVGt1N2JjZXowSVF5NVlDd1hxWXRJakl5ZHZCWlVabWo0OUNXYlZSU1A0OFFVcHRzWUkySmlVQ0NsTmh1OTdmcnNUTy1mZUdTMVI1UlFhRjFqbVFoOVpYNEZOZHdWNUpRd2p2V0NTTElyM2ljMVFjOEtMQ0hKdG5lUDdMcGhDWTFad1MxTG5Hc3h6MDNNc0p1ZnhkOEQxVDN3eVljV0RzM1hMc2lMWG9BME9xcUZiVFkwX3Q5SnB6TFRlemJIUzVCWWtzU3ZsbDZDalNQdHRNaTZPV2tPLTBZbFB3eVpaSDVBbElmM0g?oc=5",
+          "media": "香港01",
+          "published": "2026-11-24T19:09:10+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "af7696139b39",
+      "title": "葡京人及關閘口岸一帶將滅蚊",
+      "summary": "葡京人及關閘口岸一帶將滅蚊",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T15:42:06+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "葡京人及關閘口岸一帶將滅蚊",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkNoMlFlbWx6OUNCUDZVbWNRSmdTd0gxc1QwUWprZEVwTElRU2dBY0hPNUtsaHQtNEhXbmZ2MmZDZ096YnQtUW55TzE4bzRUUVUwNXh4cVNPclJRc1hMYVBaa18xcmhHUlZmX2ZsYUpKdXpvVEdUQlJ2NGVTUW1wbjRTc2FwYUxSNlBodERR?oc=5",
+          "media": "TDM",
+          "published": "2026-11-24T15:42:06+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "520aafce1b9a",
+      "title": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+      "summary": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名（共 2 個來源報道）",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T13:00:43+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNb3JjWlFfT1hudnc1aWNtMDVnN3FaTEJRZ2xZY3dOVGh3SEJkajJEelBqb1BCc000aXdCeUNJdWVBMGpWZmMzN3ptVkxCSC00RmNzVFprSDFBUXY1ZUtQWlo5LTF2X1dvUXhSZmpOeXM3VU45RUJzRFFJRVF2bUd6Q3JpRU9pb3lXLTFQWlJsVXkxN09OX3ZGYzI2MDhueFNlSkF5OUlwSll0enBfWXU5MDUwSG5uRnJqOElFWGxiczlIRmlLckZxWXVORzUweE5IeVgyZFVJbGpwZldyOXhMeHFHXy1rYjhCdnlkSHNEeDhWT1pacjlXaHA4aG1hWG1sOUYzMXFTTWdmTWsxcy1oeVg2TDVaR29lWnBTOHZjY0RRSm9keUpiUTZ6ZlRxNEVTLXp1TFJlVEZ0QmcxN1o4OVNfa1pfcGpPeDNXSGlKWk40cGNlU1ZMRmJvLUVwbFU?oc=5",
+          "media": "加拿大星島日報",
+          "published": "2026-11-24T13:00:43+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNZVVmQkdaSlZnTVJDQTRLSHEwcV80ajVRU1RKZmhSNmRNcmN5WlRoTDc0SEtMa2JubnVsRlNwbVJCQ3N3cTlLQ3lsdXpxQ0s2T0x0Rzg2LTk4SnVjWDBrbjZQWW9Gc1VIdTZqRjNQeVhoZXRmUzBWcnNFYktEb1NsbWh1NkNFR3puNGJGczA3VWo2TVpDY2JHZkotd3VEWjlXeEFGV1JzTFpfbmNrX0tvdnBCOUllSXo0azlITjM0bmxKOGk2NmNaV2s1ZnJRaXRkR2c5eGM1RUFxcFFVR3E1MDM0NGwxZmswVE1lbEl5dW1mTjc5emRfbUR4Y2ZCdVYwNHpYV1FVQndKSzFaTDBUR3B4eDZsMGZKTFlualFYRW9hQkVtSHFIYW9rWVdXcV9Xb1RrTExTekVnTl9naEc2dGZXZG5Sdjg1eUVhVWhmNUQzMHRCUXVjeS1SVi1oWF9PTll1Y2NwUS0yVGFEQjVHNUlhZmxqblRCYXh5bWNDRjlJSkh4LXdtSExqejczbXdpdURiNWp3ZXcxSFROUlJTMnVhQW1HTmtyRHRtVzJrbmYwd3FZdC1TUzBIa2VBdWJnOHp1czRpcnVtUUMzTXZWWmw5QU5qRUMzR1FGVjlNVDE5UnpYMWNwelo5UXlGa0Q5bUlzaUJtUG15MFFxM3Uw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-24T13:00:43+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "7b7740f73978",
       "title": "粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）",
@@ -23,6 +122,53 @@
           "media": "政府新聞公報 RSS",
           "published": "2026-11-24T11:30:00+00:00",
           "tier": "official"
+        }
+      ]
+    },
+    {
+      "id": "677360164831",
+      "title": "廚房滅蟲｜夏天廚房惹蚊蟲曱甴？專家教5大天然香草驅蟲法 擺月桂葉/自製薄荷噴霧",
+      "summary": "廚房滅蟲｜夏天廚房惹蚊蟲曱甴？專家教5大天然香草驅蟲法 擺月桂葉/自製薄荷噴霧",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病",
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T10:51:17+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "廚房滅蟲｜夏天廚房惹蚊蟲曱甴？專家教5大天然香草驅蟲法 擺月桂葉/自製薄荷噴霧",
+          "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQWGp2ajVYQ3RoLXU3T21qNVE4V3ZpMk51Nk90WEhPTS1OUkMwNkpuUENtaWlFcUZ6S1FNZ1NHVXJEVHdUNHM5M01xbW9BWEx5ZzBWbVlHMFNkYkJOSktXZHRNaC1Ba082VVZGdG1md0dTVGEtWThrckhRSFkzcDZ3QkhneE9Xc2VaZG5ERDFFQVpfMWlYZGhpd1V6aU9xVGZEY193RHI4b1dKY2dHeXJCMWJhRldjeUhUbi1zMzBJaWU5emRjS1JvU1RkM21oUDh3cWpTbG0teUhnTWJCcnRLT0NoYVNUY3MtMFg3RUxrTGIwU2NLWjJ2TXhtMmVvbXlZZWp3THNscEJ5VlR0R29OZE1DMjZzd05WQV9UVFNCSnVGaGFTU0swUWQzRTdlWngwUjh2bFlvSU9rdFZLVThZVTh5SElwUkdYa1Flb2pJbjFuNGJXc1dnbHluRG1hVlVqNkNGQ1pzbnE3NVNBQ3psNUVtdWFOT1BQdW1wVzBqRVBVUkdZZmlpdDktX1NrMzlZYko4a2t2dDNrR0M4UUVTMllIa3VYMVh4Q1hGcGFFbjJHbEtYeUFzNVVfTjZKZm0xbEIzWS1aSlRUUFJnYmtwTnFGM2NmeEhXUWxDd0NRZWx0cUVvbi12SWdDR2RpMXVPS01rSzZB?oc=5",
+          "media": "U Food",
+          "published": "2026-11-24T10:51:17+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "4e05b8304cd8",
+      "title": "登革熱本土+2！高雄5旬男就醫三次才確診 | NOWNEWS今日新聞",
+      "summary": "登革熱本土+2！高雄5旬男就醫三次才確診 | NOWNEWS今日新聞",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-24T09:44:59+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "登革熱本土+2！高雄5旬男就醫三次才確診 | NOWNEWS今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTHp6SExnaUNFSExxLW51YzlsTnc4RDNoenFXUEl1cHVBME44dDFGZm9MLUxkaEpNRzlDYUptalRWQ0NnZEZlYzhvRTlsZW10OHlKRjR3?oc=5",
+          "media": "LINE TODAY",
+          "published": "2026-11-24T09:44:59+00:00",
+          "tier": "media"
         }
       ]
     },
