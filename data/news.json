@@ -1,7 +1,54 @@
 {
-  "generated": "2026-11-24T05:57:05.138461+00:00",
-  "count": 52,
+  "generated": "2026-11-24T11:43:39.062327+00:00",
+  "count": 54,
   "items": [
+    {
+      "id": "7b7740f73978",
+      "title": "粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）",
+      "summary": "第二十三次粵港澳防治傳染病聯席會議今日（十一月二十四日）於澳門舉行，廣東、香港特別行政區（特區）及澳門特區衞生部門的代表圍繞三地傳染病疫情概況、蚊傳疾病的防控、結核病醫防融合與健康促進，以及疫苗可預防疾病的防控等議題…",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱、基孔肯雅熱、醫院",
+      "districts": [],
+      "first_seen": "2026-11-24T11:30:00+00:00",
+      "tier": "official",
+      "sources": [
+        {
+          "title": "粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）",
+          "url": "https://www.info.gov.hk/gia/general/202611/24/P2026112400574.htm",
+          "media": "政府新聞公報 RSS",
+          "published": "2026-11-24T11:30:00+00:00",
+          "tier": "official"
+        }
+      ]
+    },
+    {
+      "id": "773a92a2acff",
+      "title": "高雄登革熱新增2例！前鎮男高燒39.3度 三度就醫才確診",
+      "summary": "高雄登革熱新增2例！前鎮男高燒39.3度 三度就醫才確診",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-24T08:52:47+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "高雄登革熱新增2例！前鎮男高燒39.3度 三度就醫才確診",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13NTdVYkJ0M0t6c2NGeEpURGRKSWpEQVNRU2ZrX1c3dFBTajcwaWZaM1RaRlQ2eUF3T2hmUGlqQW1DWDc0SHVxeFpYSU9hQQ?oc=5",
+          "media": "newsdaily.tw",
+          "published": "2026-11-24T08:52:47+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "f6e6c222e180",
       "title": "康文署維園展開綜合防治鼠患 邀食環署聯合視察",

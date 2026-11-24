@@ -1,13 +1,20 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 12 個事件；高關注 4 個。
+過去24小時共 8 個事件；高關注 4 個。
 
-## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
-- 類別：鼠患、政府政策及執法；地區：土瓜灣
-- 摘要：土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控（共 2 個來源報道）
+## 【高】粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：第二十三次粵港澳防治傳染病聯席會議今日（十一月二十四日）於澳門舉行，廣東、香港特別行政區（特區）及澳門特區衞生部門的代表圍繞三地傳染病疫情概況、蚊傳疾病的防控、結核病醫防融合與健康促進，以及疫苗可預防疾病的防控等議題…
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMipgNBVV95cUxQNVJUd2lKb0xNTENjTkFQQTh2QlZ1SFIyVlJjWDhESmdSUzRLZncwMGJHQzNRa29ZLUQyNVRTUFUyblpJNm9oaUN2SGM4ZlpBT2JTTG1GNEdOZUVldDI5RXh5NV9XUDVhVUhRbnJaNW9LT2RybkJhbnB0RUtXT25RV01nRWN6TnNJRXcxbVJBZ09zY2pTU05vUjlPUExzM3pXOTBVUTE4SEprVHJpaWwxdkJsTlZHanhCRUloWWIxbmVDcXE4cmNSdVlPMk1sMlFjUndRYXdlUl80NUotSzZmYmF2ZldLYURQT1hkYW9PQVJzemtBOW5CN0xDNm4xbFRoVEl1QThabTgxQVNZU0JXYzk5OXotOExYNDNuR3pVNjlKUGNadHlvTU4yenlVUFluUnVGb3dOdlBzeVNtSGNqaGppaDF5QldLdDNNZmVOYzJRMTNWbU4zcE9raUZkSVRnQ1hiZFdlZ1NXWUtORVlubWRySGcwTWNsLTUxZTJlUDFMbW5ld012ZHFhLTZZZ29BUjlhb0JZeEVNS1RSWlU4SzF1UFRDZw?oc=5)；[AM730](https://news.google.com/rss/articles/CBMihgNBVV95cUxPOG5qWGpQMWwxSThucnFJYjVvb1M4RzJPaDZldzlZR0h0RnhuVlZHVFNhcko2OURxanRWSVROWl9NZTk1bUpIRGxsTWoxV1VpTUU4dUlRSFpxeEtHdDJwZ1RfTVhCczNOSHpTMERVczZDTkprVGs5UWkzTW0xbkdmV0xKamdRSktuOWh1V04xaE53dGRySGV1RFBjVEFZUlhfYWYtN2F1VGpEcHZPS0lmRDF6SS14djFXT3l0RHJOV0tiZGVaRXc4SHFuM3E5bmtrMFNVSjlUWXRkdjE1d2ZRckhVV0RxLTB3QWswRjhvZzc3aGlmQ1JTSGJQTksxQklsR1dtTXNlN3JGQVBZd01zUUk1WlhENHdtTG9XYzRtUjFJTkZ5bjl0bWtpVV9HWVk3eGdBa0RqMzdDZTJiUjdsbVFuMXZFRWkybWliRHVBcldiM3JPNWZFbXFTNm1uaGZodlBEZjI4TDRCekxxbWltWHZIN3dCTFhMRS05c29jN1ZnR0JHSGc?oc=5)
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/24/P2026112400574.htm)
+
+## 【高】高雄登革熱新增2例！前鎮男高燒39.3度 三度就醫才確診
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：高雄登革熱新增2例！前鎮男高燒39.3度 三度就醫才確診
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[newsdaily.tw](https://news.google.com/rss/articles/CBMiTkFVX3lxTE13NTdVYkJ0M0t6c2NGeEpURGRKSWpEQVNRU2ZrX1c3dFBTajcwaWZaM1RaRlQ2eUF3T2hmUGlqQW1DWDc0SHVxeFpYSU9hQQ?oc=5)
 
 ## 【高】香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -23,13 +30,6 @@
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMipgNBVV95cUxPWjh0VFlzMW95ZVpUN213X1AtaG5nM0FERUd6SmRKN3RCSERVbU9mb0xwVndmb0EtZUZSalhvSFNMd3dJRS1rRU9zSkFHbGpfdWxBaGhyTU1PM0VwQVVLa2N2TlNFMlFSWWdJMU9UdXhnTVl4dG9pdTBCWlA0UUFjczdsQy1CQzFiVlo5OWFzZXJfaDdLNmhScHBfU2tMM1g0UXdKUF95cUFPVF9YeTN4bEo1aktpeVVrMm1tSm9qYVJ1S3VIbjRIamlMNkhQX2xPQ1cyd1RuNUdjbjNLOVBtTmJrWTR4dkVROUJUeHhkU1RHU3R6aVlhblN1RDhhQ0lzRUhMNW91ZUc4ZWpzdlFCbVVGeTE2WXgyYU5VeC1BNWVySlFPdnYyOVVGcDNmanh6MXdGbWtZTmtyMzZtN1ZuUnlrSjFYem4zN2pJTEJMMl9WVU5DRWl3WVkwY1NiN25BMVFHSEFqWGQtRVFVdFpzVm5KV2ViWDJNeDZ5VFU3WjhIWU8xSzFrT1N5MklleGdPRzItV2I3UlFKYmF5dV9va2ItX0lsZw?oc=5)
 
-## 【高】聖嬰現象恐延續至明年春季 臺南強化環境巡查防範登革熱疫情
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：聖嬰現象恐延續至明年春季 臺南強化環境巡查防範登革熱疫情
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcC15a3pITkJNVEtpTGhDbi1hOFdKSjI4ck8ycFlrU1VzQm1pREhlR1ltVDc0MzczcGt0M3dVbXRvRHNBdkpCdkZOTkNnaC0xa2c?oc=5)
-
 ## 【中】康文署維園展開綜合防治鼠患 邀食環署聯合視察
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：康文署維園展開綜合防治鼠患 邀食環署聯合視察
@@ -44,13 +44,6 @@
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMikwFBVV95cUxPam92djdKQVoxdV9RaUZyWHZ5R2JKTkJRY2pfWHE1cUhTN3dxanEzQTE4SlhEWENacmFzYkwxUnlKLXV4bGl1dXJmTVZFUEhzUWlmZFVEbkxHZm14eDVwU2diNWZkajZwbUxyQ3ExRWhMcUdXUG5NVHdXZHY3TlpqV1JKb0JhRW45RndPdnhTWmx0RUE?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMivwJBVV95cUxNeTctV1lLaFRubE91Q0hBQWhNXzdUN2pJbm9nWHl6TkFvSW5RMy1SdFM1UnVndWE2UE9HdDJtRTc0cE8tNlBQdVB0bGxGLUpYRzlTYV9NRkdNOFpVS19WajZVcTR1Q2tKV1BsYmxPTDhjSmxEdEJic1ZuQVNlZjZPdVpteUVYXzVVOUtiYmgxNEZzZHJZU3Z2ckVRLW1mMk1pU0lSa1U1RDBIQnlYdTlaQl9yS0lkRVd5T3FOblRnU0FaYkhBUFB0RkF1RENnZ3NSaGxONXdiNkY1SUlWWjNuczNLbVJTSkdFeU14amhzNWN4eTNzbjR4N1pVV2tvOThvMm01cTZBdXVrOVZQeXlDOFowdHNsZUNKS0FjVkNaUlJvV1p1a1JQTllMN05BMGN0MXo3akIwUEhOS2V5cVM4?oc=5)
 
-## 【低】道具蟑螂太潮濕全滅 劇組衝地下道現抓百隻大軍 《善男信女》驚爆「為民除害」
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：道具蟑螂太潮濕全滅 劇組衝地下道現抓百隻大軍 《善男信女》驚爆「為民除害」（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[鏡新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGUGZGalExdVRkQmw2ZHNPRjQxUDRZMnZta0RVUjlOUWRHcmVwVHZSOWd6eFJrYlNRd3B4NEgtd2gyTUE4VHQ3MDhnSmtWbEtnQ3BKekhUZDFPdkQ1ZUJva0JUQ3U5SVnSAWdBVV95cUxQRlBmRmpRMXVUZEJsNmRzT0Y0MVA0WTJ2bWtEVVI5TlFkR3JlcFR2UjlnenhSa2JTUXdweDRILXdoMk1BOFR0NzA4Z0prVmxLZ0NwSnpIVGQxT3ZENWVCb2tCVEN1OUlZ?oc=5)；[LINE TODAY](https://news.google.com/rss/articles/CBMiakFVX3lxTE5YTmNuVDRtdVVIUG5kWjFlQWxsWnNHZHRzQXU5UlRPbXlLdC1UaVRvQUdwdFdEZVd2LXN3cWRXTDFYRGtPZmpJMDB4UjRRRWc1X05NenVmM3JKWVVSMWthYm1tUHR5VEFXT1E?oc=5)
-
 ## 【低】Central Visayas logs 21,357 dengue cases, 119 deaths
 - 類別：蚊患及病媒疾病；地區：未註明
 - 摘要：Central Visayas logs 21,357 dengue cases, 119 deaths
@@ -58,30 +51,9 @@
 - 狀態：已發布
 - 來源：[BusinessMirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSDRaNVpqU01oakFiaU9CTFZhT3JaZDkxQjliTlpvNDZfWDc4R3ZQWGdHQUhBT1MtVWl1YWktNW5Ua2xnenhxYjM4LThleUFVR3oyeFgxQU9kQmotVjdxd3hyclFaQmZucVFDdVg1ZXZUNVgySDRxbzRIaVBMdDJzSGVRVmd5YkNSc2JsRUdCblNvcmtPTV9N?oc=5)
 
-## 【低】悉尼發現第二個紅火蟻巢穴 或已存在一年
-- 類別：樹木及戶外蟲害；地區：未註明
-- 摘要：悉尼發現第二個紅火蟻巢穴 或已存在一年
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[大紀元](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vbTZrNUdzeVowQTFPVWNSakRqb3huZ3FqNWhtUTlWbWllZVhscFFvZ0MwYUtNVTVlc1laM0lwRlFkWVZxeER1Zjd3SW5raGlxeExHbjR0eGpDRUxyY0tlYXpIWjlmMmfSAWdBVV95cUxOb202azVHc3laMEExT1VjUmpEam94bmdxajVobVE5Vm1pZWVYbHBRb2dDMGFLTVU1ZXNZWjNJcEZRZFlWcXhEdWY3d0lua2hpcXhMR240dHhqQ0VMcmNLZWF6SFo5ZjJn?oc=5)
-
 ## 【低】屯門泥圍官民聯手滅鼠 4個月檢獲133隻
 - 類別：鼠患；地區：屯門
 - 摘要：屯門泥圍官民聯手滅鼠 4個月檢獲133隻
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[巴士的報](https://news.google.com/rss/articles/CBMioAJBVV95cUxPMkhkU1pPZlpJcEwwVlVKQ1B5UnFHMVoxUGU3S1gwUV9USjhlYk1SQi1GT1RnVEFFU1ZUeWt3SmlLTW1WQlc3T2s5c3l3ZEVpREY0OEYySUExRUhUb1lidHo2cmpKOHV2VnI4aTZlWlRoZjFnaW1mY3RQNWNzUkd1TUZWU2ZLWWVGY0NRRkszZlZiOGk1SFZUU21SbWszMFQxWVFuZDRETUdNTUhnRVd0Yjk1N1Z2N2VRLVZ6X1FER3NlclVxOFM2LWo3UldpN2RER3hDUXE2c096Xy1xY2tVcHdBdW9MV2ZvX3cycTFJSk1pVmtHbm56ZWFHbzlJck5KVy02dms3RmV4UnRac0FYZk90bVRpTnRVdk9mcTFTUWw?oc=5)
-
-## 【低】橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠
-- 類別：鼠患；地區：未註明
-- 摘要：橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMipgNBVV95cUxPS0xveFJPS2llVVpLaHNpaFdBMGR0ZUYzNFhFdTRrNzBpTkdNckhUVkxoQWhXT1c4Y0tJd1J3d2Zvem9fZC1lcFJsX0JBQ1BxSFFueFJad0JOcm02UnlxbTNwdTZSWEUtV2Flb3BRUndIQWpJWHBSeDRXbzVIWEdkZ2hkekxkeGMwU1Yzd2REQzB0LXhpaV9UUlJmVmFhanFOd2F3c2hZR0U4bGxDbHJGcjltSjU3OXM0VnJNS3FsdmdaV0RpWFpBVm9CLWVQQ1pRekhDa2haN3pwaThSanpvRE9MV0E3cXppcDZHTnVhYVFfZWlxNURzbnlBUHA1RlN0RllENGJfdFU3Sk1FanpWeGVJOERscG4zSmxUV2R4UXY0bFh0aE5tTGdQbXh3dVlLTld1anVuQ1Y3UFc3eUFOSmRFdVgxd3VEbVI5YzZXZHZyWk5PcEVoMVo4SkFOT05iNm1TalVLTTB4bU9Qa0M1U0tIdGI0ejJ3azB1d29BUkRxWjc2a0E4SjFnRDR6RWZJZjhORjRHZ1RBalFyY3pXWm80dG1OUQ?oc=5)
-
-## 【低】東張西望跟進｜土瓜灣連鎖快餐店關門後驚現兩隻大老鼠「共舞」 網民驚呼「好大隻好恐怖」
-- 類別：鼠患；地區：土瓜灣
-- 摘要：東張西望跟進｜土瓜灣連鎖快餐店關門後驚現兩隻大老鼠「共舞」 網民驚呼「好大隻好恐怖」
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi4gRBVV95cUxOLWJoa05FdkhyVDFEdFd5YUVNOFFKc2Y1Szh2eEVtLW8tMGRYVGdGQXZ0NUdHcVFDR3Fvam82UmZyN2FNT3BjV3FaWldDWUEySWF5TjlENlZ4eENkRWE5alNDRkY4elZBbm5MRU5qZHN0V1FHS1lJQ195a3ItM0JNeHBETGJ1aDIxWFF1Uy1fV1NHNnY2MjlXMXlBSVJza3dEVFJ0ZkU5NFk4cUhZdmRmd1J6UVJEbHo0cTZFTm9mUXJEZ1NrV3lBd0FTU3UzV21CVmRxTjViSGQyNjVzUmU0NFVqZjdkNzNrSW5NQkdQTlFobWhDdEpUbGhpa1dyYk1HSXhQLTBMT3hBQkVLWGNZcktESTFXMmZWT2MtVl9ibWQ0d3R1Nmo5WVdLREN4UjFzbWRGZXpoTEZoREpkMHhmWWEydUlLMDJwSUk3alE5UGFBUTVRZW1uMEo0YVJhTGs5UUdlZzNUa01OLTMxamp2MDlZcnEwZWRoZGw3RGVJakc2SGpSRWlGaWdLNnU3U0dvcHphVHRvb1QzellZTEk0c1JlM3FoZUp1azAtS0lnODdKNVEyTzJfMTgxYy1KZm1SLWxhemlyOHVkSndxdC1rZVZJZUJWeEI1OS1mQWVycGlCLWhSRlI3VXlUeW9ZUS1Gb3lFOGwwRGxIT3htZW1Ya05sSVM3ZmlrSmdlcmRlcnRtZndxREp3V2lqeHZWa1o4aTBKVDlIYm90N3kxNlJJX1hZRWxvRENFYzBVa0U5c0VNcWIyZ1BHcTFrLWRROWU5emdVMkx1UzdxRjh6LUw1TC1B?oc=5)
