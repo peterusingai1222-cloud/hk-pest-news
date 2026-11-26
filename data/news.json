@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-26T11:44:54.194072+00:00",
-  "count": 106,
+  "generated": "2026-11-26T22:53:52.296621+00:00",
+  "count": 108,
   "items": [
+    {
+      "id": "f8274a29e3af",
+      "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+      "summary": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-26T19:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa1hxUTN2ZE40UHAxeFpLYWVBbzc5MkExeUh0MTQzbWZiNWZoSmRydThxZTdKOGlKVV9uQjhySmlicWRHSHZ2LVpRUFlHQV9VV19SZjN1NUxTajROZGYyMkV0SU15TGJvMElTYzY3eVdXd3FiM3d2TG5jVEI2cUFmdGVTZWlOTVJXLU9ELWtSWnRabDQ2d0JwZHU2MXN3c05HUU9kMS0tVlRLemt2OFppVDBjeFEyMnRzeFRNa3ZuLUl1dEZtSmJnT0JUbXdsc1F1am04YUp3NXlIT2lBR0s5WElOV1NoLTNsOV9sR3FFTGRxXzUtZ1lidWo3anBVZ2kzS2JfUFdCQjlaQV9OMzRvWEpRYV9oVm5RMXBQVTZXTE9raHp5TU0ybTJvcw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-26T19:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "d389c89ea846",
       "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
@@ -74,6 +98,31 @@
       ]
     },
     {
+      "id": "94a86a105a6c",
+      "title": "康文署食環署再巡文化中心 增捕鼠籠填地磚罅隙",
+      "summary": "康文署食環署再巡文化中心 增捕鼠籠填地磚罅隙",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "技術及藥劑",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-26T01:54:39+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "康文署食環署再巡文化中心 增捕鼠籠填地磚罅隙",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOMmxBNnA5LXJ2eTlHTVhOa0gwNHdKV3BIQzBCM0NWUjZQMGowOHV3azc2OGhONTNlb0hSYzVpWVdaUmdvbURjaTFQaDNsM1UxSHBsczdvSVJ2MndGb3FaNThKLVNZTmRXeEI0ZmJBdDBmcXZZSlBHcFdTaUxPc3YzaUl4UzY3VVMtOFBqY0JQTkN3cExmWlBKMnBCd3lpUDFwSWlneW4ta1Qwa1M3TmJuM1l2M29PWlBEZ1BLSGpkTUpmc3hZSm9iNExXVk91VXBEOVdfVEtIWGVpbXpMOXg4bkhrQ3lDSGdDQnJVLU9oX2pnUXJSSVUyVnM5REtTQng4d1hCZVdhSnJPSjdWVlZfcVJRbTFwWHhWbVctcW5JNWZnQ0ZvOExrc3NPRGhKTVFLazQwMzFlRmZOdHJqaDhRRlZOTkR5MlVtN0M4OXlpemEtakk4R0pUQ0pYT1BkNFp2X3c?oc=5",
+          "media": "巴士的報",
+          "published": "2026-11-26T01:54:39+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "1f877521a400",
       "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
       "summary": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
@@ -122,7 +171,7 @@
     {
       "id": "6697bc45ec9b",
       "title": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨",
-      "summary": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨",
+      "summary": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蟑螂及室內害蟲"
@@ -138,6 +187,13 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5",
           "media": "TVBS新聞",
           "published": "2026-11-25T22:19:00+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨 | TVBS",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcl8zTUVZS3k1Sm1XaUJ4OHpVdl9YaTRzdkxkZlNnOHNwUXkyOFZjaTlSempTSGdTaXJBMWFFX1NTTGRCVHVPTTdneDJrY0gtTWlKQXd3?oc=5",
+          "media": "LINE TODAY",
+          "published": "2026-11-25T23:00:50+00:00",
           "tier": "media"
         }
       ]

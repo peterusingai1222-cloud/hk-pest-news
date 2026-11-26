@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-26）
+# 香港蟲害管理新聞每日摘要（2026-11-27）
 
-過去24小時共 39 個事件；高關注 4 個。
+過去24小時共 13 個事件；高關注 1 個。
 
 ## 【高】立法會十八題：追蹤及防治鼠患
 - 類別：鼠患、蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：九龍城、旺角、尖沙咀、銅鑼灣
@@ -9,54 +9,12 @@
 - 狀態：已發布
 - 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/25/P2026112400497.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5fMjhESHdiNmZnWlk4Nlk5UUJkZGNTRzZldDlmS0VWaWRpaTRjOHVyUTBSSlIyRDZQVmNMM24zZWY5bFdNZE5XOWV2LUpsTUlNRWNYVmZnOTNVaGpRZDRSQ2xWcG52YktGS1Vjd3ZyT2ZSQQ?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE11eTFkRDB2TTVaQUV2RlhZU2lPM1E0VEdNSlJCQkhPZXlYY3lmaUJKSzJRQVd3MVRvcjA3R0lmRmRXSGs0RS1TdEwyQ29OeGZRdGYwNlVLVjhxRVNDbkZwM09RMnlPcThBSndlRFViUEVBSWM?oc=5)
 
-## 【高】有症狀快就醫！高雄再增5例本土登革熱 4例「同為鼓山區群聚事件」
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：有症狀快就醫！高雄再增5例本土登革熱 4例「同為鼓山區群聚事件」
+## 【低】《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨（共 2 個來源報道）
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiW0FVX3lxTE41QWdFMHQ2V1J0RUMwVUdnRzNsQjExRG52SnVYa3BLZ2J1TzRoeXNQQUEwVElJYkwwbTQ5ekNuc2RRWDd5WGpJd3pUR1ZTSV9mS280U1VEbmE2MWM?oc=5)
-
-## 【高】高師大餐廳員工染登革熱！ 高雄已累計19例本土病例
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：高師大餐廳員工染登革熱！ 高雄已累計19例本土病例
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi0wJBVV95cUxPM0tJenI0VzVfSzUxQjBkYmJlQjdGYm5PbzVnUXJRbW1odmN0UkJFRjdobElNWGdOTW9WeXhhZjFFVkMtYkc2SllnYUFSWnBlRGRyV18xRXFxeW1FQWVzd1JPOXBweEYwd04za1dmeXFvcDJocGIwdlYxUF9aOEVVajFWUU9fX3lkV3VtbmVZQlR2UW11cEx2YTA5S3lzeW1SXzVvcmlBSXphMmpjd2RLekl4bDAwNWdZZXFTbjVEUjhpaUMtek04TlZJNmJidlhzbXp2endjMTJXWWQ3TnIxdEVLTGpnOVd3WWhXRHNrR2dUZWQ1SUllQUpRMXpBZFpheGV3NW9UN0tkNU5PUHpwRHgzSU1ONW56LVBRcFFoRWpGbVJNY3c1MDNSS2ZfNkQ4VVNZVDJHOXA0Q0I0cEJHcG5XTnl3cDdIM2V3ZzBlUTBXUGM?oc=5)
-
-## 【高】高雄登革熱疫情擴大防治 3區域明起噴藥、住戶配合事項曝光
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：高雄登革熱疫情擴大防治 3區域明起噴藥、住戶配合事項曝光
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMigwNBVV95cUxQTkdhOFRpdG53YUh3QmFNYlBBMGdCWERpNHlPbkdvUFNuX0RIb3kzUjFmM2pUMVYwdnFYYlFZdE1rQ1FUWmdtS2ZnMW41UkdiejFTczh4UjE2M3NFOUFmZjdMa01sWGw0enU2T3JCNVFkUm5fY2M2cGhVeE9xM1dNQzFYbm4yUExRZ2QzZzNmTE44SmVPV1lrRTVKU2duMVFQTTNhYnVpdjNLb1YzckRJRXFzM0dpS29Zemg0MEZJZVhPN2dmUnczZ015T2xIVnJxZndEM3J0Qml3a3ctcWQzdjhYcFhqNlp2Z2Q5b0V4X3huakFxaGtqaDB6Tmd4eEo5QVMzS0RsdHN3Mkh1aHZiUy1CcFJ0TDA2QW10R01sWFBhci1wMFlFc3ZPcXFibkxfRFNrY1h6ZDVBZWNpWGFXOGo2LWk5cmdta0VubDEyVUtqaHg3X3pUZVNvYXZmaGtKbHRlNkphYXkzOW03OXRBT2dwdFNkdFlzXzdEM3JpRE04eTQ?oc=5)
-
-## 【中】文化中心廣場現鼠患 康文署同聯同食環署巡查增設鼠籠加強滅鼠
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：文化中心廣場現鼠患 康文署同聯同食環署巡查增設鼠籠加強滅鼠
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZm5qY2VOVEpLdExXZkpoRkFYSnJ0UEcySFdMekhHY204czE2aENIdlIwNXpkOEU2ZDZnSl9MTjh1NTdnVDBNakRHd2RMczZQSUtyNTBJUjE0bmhOWjc3VmJtZmRPcWxyYlR6QXRKRTBFMDV1ek1yY3hPTFpuOFZyUFJZbms0RG5tNlZUc09USXJ3SU9YWkNSMnJJam9vLU1fdkd5WUZmQjJweHBvZUFyUmFpUG9Sa2FhRXJlaThpb2FSWTdCcXJqMGpnRTQ3aGNfV2lfeDlOVXBkYkRHOEVoZ0hWSHA5QTBYeXk4bUVkMU5uNHRNUTBmWUwtcWpsakZ0X1pMNEU4a29Yc2VyNi1uMmx0Y0Y3eGxlWm5kQzFmZElDTEVlOS1tZ3NsVUhORl9ackFmWTRLUGRXWmlwdzNnSHBUdDJpYm9zMnpVZk1sZlVSekhGLUtzdzljTkl3T1cxTExZaVY0cUY3UEVjWEVr?oc=5)
-
-## 【中】食環署披露鼠患防治數據及開支
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署披露鼠患防治數據及開支
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[metrohk.com.hk](https://news.google.com/rss/articles/CBMingJBVV95cUxQcVZnZDlnZFF4b2JtNjc1clFjQVdQeTB1UXRKclAwWDh2eWduSjFzVUFxS3FSTUpnVm1iVlRmVXF4UHN3YjF0cWRQSGJhZ0t1R1l0X1htaDBNOTZPMUl3X21sZGstUlFaSVQ0SjVQS3o4aEVGazZzN0Nwblk1Q3U4ajJ4dmZJRGctYldFQk10ZzJDSGgxSVh5VER0aUtxWFo3cmZQV3g1cEloSmcwZVFNczRpX2FuWUlEZWNZT3lkMTBhcEpoVWFYc2hnbkpDTzRKdi1PdHUwaFBCdUlMd0Z4SXMyd3JubU5NTHhrWlVCWDNKYjUyVXZuVkVNSnhGM1Y2bThjWEVwb2Vkel9zdUhKenAwaVhoWEFWTXdBV1RR?oc=5)
-
-## 【低】濱崎真緒乘航班回港遇「機艙老鼠」 發文稱失手錶及首飾盒 已報警處理
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒乘航班回港遇「機艙老鼠」 發文稱失手錶及首飾盒 已報警處理（共 4 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[星島頭條](https://news.google.com/rss/articles/CBMiuANBVV95cUxQSUxuVVN6eTR0VV84ZUFKVF91WjJSV0xXdHViQndadkEwUXZfbUt4dUZYdFZJSTRmdVEtYllYVktBVDlud2lyQnRyQWlxRUgxcXZrZFU0NzhzNHh2TlMzVEpSZFJWZUJRNFRjUjhEVHpYb2EwUHJJTzVtNTl2Qmw5Z1cxQUZqZVN1NENrSVlta2RRWklnWTFWeWtSejNNZDVYMFZRaDJDTGV1UXgxbVJDS3lsQjdCRElpUURDbEtmYUdKU21BNzVSb0dEVWw0TEZxazV0bW1wSFhQWExHUFJqREtFWG9fNXREemJnZmRuT2cxQ0JHZ0M2VEpJVEZyb1R3Nmc1ZWFsNUZ5N2UwaGJCUlV1SWdRSzhpdEN0VDU5b3JQem40RHpzZEliQTNuTmZjanhSX2RNdXE5MzU0bFZnVnl2RVloa0w1c0VwcG10dWExQWdIQzNxa1lYOGZ3M0wwZmVvY3NTSExtNFRxMUNhbUNHTG9YVnRLMzA1YThGZXZMNnBBR1pIVE5ST09kUmFDSzhLZi1GU1ptdTVrV0ZDQ3dZQkV3TF9mM0Vpa1EyZlFveWY0MzdRTg?oc=5)；[Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTBRNUFtdzFvUzdxWTRJUHNHVVUtdHdWc2p1UFBYMG9YSC1HRFNVLU1STkwwajRYaFBqb25QSUNCcVlDNFZURVY5WWl2U0huYUlyR1J6NUMzbGM4bUlqTk5NTFBUZjVHejVyd1R5ZlJZdUxmY3BwUzhhNnRUcW5aYWd6UkZmcE83RXJXY9IBjAFBVV95cUxPdTBRNUFtdzFvUzdxWTRJUHNHVVUtdHdWc2p1UFBYMG9YSC1HRFNVLU1STkwwajRYaFBqb25QSUNCcVlDNFZURVY5WWl2U0huYUlyR1J6NUMzbGM4bUlqTk5NTFBUZjVHejVyd1R5ZlJZdUxmY3BwUzhhNnRUcW5aYWd6UkZmcE83RXJXYw?oc=5)；[am730](https://news.google.com/rss/articles/CBMitwNBVV95cUxPdURwN1ZHOXJZVzJhTWc5UjBxWGprMWxnQ1FjQ21mcHN0bXZkX1J1Q24tY2dmWEVfb3lPam01R3ByRFNJa3IxZXQ1X1YzZHh4UzFzLVF5MlIwNHJuRUF0UExIUFg1dEhrQXJjaFY0Z0RwdDFyS3dTSzEtTDdaczlUMnhwR2VESHJ0MUFLeElKcUdzSXl4RWsxUFFjWEZ1RzFXVmNKQkJKMDlCa0t5VktaTXJkSUR5MUIzX1JmSzNnYW9lSnIwV0pGRF9FODJvRTg3NThiQjlpNGM4Tko5QmdLR25MV2J6UmVXZUhpaFlORTVhU2w4aVFPRWhKNVR2Ym5KQUQ3UmZROTVNVVNBLUpMQUZ6enpMblRsQXZzS2NXMnlGT0ViWDZoODh4dzBGdTVYTFJWUndGdW41aDZ4MjhCdGZSeURTYVh4MHYxN1F1NmhkaF8zeUNCcWVudUNyOFZRQzUzS1hxaGo5VC1zUkFjZ0xGN09aWUhZT0FjcDZQWVN6aUd2UjVMSG9JZ01BVE03TmQxVnN3OGxLQ2o4YUtBT0Y3MXZsRW9lZExzcDAyNXNoRktGU05B?oc=5)；[橙新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxORVhLMHFYZFJ1Q1JOTWREZk9jWEUzcnY3UGJyMjF0WmtuV2xhWXdGcVRaandYVVBXQW9Jb3NnUzBQVHpMQ29HSHljQUZuT3pnX09ERTd4blFNV1pkNG1hbUJjaTdqTEtidUZVVVFXX05teGJZZFA3LXN6X3BhdEpEd2JwLVFUM2NIZ2dHZU40THA0QUNXWFY5MnBQZ19CZ2pkdElRcl9PWkEwOUNwQ21MZk5aMUZ2cTNXVkdLLVZvTzl2emhIRzEyUEwyaVdfTmoyUGpxYm1YWU81a0hsaTdlVnoxbnc1aFNPT2J0Y1FzSHgydmdIZ1F0ZHoweTRTZjhVYmVvckpBT1Rsc1R6WkNPM1BNNnV5OVVubHRWZVhQLWlsb0lLSi0xT3VNeHl4RGtWcjlfUWxKc0dlRGIyREFxN3BzSEVEcGl4LTFOcExXU1AxalRYTzhBV3lwTFVManNDRW1PU1IwN2duRm5HR1FmUXhGWXkwdVRjTFc5b2tmMEVtYWxINnpYeDJlVnNCZDVsenVXZnJYNmJrUQ?oc=5)
-
-## 【低】食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Yahoo](https://news.google.com/rss/articles/CBMiygJBVV95cUxQbWozZ2Naa0JtQ091V3BtbTZlVlcyYThHXzJRU2pTY291YVk4aHh5ZWdWbFN4LVpCV0VBZ1JWQ3lhUkZjUUc1WG5kanh0ZHpNUEpPUGpCQ2NJN2d2X3M1NXRMOFduQzdobGpnU2Jpb3o0LWtiZjBFRXl0dFQtUWcxSThxTEY2NU85WTcwdFpmN2tveWhhYXNmQ19sTDlleTJCYThCQmE3dHgxaDZPYldEODU5Y3NQYkFBeExycGlxckxyY253N2xORWlUUlJSS1o4WEx2dGJPb1FxWFBJQTdycERKU1F6VFNsTkt3b0dtdFBvVVlMQ1BkVEdmekdSQ2J5bnEtdnY0T3NsZWVITDlUdEJBRy1WRGp5Y2pudWVOY3E5RDUxNTBBbVR0QmxRUHhaeTdmVGRLbzVKSF9zQ29raUJ1bXFVRFFCZXc?oc=5)；[Now 新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rV1g1X2U4WE9pR1dYcU1TRWkzWlRvMXREQUhpSUZuaDhVeGFHWUVkQmR4MmdsaE45YnZnVjJ6THdJT1BsX3VMYi1yRGxxdkZFUWVSRW16UGUxUDdnamtEeXFn?oc=5)
+- 來源：[TVBS新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5)；[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcl8zTUVZS3k1Sm1XaUJ4OHpVdl9YaTRzdkxkZlNnOHNwUXkyOFZjaTlSempTSGdTaXJBMWFFX1NTTGRCVHVPTTdneDJrY0gtTWlKQXd3?oc=5)
 
 ## 【低】楊兩全才拿金馬獎 爆「善男信女」蟑螂死光光
 - 類別：蟑螂及室內害蟲；地區：未註明
@@ -65,20 +23,6 @@
 - 狀態：已發布
 - 來源：[噓！星聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiVGRfRi1MTHo4eTg4S0N4N3ZsNkl5QjYxMU1ZMngxVHphWUNJQjJuellGbHZhdjBER0EyTTdDN0NmRkZrejhvTnBxLUMzTlR6ZVppUjJnUENwV3ppTzc40gFfQVVfeXFMUGJUZF9GLUxMejh5ODhLQ3g3dmw2SXlCNjExTVkyeDFUemFZQ0lCMm56WUZsdmF2MERHQTJNN0M3Q2ZGRmt6OG9OcHEtQzNOVHplWmlSMmdQQ3BXemlPNzg?oc=5)；[噓！星聞](https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWlMxOFVNQjV3bG1oeXNtNVRnUXZvWjBTcjNWMVc1SWI1TXZWZmZ2MFFIdkxMbTFsWTNDRWZNWlkzWEtpdlBTMlNlWF90UXZOSlZ1dk9hM1hIUzVyUzl2RGZrMWFIRlRtdmdOVmZxMzI1aFVLSVdTdHRoZ3BRQ3M?oc=5)
 
-## 【低】濱崎真緒又出事！飛香港遇「機艙老鼠」 60萬首飾手錶被偷
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒又出事！飛香港遇「機艙老鼠」 60萬首飾手錶被偷（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[壹蘋新聞網](https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlVSRGoyYUF0a2JKcF9sMXB0U1pJRi1oeVpueUIwYzRhZG1QaHJMVWxEa21iN2pnSUR6OVozenJ0OXhtUGlTa05Zdk45R3ZjOTFxYVctS0hfN1dPTGtKRGN4ZExUYjdGWUhkLWROa1FPdXAyak5pMVBaakdDdWh4a1FCSkVuVjdBUXc?oc=5)；[Yahoo新聞](https://news.google.com/rss/articles/CBMi4gJBVV95cUxNbmotejdxcmxOazM2d1U5YjJKUHpsUmJfcFZMdE5QU3NENnpZbVdRTG9OUmVuYnVtV1dVT3BKcWVwOUpvTHNybTZuZDhLTS1fYi1PYlFmVHJiaF9NQVplRHViTW5VeUoxSTRhSFZEY1AxdDJJc3BFMW1zajJRRzZiTXJPZFBQWm9xOVZycVhBQmQxUFNIdzlBbktjeUxrYW9QYmY2U19wbF9xZlFXTTI4Ym15Vkk0czZJU3ZiMEdIT2JCMGg5dHM4b1N3cUVvMmFBdTZnLUFpR0o0WWVLaDZSSkVieFVlMm53ZGY3dUtJRU9fa1BBRVlXVElQdTREWUt4R0tSaFNlTVprR1ByNU80NDZMd1RqRVc3WmdGU1Q3V21mWnUxRm1XWWRWMDBuYUdXbDVDUHVWUm1GVTRtV1lZN1BNVnQ3X1hiSmE4Z29DMUZadFZBYjdBX2l1NXh5Q3JsLXc?oc=5)
-
-## 【低】議政四方｜陳學鋒倡政府統籌各部門處理鼠患
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：議政四方｜陳學鋒倡政府統籌各部門處理鼠患（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1ad1ViTzdiU1ZnSU1uZl9KbUtzV0tqVDQxV0tjRkJaQWxRTGlQYVdvamc2TkFDdlRFOXVySEZBQTFMUDN6Vm5uXzBqcEdiYy13ckZERWJvVTRIQ0poY05DOEhlNk9LV3Fpa1YtTS1PYw?oc=5)；[香港電台](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jeXhSRFlvUjM4dGxZa3g3RDcwTDc0d2QtaVFaQTBIT3pseEhna3RWdHFzUzd0M2JSTHJOT1lHdnlaV3cyN3pua05La083VHY1NmZZVDNyVTVlTzI1UWtxNi1weU5aSmxMUGYtWk5aaGtNclZjak1vMW5xVQ?oc=5)
-
 ## 【低】濱崎真緒再遇事故回港遇「機艙老鼠」失名牌首飾及手錶- 港聞
 - 類別：鼠患；地區：未註明
 - 摘要：濱崎真緒再遇事故回港遇「機艙老鼠」失名牌首飾及手錶- 港聞（共 2 個來源報道）
@@ -86,12 +30,12 @@
 - 狀態：已發布
 - 來源：[dotdotnews](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lMmE5amtaYjV4bmg3bXhKLU1qaGRCaHRnc0l5VFNldzRleVNZQ1BHWXh3QVhOU2pBZ2tadk9vSTNUdWxuUjdEVHFiZFRpeEtkS05odW5vNjBTb1BCUHM1bWM3T0FuLXlZdlptdnBKS1RsVFdXSktoWXBR?oc=5)；[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcldfaEJtemRxYVZHNm4wSFNTbzl1SGFSVmlsdmlBYTJLX29KcFJkenRRLVNDZEpZU2YwZEtkTHVNOG9xQUszUTRJVnRHaGVPTXh3WnQ0RjYxdmVWcXFKWVZSaWh4b29yc1QtZEFES1JKQW5RckVjaHNJVHR5WlVsQkZIaW91ZUZ6c3Qw?oc=5)
 
-## 【低】濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回（共 2 個來源報道）
+## 【低】食環署展開雷霆行動直搗巢穴精準滅鼠
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署展開雷霆行動直搗巢穴精準滅鼠
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMivANBVV95cUxPejFFbFRKR2JDNmtuYzd2SWV2WEpjeHAwaVZMSWVQcE1MaWV3RFRPaDFQQmdTT29WdGkwTGxMQmxQZm1iSlU1aXhuSjBBUElWdk1tVjVkZ2w2WFhkWXZ3R2RjUlFzWWFMeFlFS09nX2NkN1lyVGJUdnRTY2FpX2JSM2s4M3AxaWVDSy15Qm9vamtZRXFKVlJBOU91dk5mdEdkVEFHSDUxU0V5am1SYTcwLVZQa2tXUXUyN2pUSXd3d2d2Y2h6QkZJSGd1NFNZd1I4MDkxaWFTVGt1N2JjZXowSVF5NVlDd1hxWXRJakl5ZHZCWlVabWo0OUNXYlZSU1A0OFFVcHRzWUkySmlVQ0NsTmh1OTdmcnNUTy1mZUdTMVI1UlFhRjFqbVFoOVpYNEZOZHdWNUpRd2p2V0NTTElyM2ljMVFjOEtMQ0hKdG5lUDdMcGhDWTFad1MxTG5Hc3h6MDNNc0p1ZnhkOEQxVDN3eVljV0RzM1hMc2lMWG9BME9xcUZiVFkwX3Q5SnB6TFRlemJIUzVCWWtzU3ZsbDZDalNQdHRNaTZPV2tPLTBZbFB3eVpaSDVBbElmM0g?oc=5)；[on.cc東網](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU21pSXNLOFhDM2kyZmZXTEhqRHJFSWN0S0lRR3RVT0pCOTZTUHJ4R05mRS1ZY3hHLUNNaGxtdVpXdHUxUUlhMTQ2aWluMFVINkVQdm9pOXZqRXE3eFpwa0pEOWFXMkN4MnUyc2o0bUFnRGRyZ3pGUUhVdVpHa0dVYWRlb2J6QnF6azNSODhnUkZhNE02MThv?oc=5)
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa1hxUTN2ZE40UHAxeFpLYWVBbzc5MkExeUh0MTQzbWZiNWZoSmRydThxZTdKOGlKVV9uQjhySmlicWRHSHZ2LVpRUFlHQV9VV19SZjN1NUxTajROZGYyMkV0SU15TGJvMElTYzY3eVdXd3FiM3d2TG5jVEI2cUFmdGVTZWlOTVJXLU9ELWtSWnRabDQ2d0JwZHU2MXN3c05HUU9kMS0tVlRLemt2OFppVDBjeFEyMnRzeFRNa3ZuLUl1dEZtSmJnT0JUbXdsc1F1am04YUp3NXlIT2lBR0s5WElOV1NoLTNsOV9sR3FFTGRxXzUtZ1lidWo3anBVZ2kzS2JfUFdCQjlaQV9OMzRvWEpRYV9oVm5RMXBQVTZXTE9raHp5TU0ybTJvcw?oc=5)
 
 ## 【低】屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重
 - 類別：鼠患；地區：屯門
@@ -114,6 +58,13 @@
 - 狀態：已發布
 - 來源：[GOtrip.hk](https://news.google.com/rss/articles/CBMigANBVV95cUxPMjNibm9YcW5lZjF0N3RDaS1wSC02TnZYRjQ1VWJOTGJKVzBLOWxBc0Zpcmd0OGNCakx2U1RJOGo0cEVmbzFwczlvTkZVY1JSdFFnUktidy1VSk1ibmY4ZFM1NE1qanRwa3dudDRSMjdhMFJ1ZkpPb3FCYmV2RHhmZkdoS19kall5VFV6eFFQeVpDbGU4dmlDRXVhQ1FqeFNhWkxKQk1oZ29rV05IeHBsRGZicUotR2pLUmV2OC1Vckl0Sl9vd01tNVNnem9oTExOLUJMVWhVS3pIS1dxVU1obXVFYnRwRGZfeTNJQVBSWHJaY0RfRVlxYWhHMzhDY0ZUeXRQaUxLZ0RDV1JSdnlLN0F2NDdiTXJEUVJkMTYzVWR4LWs3RnZZWHZsYVJIc0tzQXA2Nm5PZWFEZzhpbFkxWTF5NmtjNi1Rd1V1MjlNV3hRU1drRXBhSTRTWHVrZFBTV2Fuc1ljd1czUVJrSmYzb1JJd3BMWnBJYkVBMDJhX0c?oc=5)
 
+## 【低】康文署食環署再巡文化中心 增捕鼠籠填地磚罅隙
+- 類別：鼠患、技術及藥劑、政府政策及執法；地區：未註明
+- 摘要：康文署食環署再巡文化中心 增捕鼠籠填地磚罅隙
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOMmxBNnA5LXJ2eTlHTVhOa0gwNHdKV3BIQzBCM0NWUjZQMGowOHV3azc2OGhONTNlb0hSYzVpWVdaUmdvbURjaTFQaDNsM1UxSHBsczdvSVJ2MndGb3FaNThKLVNZTmRXeEI0ZmJBdDBmcXZZSlBHcFdTaUxPc3YzaUl4UzY3VVMtOFBqY0JQTkN3cExmWlBKMnBCd3lpUDFwSWlneW4ta1Qwa1M3TmJuM1l2M29PWlBEZ1BLSGpkTUpmc3hZSm9iNExXVk91VXBEOVdfVEtIWGVpbXpMOXg4bkhrQ3lDSGdDQnJVLU9oX2pnUXJSSVUyVnM5REtTQng4d1hCZVdhSnJPSjdWVlZfcVJRbTFwWHhWbVctcW5JNWZnQ0ZvOExrc3NPRGhKTVFLazQwMzFlRmZOdHJqaDhRRlZOTkR5MlVtN0M4OXlpemEtakk4R0pUQ0pYT1BkNFp2X3c?oc=5)
+
 ## 【低】上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
 - 類別：鼠患；地區：未註明
 - 摘要：上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
@@ -128,13 +79,6 @@
 - 狀態：已發布
 - 來源：[東方日報](https://news.google.com/rss/articles/CBMikgNBVV95cUxPWmxSbHpQSGJWTXk2VmRoaTlQaVQyUnZQLXR3Y1FabFkwR2E5TEo1dUF6TkVyOXVkQXNqRzMxWnppOHVCSTE2UXhTM0d3MEgwWll5b3lxREJrWTU5LW11aUwzZjhBekdVdVFranJpTU01M0d6bEZhbFM3c3lHdEc0SS1uMFI1MU1MSUlwM0s0VGdFYlNIVllFNko1XzZjYWpyTUpRZG43VF9qRjJBa0ZnNVA1SGVmZ1hoZnZ4NzdGdWRxdnNmdWJuY2FXT3JfT0RMSXZFcDkwUlJUbGRzOFNBRGJuelJRb1J6MkVmVkZhR1hFUUpkTTlCSFpzVnhZVWNKei05Y2d1cEIxcVdXM0lJZ3NYb3NUbDVKcmtxQ284UUdWZWdSWEtJVVpVWldqdUNBTEJsYmF6R3hjVUxBV0UxcDJwVndrMko0a1RSS1pmLWN5enFGajlIRnc1dXpQbXNSMHNZOHVyVmpSdGszMjgwWFJZV3pGWWxJZW5zbEZjREFTNzBwUVAyYWFQN2FjZWFZd2c?oc=5)
 
-## 【低】《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[TVBS新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5)
-
 ## 【低】屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」
 - 類別：鼠患；地區：屯門
 - 摘要：屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」
@@ -142,135 +86,9 @@
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3JNbjFVVFBINXliTDE5QXBfc0NrTDdhVHJBQWp5OGJ4cDJJVERjMkxIT1JZMDBfQUQzdlctYXlMZmJQY3B1TldIM3hWdTZnVlpRZ3Y1RWJxRmUyakFoajRBWVJVQzRnWHZhcUt3R3FYc2VTZzZZS2xCeFdPbUZhdm1lU0Q5YmxhT3hn?oc=5)
 
-## 【低】877. 足本訪問：Jeffrey秘密操肌只為托兩袋米？捧起抱走Nancy甜到漏 聞王丹妮再佗B自爆想做爸爸 以熾熱眼神透露 目標生兩個 預告完成海外電影 「空中飛人」分身點提防機艙老鼠？
-- 類別：鼠患；地區：未註明
-- 摘要：877. 足本訪問：Jeffrey秘密操肌只為托兩袋米？捧起抱走Nancy甜到漏 聞王丹妮再佗B自爆想做爸爸 以熾熱眼神透露 目標生兩個 預告完成海外電影 「空中飛人」分身點提防機艙老鼠？
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Viu](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1M2T29NT2pLazd3eU9iajIxR1hXVWhVdzcxay15YWdHNUJfZVpaYzNnbk8tNm5FZlR4LXFQUWlIcHM5VTNsOEw2UmtQek9WWEphYkstcXVqc21TWldqdTdkWElYVU82TWpiOV93THhGeDdsMkVlLUMtWEhwN1A1Vi1MZ1h6Mkd6LXpieG1iMV9CUQ?oc=5)
-
-## 【低】李茵彤扮老鼠擠出雙下巴 「面圓圓」變標籤 拒走靚女路線 (21:05) - 20261125
-- 類別：鼠患；地區：未註明
-- 摘要：李茵彤扮老鼠擠出雙下巴 「面圓圓」變標籤 拒走靚女路線 (21:05) - 20261125
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[明報 Our Lifestyle](https://news.google.com/rss/articles/CBMiogNBVV95cUxPaWc5TVp2TXQyYmlnSGtwOU9Vb0dRbkdSenJGQmlpVjhXNlRoMk1fZ29YbjhFbzFuc1loOTkwYVV6ajZrSUVXNW9uUUlQczhDakl6cFBOR19uTHN1U2tKTlM0bUtvNGl3S2N0UktlRWM5ZlhEcmN6YzNkQ1RUSW1ZTDd6UjkzQklrS2Nxem1kYmtYaGZXVF9DUzBZYkhjd3piVVRtZGIyV3pCQVYxTkxLeUJrLVJQNTdwaHJhRFRfTU1MUTNtTGV3bGU3dTRBTENlUEFDdXBXcXppTzFmSWJBelhzVjRrZ1hzUW1yQlZRMWFzNUlBYUQxSUx3c1BJSnhKbkZKR1F6Q0ZGQUtVdktMU19KN1FNV1RzTEt0cjlnbXNlc2VMem1WZGJKNWhCd0h1M2VoZXFjTU5KaGh4ZUZJWHE1YzdHZzd2djA5ck1nTndWeTl4d0g0elN4blFvRjRIRHJVQjlBRG5LVExXeTJXSUxXSVZBNFdHZUN6TWlBUElNNXNOMEw2U1ptTVlEUy15TXJ2UGlYSWk2bDRTM3ZPQ3p3?oc=5)
-
-## 【低】萬聖節遭人下藥後再出事 濱崎真緒返港遇「機艙老鼠」15 萬財物被盜
-- 類別：鼠患；地區：未註明
-- 摘要：萬聖節遭人下藥後再出事 濱崎真緒返港遇「機艙老鼠」15 萬財物被盜
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUzgyUXA2NmI1V09jTFFaam1FaE9TYmJsUW1rV3gyb3VGUThBeUdVQ3F5YTl2OHZmclVPWkRCVFQxQnJuWWhmMTdYV0VHRzhDODNmdXFmZTJZR1NFSnJxSlNmZC1DRHJ4dUJETkxBXzl2aVdNNGpBYW42bzFDQU9ncjFvU3BTX0RpUzdLaGEyRDZraXdGSGRfV2MzZVZrWVZHT3NZUzl1VmZxU0YzS2JNcE5WcHlZaHhMd3BaRDlVRG9jZXhEY3MwdnZPeURPVXltb3hoNnRuR3RiSGxfazFfQkJXbEhuejhxWjVOVUJsRmoteW5ha19sVTduR0JnVFdkRlkzT25YWTBrbXR4VXljRDI2SW9NU3BPSVd4ZklLWHB1QzRld25Dc19vTVVVMlEwT29EREVsUTVwWjNmODFqdkRiRkxFNkx6WnZYR19sRjdzYkVkZXBhSUljOW9rTkJ4SlFrdXd0QzRVWGt4bkE?oc=5)
-
-## 【低】老鼠竄進褲管逼近腰 上海女師隔褲「捏著」照常講課
-- 類別：鼠患；地區：未註明
-- 摘要：老鼠竄進褲管逼近腰 上海女師隔褲「捏著」照常講課
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiOTRFNkI5MjNmcDFBN1VSNjN2SjlJdTRhNndPWHU2eWozdVAxakJYRlJPYjhSSDFZem56RGJUSHEyWEVSUTljTFVGNjRUbmVVSF9lNE5vWGlPc0FsRE5WdmV30gFnQVVfeXFMTnk3UHAwTFRnTzhlamR6M3RVYmpQcFY3NkFtdDE0c1F4RV95SHRfeko4b3hfWWpFM2hNN3pnb0hnYjdGZWtRUUZ5ejNMVk1Ody1oRy1xckItX1NDRG9IQm5XVzNCcW5tSQ?oc=5)
-
-## 【低】濱崎真緒搭機返港遇機艙老鼠 失15萬首飾名表已報警 (19:02) - 20261125
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒搭機返港遇機艙老鼠 失15萬首飾名表已報警 (19:02) - 20261125
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[明報 Our Lifestyle](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNaTBnVHhOcjJHMVhrd0l3aFRrY2NQUjBveE9MRFFrQnN0T2lieWZRd3R4dWh6MFZfRW9jUnFpMXRHNzRib1BCTUt6ZzdGQmFMZGNGeTZJY3VKR1lBQ0pRMXoyUzUzMnpYY3JsS1hnSmp6bjVRUlMwV2dPTEZyWVNpS3NWcklJaTVmUWkwSUJtN25WNV9PcmxwTGxjcTYtRWFkMTc4bG5WM0lQRU81b0lKci00OGMzQnd5MmFkUktyR1M3TkdLM3hndS1FWXdQRmR3SWxyU1N3MVpTNF9NcnVEOFhQeWFTeEppdVJsc054RDEydzZ2Q1pYVG92WVZjeElId191Z3lNczNZNHNtUTdtUjhGT3ZHWTNtN1BxdVhReTYyaVo5R09kSkx3YmJ0TGhIRk0tNXFfT0FMVTBFaEpiWUJxazB0Qlp6akl2Wkg2R2ZtUHJfWFRTbHE0UndQcVVhYlhncHRqN1o0UEVZcTlQRXdObk1iRENzdlBwVF8wVQ?oc=5)
-
-## 【低】Hong Kong Targets 60% Cut in Rodent Blackspots
-- 類別：鼠患；地區：未註明
-- 摘要：Hong Kong Targets 60% Cut in Rodent Blackspots
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Wisevoter](https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3VsMFhINFg2dFU3elhWRG9waFRoMmM4dlRjMlBfb2I4eUVwaldoanVpaXZRcnhLeS10Y2NPOFdlZWtTTXl2ZDVoMFV6ZktkdTlZTUJZOUNNNThiVzZMQmhqZC1KWWdhWEhtMkhlVDBneVVhaWh1SWVBaWxpakNSTzNLLTQ0MjBiT3Y5U2tQV2ZSWnM?oc=5)
-
 ## 【低】不斷有市民目擊老鼠出現 #老鼠 #食環署 #am730
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：不斷有市民目擊老鼠出現 #老鼠 #食環署 #am730
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[Facebook](https://news.google.com/rss/articles/CBMiswJBVV95cUxNNkZZNUdkd2RvbHd4OW1lZWt2SWtzVl9TR0FrOXAxdmhmV3lWVXJraE5VX2pZd2tYVE9DME9fNjBJT2pmU1lrVkYySXFfQy1jZkppREhTREpoNExINGFkX0JKQlAzSUxxY180TjdZdGVJaE9aSmVmMjlLV0tCVWstRHVpNDdPajFEeEZYYTJEZzlLVTJFVFZLTlFGSngxTGdzYTd4dEw3Wml3MnlnUjhtaXV4UGw1UE9tWTBYQ0NQX0x6QVF3SjZzVGFBWm8yVlFKVTN1QmIxTnAzdjRta3ZtSERQU1ZqRVBqUzk5LW45cTRnTENpRERHTTdEdVZFSmxxRjZvYnFJeWl5NFhzSmp1MWFRaTgwV3ZoeFJWNmV5Q1psd25reXVscXhBVE0tUFQzQzBn?oc=5)
-
-## 【低】濱崎真緒搭UO返港遇「機艙老鼠」疑遭偷15萬財物！報警兼急聯絡航空無果怒促機艙加裝CCTV防盜
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒搭UO返港遇「機艙老鼠」疑遭偷15萬財物！報警兼急聯絡航空無果怒促機艙加裝CCTV防盜
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[新假期](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWY0RXFtaVV5YTIzcVV1bU5ucHQ4cTlOcG8yc3paMEFTVndSZDRERlZnVzM5UzZUaHVjLUs0NW14NktEcHBYLVFjdFZqN1Z6dzRmREJhTUVORUh0UEFCLU51YjdxVGE1a3lKUEllYlN6YS1ZanFyTHFRYzlHeEJmMUlBSTc5T180WkFtWGtySlJTSzZpclVLWnNLYkJvSjNTa3NUbjl3YnE3MHkwRHdxaTVNTUpVck4xT19UNUlERDU1M1ZQWWdCbUk3aW83TVZEQUUxNm50Y1ZiMGJLd1ZLOXhlWTJ1R0FhcDVSRFA1YkQ?oc=5)
-
-## 【低】港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物
-- 類別：鼠患；地區：未註明
-- 摘要：港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[TVB](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPekJKZWNCajRBUjlwSkNBT2hhNVQtX3JONmltZkJhbEgtUmVUTWY5QXg0TFF0eGdRY1VBaS1wYW9nbFgtYm9UYVR6VVVOeGozcDYxS2xDeDdsMkJPWmNUMndtU1NxeFh3Si1oSHB6TXBKUFlYOVZzUWQxNXE5QU10a3JJY19qc2RxOWlCcnp5cHdacTN4MElyQk1Yc0VoMDJOckNuek5aV3ViWjVnbFJ1aXNVbm1WNmZOTThTMTJ0N01yenpIcU1XMVdwS2lUNFhCMW16eDh1WXctcC1TT3dTWGd0cnE3NkVvWTRORDV0dUNkdFFNY0pQVm95TFk2Y01DTUc1MUU0MmRZYVl4T2VYSVk5bS00Y21OLThRcF9MNzdBOTVEMUdXSk1MYWhGQ1pQNmtrcTBXTEVvQ0V6NF9fclozNzVFNFQ5V2J6SFc0NWkyWjhJTS1HcmNfeU1oY2FsdjdTbERXd2xrQQ?oc=5)
-
-## 【低】Govt pledges 60pc elimination of rodent spots
-- 類別：鼠患；地區：未註明
-- 摘要：Govt pledges 60pc elimination of rodent spots
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港電台](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmtiUkRucXlONGhzVlNiR3l6dXc5M29YNVhqOHpoaTFKVXRFb0wwNV85YXJ5OFBreWx3aTQzZFh3di1tWTBOUHQxOFR3SUNULVF0S3EzTXFIaHhicWZJNUNnMXg5c3E5Y2p1TVo0SlZKV0J4bFBYU1MzbWtHSWg1R2xsWExsX0htREd4aG1jdlV0Nl96LXRiYkJ2U1NwXzZRcmJJ?oc=5)
-
-## 【低】首10月檢約14.2萬老鼠同比增一成 謝展寰：目標年底前消除六成黑點
-- 類別：鼠患；地區：未註明
-- 摘要：首10月檢約14.2萬老鼠同比增一成 謝展寰：目標年底前消除六成黑點
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[橙新聞](https://news.google.com/rss/articles/CBMioANBVV95cUxPN1cxVFBNamhRTERQbDdSS0R2RjM5bjhvS1lCVjZYRHp5N3RFVXVXWWlnazdwM2h4eWROTFRnQmxMQWRmZzk3ejFnNnpfNG5ZZ0VOcGJNMTBSR2xPem5WZ0ZvMXNDX2tfX0VVWnh2c2dPakJLY3VlM1R1em8yVnNYN3FBRVlrQzdsZG1VVndQVm5XVjQyNmxwUXNyaEVtRF9VeTlCekZURlFKbm42dlpJajZqT3dpaWxHU1BsOTBiRllxd2U5UTU2bmd3OTVSMXBQT3JEYXFDcXRQak5OWjlwQ2J2ckVfdDNta1B2aWJGTkdBLXBsVDI4ZFhEM3Z0VEwtUG9GRFJkUk0zQ1luRlN4RF9ITWwtX01RdmtGZzlDRXlUYTg0c2ozek42VWJWTVVqSG1KTmgyTTFlNHFCcVpEY2VFcnJqNVM0STRHeXRKSnEzV21JcUlPS3AxR09SQnkxWjJqbmhEV05HNDVQNG95SGJxRjZoY0l5VGUwVzk2NlpvZHkwd1B5OVNBM2MtUm9YaTdNZE1ZR2Y4c0p2UHlvVw?oc=5)
-
-## 【低】《善男信女》奪金馬2大獎！ 「街頭抓蟑螂救場」導演崩潰內幕曝光
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：《善男信女》奪金馬2大獎！ 「街頭抓蟑螂救場」導演崩潰內幕曝光
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[ETtoday星光雲| ETtoday新聞雲](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kM0NPLVBGTHhTeTBWblI5N3ZOWmI1LWdGT3NiYWVtaDl1bmR4UWVOMlk1U2hKcTRWVGRWSm1qTU9jWEs1R3hfMmlvbHNwZ9IBTEFVX3lxTFBUNUpnRm0tVlZHQTBBaDlKaWpzZi1GaWxEWnc2OWlQWjZsdUtHbFNQTE92WjFGWFNVd1RBc2xDaVNmYzJJTW5tdER1cUY?oc=5)
-
-## 【低】食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnJ1Wi1DNnE0N3E1U3dLUnBFX0JER2huOVpfMmdDbnJJNUpDd0haOXBTOThDYUc1RElLMEgycXQ4RGtYMWdnaWRnT254X0pUMS04Z1F0aWtpMjBmalBxZkxxcmNvUkY3Yzh3RXFkRVl5alZNX1BGT0FQQV83WEl3MjQ2ZVJzbEhzRzVj?oc=5)
-
-## 【低】日本女星濱崎真緒搭機到港疑遇「機艙老鼠」！發文無奈稱首飾盒與手錶不翼而飛呼籲加裝CCTV
-- 類別：鼠患；地區：未註明
-- 摘要：日本女星濱崎真緒搭機到港疑遇「機艙老鼠」！發文無奈稱首飾盒與手錶不翼而飛呼籲加裝CCTV
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[U Travel](https://news.google.com/rss/articles/CBMijgRBVV95cUxNVnliWTc5OGtjSDY0NjB3NkQ0aDNnaGVRNTBmNzVxRnYyOHhTR0I2U0NtUnJPSGhsTHd0b1dmX3FPRVZBV2pNNmdZVEFwT1ZZTlBsQzJGWDN4OHNTQnFmei1xa05WRGFROE05SlBRRHBtc1lYMkx0dXQ0S1hUYTFjZjZ5SDNBTnVaYmV1SW5CWXpRSG8wSnRkSkdKSkdRc1dVZVNKMGNHRF9iUVRmUlltTmtETjJKY3k5QWhXT1ByYTQzeVlPUUZzNFBGZkpVQ2ZMazFKVmFkRzRoazNZMDU5Z3EwYTdfS0xLSGpRTWx1SVk5a0lCTDlDN1l2N2U2QlVQaTRPOUE3d19faUZWWUQtRV8wc3FZWFk3V0xxWVRpTkFVZ0xwbExCZGFUM2oxVnlIRVZlek5QdGRGTVRjWmRWajlNdmw1TlZ5QUZsQWxkNWs1LW5ybllBaWlxZm9XQ3ktaHYtTnVudTgyek02dTFqX1ludU5iOVl3SGtTcVdZQWs3Y2ZpbGFuNjJUWTFLbFpNSy12ZFc2OFYxMGdqZm9yQW9kaDZ6QTBPdm41N2tOMXMxS19ldkJjWC16NGhndjVNRnJWNW9GX2VCb29BOUJRX2FkTngtU2ROZ3NKNnJJSGJ5RFdKRUt1VnZOdE5BaUJvUHFXRnUzWmlsOHRmYmtyZzFveWJmVnBEVGZ2WV9R?oc=5)
-
-## 【低】19天拍出金馬最佳劇情片！開鏡前1小時急抓蟑螂 導演嚇到躲進房間
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：19天拍出金馬最佳劇情片！開鏡前1小時急抓蟑螂 導演嚇到躲進房間
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[鏡報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Uc3prUVB6LTdoS0p5R3ZTM2NaOVpJTjg4S3pHVmdOLWlSaUU3NkJmVU5vOGNZQWg3Sjh0MzlmbGNkVkRoaXhxaWE0aV84UHpwZExF?oc=5)
-
-## 【低】DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港
-- 類別：鼠患；地區：未註明
-- 摘要：DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbVRFQl9aMlR5UDVDcXk3bmRoVFpKMHhwT0phdTUxU3hMUURUNTdDRjFMQ2FRRE9fLUhRNzN3SE5qMGFnWW03N1o3dFNOS3dZbVVVTHQtMXRJMHFkVkM5OXRPSEJBMml2QkJWUFA2bE9ac0hSeVBN?oc=5)
-
-## 【低】繼被落藥之後又被人偷嘢 #濱崎真緒 #機艙老鼠 #am730
-- 類別：鼠患；地區：未註明
-- 摘要：繼被落藥之後又被人偷嘢 #濱崎真緒 #機艙老鼠 #am730
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Facebook](https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUW5peEMtZU15ZE42RUVJTzlCSmI4STZuaUY2TUM4bm84WmRlVFlGRFRQMFUzZGMtYUZ2bV9rTTlRSDFJbVEwc0JuRmJNbF85Y1FBcVNaUThRaVgzU0VxTm9COTE1SjhUOG5ITGhzc0JzbWEzN01fZ2ZkOVdFS0dPVF9rTkxSSXd3MU9yMElORTVHcXN5UTZYT29kSHhESnA2Sm1weWUwb05xeXFIcjcxRDlXaDJvSGlib3dCZUNzSkk5czBvckFXZ2J3VTdzWnFjd3dlRmpheHNDVjhpb2ZtcnEyVFBmRE1aTEtkUzVJa0dVTjN6WHR6VGhSM0twTEo1VXhVQVNVcUpVT19seUxZb0ExZnpmQXR1YnF2a1RDekVCMUJTOENWVHNPMUNXN2lubUREYklaaXhEb2xhVUl5NzMtdEFZS1FJS3VmTUc0dlhGWVhYcXZz?oc=5)
-
-## 【低】謝展寰： 採取策略性滅鼠措施目標年底前鼠患黑點減六成
-- 類別：鼠患；地區：未註明
-- 摘要：謝展寰： 採取策略性滅鼠措施目標年底前鼠患黑點減六成
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxNanZGRVNiczdGN2ZhOWhfWlJONnJEWERpb2NjWDIwM2xTTFJKTGFRYVJPekJvV2FxVGg5bGlINU5oS0kyd0RKX3BRd0hzRWtrYktnUVd5Z3poNzdPUklYVVVjcXk5MmZ1a2pSU3lKOUcyVFRRMnY0QjhVaGw3UnJicUMyeXF5SWNWMGZRTjVSRWpmcFhtTnd1MDg0Nmg4V2tKQ1JBaXBUdndqMGVKQy1jYTVISmJqWjZ3MUNvdURLc00zX2NscDRHcUZGam55bm1YZm9PN1FsRTRvNEhNVHl6akJIS0JNN2lXZlpuN2FfcFB2YnZJZFBsNTh4ai1oYmotQS1DTnRBNGE1QlhXM1JORjRCQ0R3dmVISXE4cU9mVG50N2tqcGFNNE5wOEFkREN1dlFJWjFiQ1JoMFBuUnZ2dk5LS29zcDZ1cjgtR0ZGdjN4S3VtMU9XR3Vfcklfck5qNlRZcTFqZ0pDLXVEakFz?oc=5)
-
-## 【低】葡京人及關閘口岸一帶將滅蚊
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：葡京人及關閘口岸一帶將滅蚊
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[TDM](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkNoMlFlbWx6OUNCUDZVbWNRSmdTd0gxc1QwUWprZEVwTElRU2dBY0hPNUtsaHQtNEhXbmZ2MmZDZ096YnQtUW55TzE4bzRUUVUwNXh4cVNPclJRc1hMYVBaa18xcmhHUlZmX2ZsYUpKdXpvVEdUQlJ2NGVTUW1wbjRTc2FwYUxSNlBodERR?oc=5)
