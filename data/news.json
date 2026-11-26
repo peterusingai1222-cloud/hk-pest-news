@@ -1,7 +1,101 @@
 {
-  "generated": "2026-11-25T22:52:24.698687+00:00",
-  "count": 99,
+  "generated": "2026-11-26T05:57:51.540310+00:00",
+  "count": 105,
   "items": [
+    {
+      "id": "d389c89ea846",
+      "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+      "summary": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "屯門"
+      ],
+      "first_seen": "2026-11-26T03:29:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZnFVamlvMlk5R3BwU3Rnd2FRSHlvRWJPdkxIeXRMR2pPNlVNeFpDOFl3V25SaURnWVVudDdiaHhoM2dTWE1nYzJvN2FtZkVoMEtBSTRON21UeWdNUWxxclRmb3NOWUFwdVZOZ0NZQ01KbjBGRWVZSzkyTXpjN2tfMS0zczZwZkk5TTdwb01uQW1kcjFJREoyMWI2ZkJaTEZ3LVJfcC1QY1RRQjY1UFczeWQ4cWJvT0NzbFlsMW5wUUdOYkNsU2dVME5neVJUb202Vko4NVZMWDFfMnhVR2piN2lEYjNGbE05aVAzVXBZbUZPMF80UlBfRzdPNkphUVV4M3VQX3Y4X1h3X05yczR5V0U1QVFxWlVLR2tUdmNHcXZKQWV5MUF4Q2pQRFJOQWtoSV8zS3ZqdF9hQWZONGdWVm9la2VsbUFocVB5dURzbFloUE14QVhtSjlYSEhMYW13dDRNb2JoeEo2V21WOWNNOWxJZw?oc=5",
+          "media": "TVB",
+          "published": "2026-11-26T03:29:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "2f7460178350",
+      "title": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+      "summary": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-26T03:00:03+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNaUo0OFQ3bWR6eUQ4N3cwWFpkcGpEMWstcVc2ZEpMRGFTMFRmU0ZZVEdLNmRVd2V4TTJMOG8xTWNGdEtxcmlFM2hORVY4MUd2M042MnNtUnRpTlVJM1p5aF9LQnA3Ri1pTDhjQngyeUNUUVN5bUlseEVpaFlNc2JOaFhFVnhwbVZNMlVQLU0wWl95MXF3TjdMaTRsVW5aTGlKb1I1aEgwUEI4TG5VNk5WZ2dnMUprR2Nmcy1VdHFyTkZsMVI3UUVyck1ybjZIaTdMMHZiV1hrWExGVzZocTE5RmxBN1h5OTFpVkZXcXo3Rm9DQnlCZzZEeGNHODRnSTRRMFNQMkphaHc1T2h2MjRTanhvb3RWRVR2ZmU5YnFEazVGM1dtTGlLUTlvRmtET3dKLUMwNnUtZnE1ZjNuTzNHQm80WlRaVklsRVRHdHZ1TFFtNGE3UXUyU2g4MFZSWVpTRi11UXNJR3JSNTJxTFFVYUdXWmNleUdLb2RRNzQ3V3BKalRtMnJaSmtPdVZ0X0w4dUNSeXRXZDEwU0Uw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-26T03:00:03+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "1f877521a400",
+      "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+      "summary": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-26T01:10:38+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcVpWZEdabnUxWDJwdGdYeklidmZmUkZ2X2ptMGRWWUVvQWtUQ3dhRFEzaUQtQktxMlhXaVdicDF3UVpPNnZTOHZFUVp5R1ZQaVhOUzhtWldKQWZTLTFkOUNVOWMzQno1Y25OTGU3Q2NISmVwd3QtMnhMQ1pzZ0pXSllsRzJfOERkTUdPY0I1OUwyaExoNmxWWkhyZW41WXFsMlFkaHdyUi1HY3ZGYXBIT3lERE16elRwNkxQRjhjVTRYR3g1cXBCVzJLYmdUUklaM21NbGY3YktXTnRVREJNeWREMjJiX25MLWZaNUdpdWxuM3NSU3Q4akwxOXdEWTFlWjExTHpDU0hVZXhmbUQ3bEJEblZsMFVFeWh2Z3Vyd2dDUm84OW50SVI0RlV2QXg2eGZtbTM3MC1SUTFzekphN1YyVUF3eHljb0FuLTVoaDB3QUo0YzJpQ0piU3JPZUt3YzQtbXd2NWdWS3BfUm9vdkEzSmc2SjJleXMwSXFaelJ5czJVYlJiRFhMRjZtREJSQWV5VWZxN3ZqY2ZxeG1BdmNsSXhrSVREb2N2WGt4MzlfNjM5aDB6VWNIa2Y?oc=5",
+          "media": "香港01",
+          "published": "2026-11-26T01:10:38+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "d09187ee409e",
+      "title": "連環不幸 喊都無謂 濱崎真緒遇機艙老鼠 失15萬財物",
+      "summary": "連環不幸 喊都無謂 濱崎真緒遇機艙老鼠 失15萬財物",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T23:50:56+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "連環不幸 喊都無謂 濱崎真緒遇機艙老鼠 失15萬財物",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPWmxSbHpQSGJWTXk2VmRoaTlQaVQyUnZQLXR3Y1FabFkwR2E5TEo1dUF6TkVyOXVkQXNqRzMxWnppOHVCSTE2UXhTM0d3MEgwWll5b3lxREJrWTU5LW11aUwzZjhBekdVdVFranJpTU01M0d6bEZhbFM3c3lHdEc0SS1uMFI1MU1MSUlwM0s0VGdFYlNIVllFNko1XzZjYWpyTUpRZG43VF9qRjJBa0ZnNVA1SGVmZ1hoZnZ4NzdGdWRxdnNmdWJuY2FXT3JfT0RMSXZFcDkwUlJUbGRzOFNBRGJuelJRb1J6MkVmVkZhR1hFUUpkTTlCSFpzVnhZVWNKei05Y2d1cEIxcVdXM0lJZ3NYb3NUbDVKcmtxQ284UUdWZWdSWEtJVVpVWldqdUNBTEJsYmF6R3hjVUxBV0UxcDJwVndrMko0a1RSS1pmLWN5enFGajlIRnc1dXpQbXNSMHNZOHVyVmpSdGszMjgwWFJZV3pGWWxJZW5zbEZjREFTNzBwUVAyYWFQN2FjZWFZd2c?oc=5",
+          "media": "東方日報",
+          "published": "2026-11-25T23:50:56+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "6697bc45ec9b",
       "title": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨",
@@ -21,6 +115,31 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5",
           "media": "TVBS新聞",
           "published": "2026-11-25T22:19:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "e9f455f58f22",
+      "title": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+      "summary": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "屯門"
+      ],
+      "first_seen": "2026-11-25T19:59:19+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3JNbjFVVFBINXliTDE5QXBfc0NrTDdhVHJBQWp5OGJ4cDJJVERjMkxIT1JZMDBfQUQzdlctYXlMZmJQY3B1TldIM3hWdTZnVlpRZ3Y1RWJxRmUyakFoajRBWVJVQzRnWHZhcUt3R3FYc2VTZzZZS2xCeFdPbUZhdm1lU0Q5YmxhT3hn?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-25T19:59:19+00:00",
           "tier": "media"
         }
       ]
@@ -198,7 +317,7 @@
     {
       "id": "ff975e0ec23c",
       "title": "楊兩全才拿金馬獎 爆「善男信女」蟑螂死光光",
-      "summary": "楊兩全才拿金馬獎 爆「善男信女」蟑螂死光光",
+      "summary": "楊兩全才拿金馬獎 爆「善男信女」蟑螂死光光（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蟑螂及室內害蟲"
@@ -212,6 +331,13 @@
         {
           "title": "楊兩全才拿金馬獎 爆「善男信女」蟑螂死光光",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiVGRfRi1MTHo4eTg4S0N4N3ZsNkl5QjYxMU1ZMngxVHphWUNJQjJuellGbHZhdjBER0EyTTdDN0NmRkZrejhvTnBxLUMzTlR6ZVppUjJnUENwV3ppTzc40gFfQVVfeXFMUGJUZF9GLUxMejh5ODhLQ3g3dmw2SXlCNjExTVkyeDFUemFZQ0lCMm56WUZsdmF2MERHQTJNN0M3Q2ZGRmt6OG9OcHEtQzNOVHplWmlSMmdQQ3BXemlPNzg?oc=5",
+          "media": "噓！星聞",
+          "published": "2026-11-25T10:25:57+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "楊兩全才拿金馬獎爆「善男信女」蟑螂死光光| 電影",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWlMxOFVNQjV3bG1oeXNtNVRnUXZvWjBTcjNWMVc1SWI1TXZWZmZ2MFFIdkxMbTFsWTNDRWZNWlkzWEtpdlBTMlNlWF90UXZOSlZ1dk9hM1hIUzVyUzl2RGZrMWFIRlRtdmdOVmZxMzI1aFVLSVdTdHRoZ3BRQ3M?oc=5",
           "media": "噓！星聞",
           "published": "2026-11-25T10:25:57+00:00",
           "tier": "media"
@@ -237,6 +363,30 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3VsMFhINFg2dFU3elhWRG9waFRoMmM4dlRjMlBfb2I4eUVwaldoanVpaXZRcnhLeS10Y2NPOFdlZWtTTXl2ZDVoMFV6ZktkdTlZTUJZOUNNNThiVzZMQmhqZC1KWWdhWEhtMkhlVDBneVVhaWh1SWVBaWxpakNSTzNLLTQ0MjBiT3Y5U2tQV2ZSWnM?oc=5",
           "media": "Wisevoter",
           "published": "2026-11-25T09:33:28+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "a74bee5eec5c",
+      "title": "不斷有市民目擊老鼠出現 #老鼠 #食環署 #am730",
+      "summary": "不斷有市民目擊老鼠出現 #老鼠 #食環署 #am730",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T09:20:41+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "不斷有市民目擊老鼠出現 #老鼠 #食環署 #am730",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNkZZNUdkd2RvbHd4OW1lZWt2SWtzVl9TR0FrOXAxdmhmV3lWVXJraE5VX2pZd2tYVE9DME9fNjBJT2pmU1lrVkYySXFfQy1jZkppREhTREpoNExINGFkX0JKQlAzSUxxY180TjdZdGVJaE9aSmVmMjlLV0tCVWstRHVpNDdPajFEeEZYYTJEZzlLVTJFVFZLTlFGSngxTGdzYTd4dEw3Wml3MnlnUjhtaXV4UGw1UE9tWTBYQ0NQX0x6QVF3SjZzVGFBWm8yVlFKVTN1QmIxTnAzdjRta3ZtSERQU1ZqRVBqUzk5LW45cTRnTENpRERHTTdEdVZFSmxxRjZvYnFJeWl5NFhzSmp1MWFRaTgwV3ZoeFJWNmV5Q1psd25reXVscXhBVE0tUFQzQzBn?oc=5",
+          "media": "Facebook",
+          "published": "2026-11-25T09:20:41+00:00",
           "tier": "media"
         }
       ]
@@ -667,7 +817,7 @@
     {
       "id": "c78074faeb8e",
       "title": "立法會十八題：追蹤及防治鼠患",
-      "summary": "以下是今日（十一月二十五日）在立法會會議上陳學鋒議員的提問和環境及生態局局長謝展寰的書面答覆︰ 問題： 食物環境衞生署早前公布本年上半年全港整體「無鼠百分比」為96.4%，與去年上半年（96.0%）及下半年（96.1…（共 2 個來源報道）",
+      "summary": "以下是今日（十一月二十五日）在立法會會議上陳學鋒議員的提問和環境及生態局局長謝展寰的書面答覆︰ 問題： 食物環境衞生署早前公布本年上半年全港整體「無鼠百分比」為96.4%，與去年上半年（96.0%）及下半年（96.1…（共 3 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -698,6 +848,13 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fMjhESHdiNmZnWlk4Nlk5UUJkZGNTRzZldDlmS0VWaWRpaTRjOHVyUTBSSlIyRDZQVmNMM24zZWY5bFdNZE5XOWV2LUpsTUlNRWNYVmZnOTNVaGpRZDRSQ2xWcG52YktGS1Vjd3ZyT2ZSQQ?oc=5",
           "media": "香港政府資訊中心",
           "published": "2026-11-25T04:04:10+00:00",
+          "tier": "official"
+        },
+        {
+          "title": "立法會十八題：追蹤及防治鼠患",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eTFkRDB2TTVaQUV2RlhZU2lPM1E0VEdNSlJCQkhPZXlYY3lmaUJKSzJRQVd3MVRvcjA3R0lmRmRXSGs0RS1TdEwyQ29OeGZRdGYwNlVLVjhxRVNDbkZwM09RMnlPcThBSndlRFViUEVBSWM?oc=5",
+          "media": "www.info.gov.hk",
+          "published": "2026-11-25T17:45:45+00:00",
           "tier": "official"
         }
       ]
