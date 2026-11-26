@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 38 個事件；高關注 4 個。
+過去24小時共 39 個事件；高關注 4 個。
 
 ## 【高】立法會十八題：追蹤及防治鼠患
 - 類別：鼠患、蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：九龍城、旺角、尖沙咀、銅鑼灣
@@ -106,6 +106,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMinANBVV95cUxNaUo0OFQ3bWR6eUQ4N3cwWFpkcGpEMWstcVc2ZEpMRGFTMFRmU0ZZVEdLNmRVd2V4TTJMOG8xTWNGdEtxcmlFM2hORVY4MUd2M042MnNtUnRpTlVJM1p5aF9LQnA3Ri1pTDhjQngyeUNUUVN5bUlseEVpaFlNc2JOaFhFVnhwbVZNMlVQLU0wWl95MXF3TjdMaTRsVW5aTGlKb1I1aEgwUEI4TG5VNk5WZ2dnMUprR2Nmcy1VdHFyTkZsMVI3UUVyck1ybjZIaTdMMHZiV1hrWExGVzZocTE5RmxBN1h5OTFpVkZXcXo3Rm9DQnlCZzZEeGNHODRnSTRRMFNQMkphaHc1T2h2MjRTanhvb3RWRVR2ZmU5YnFEazVGM1dtTGlLUTlvRmtET3dKLUMwNnUtZnE1ZjNuTzNHQm80WlRaVklsRVRHdHZ1TFFtNGE3UXUyU2g4MFZSWVpTRi11UXNJR3JSNTJxTFFVYUdXWmNleUdLb2RRNzQ3V3BKalRtMnJaSmtPdVZ0X0w4dUNSeXRXZDEwU0Uw?oc=5)
+
+## 【低】老鼠鑽褲管爬至腰際 上海女教師照講完整堂課始入洗手間處理
+- 類別：鼠患；地區：未註明
+- 摘要：老鼠鑽褲管爬至腰際 上海女教師照講完整堂課始入洗手間處理
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[GOtrip.hk](https://news.google.com/rss/articles/CBMigANBVV95cUxPMjNibm9YcW5lZjF0N3RDaS1wSC02TnZYRjQ1VWJOTGJKVzBLOWxBc0Zpcmd0OGNCakx2U1RJOGo0cEVmbzFwczlvTkZVY1JSdFFnUktidy1VSk1ibmY4ZFM1NE1qanRwa3dudDRSMjdhMFJ1ZkpPb3FCYmV2RHhmZkdoS19kall5VFV6eFFQeVpDbGU4dmlDRXVhQ1FqeFNhWkxKQk1oZ29rV05IeHBsRGZicUotR2pLUmV2OC1Vckl0Sl9vd01tNVNnem9oTExOLUJMVWhVS3pIS1dxVU1obXVFYnRwRGZfeTNJQVBSWHJaY0RfRVlxYWhHMzhDY0ZUeXRQaUxLZ0RDV1JSdnlLN0F2NDdiTXJEUVJkMTYzVWR4LWs3RnZZWHZsYVJIc0tzQXA2Nm5PZWFEZzhpbFkxWTF5NmtjNi1Rd1V1MjlNV3hRU1drRXBhSTRTWHVrZFBTV2Fuc1ljd1czUVJrSmYzb1JJd3BMWnBJYkVBMDJhX0c?oc=5)
 
 ## 【低】上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
 - 類別：鼠患；地區：未註明
