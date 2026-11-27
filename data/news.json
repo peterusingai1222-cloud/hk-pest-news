@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-27T11:42:45.580672+00:00",
-  "count": 126,
+  "generated": "2026-11-27T22:54:24.882161+00:00",
+  "count": 130,
   "items": [
+    {
+      "id": "7db6b62ccb66",
+      "title": "高雄本土登革熱+3 再發3千簡訊 | 中華日報",
+      "summary": "高雄本土登革熱+3 再發3千簡訊 | 中華日報",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-27T13:28:38+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "高雄本土登革熱+3 再發3千簡訊 | 中華日報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LbjM5bnRYQkw2MTlVZm1tdjQ4b2pXZjNnTEc4RlhpMWtlM3VFeWpGb2xwaFFXZEFGeWd6RUs0R2ZBdDVnZFdaUHUyRDJ6SHNoTDV6bWVn?oc=5",
+          "media": "LINE TODAY",
+          "published": "2026-11-27T13:28:38+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "2e719d8d1243",
       "title": "男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕",
@@ -21,6 +44,29 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNE5oNVYzVnI5QW9Xb3I3OEpUalNWaUh1WUdWdkRWZnF6UHcydy1TcENHTTNCY2VFLTZscUtzbGtKTHRtMS1LcjFkWXRiOHFEaDI2empIWmpHbDBOVkk1MzlXS0lmeW51Nnc2SU92MzJ0UDd6Z1VFZ3BOT0hXNlREYVBWX09MYlp4TWxJ?oc=5",
           "media": "on.cc東網",
           "published": "2026-11-27T11:15:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "9cd9458ac0c6",
+      "title": "高雄鼓山登革熱群聚再增3例發送3千則簡訊示警| 生活",
+      "summary": "高雄鼓山登革熱群聚再增3例發送3千則簡訊示警| 生活",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-27T10:29:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "高雄鼓山登革熱群聚再增3例發送3千則簡訊示警| 生活",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXLXViZFdMdGpRR05wb3FYQmxIR0wtdjBlYUdTRmwtZGpDdGJYSms1X0wzUjBhT25EWnBJQlBJRFVKbXRMTU9fYmxDLTl1Vy1oOVIzR3NoOTFGUjJOTDZF?oc=5",
+          "media": "中央社 CNA",
+          "published": "2026-11-27T10:29:00+00:00",
           "tier": "media"
         }
       ]
@@ -51,7 +97,7 @@
     {
       "id": "c288845f45c0",
       "title": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入",
-      "summary": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入（共 2 個來源報道）",
+      "summary": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入（共 3 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蚊患及病媒疾病"
@@ -74,6 +120,36 @@
           "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOd0U1WDJaVjVXVExkREFLODcwckpUOWFpV201WmRlTTJ6a1A2M252cC1qTnduTDhRWkRZOThpZDJxeV9xZGZ3Q2NMblBYWVBkNmloS1ZmN2xSelZzTHltSk5ZZnpHQWYwMHUzMnZ2XzJSeFlEcFNJanJPOHAtQUMtSVZfaXVzalFTMTI3RUs3R2xCd3NyTTBiT2ZjeHV2eWsyQ2FnUVFPSTB4dVhZT0ttczRNMGFVVU9oQTRxOHY4X0x1c0ZQWWdEOVU2MXpxaEpkdFYybXVqR0NYMS1GeG9XWnUzYTVNVFBJZWk5MW5OLTFmVUViRmpBbDRQS0YzWGxHa1NucWhsa3NnRWFWRkwxd2c4UnFoM2VXVlFaLW1WY3p2Rjh4S2tYaGhPS2gtcVZEaEF5QzhlUVJGMFVsdGxpYjdmTkNlejdqYVR4anJZNUg1T2NyMTNRc1RuUXpkUEpxZWVaMEtvWjRrTElEMHRPMFdRSkUxdU1jX2o3YWVMVU8wSU5aTEhGdi1HZHZlMGJwdzMtaktjOHQ2UzQ?oc=5",
           "media": "am730",
           "published": "2026-11-27T10:29:52+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "新增兩宗登革熱及一宗基孔肯雅熱 全屬外地傳入",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTmQ3QXVUbkNWVE90azJ1RW10RFdnbk1pN2Nla0o1S0hSUTNBSWdKclRmYWVwX09CZ3lienVoT21Sdmk2cEtIcndlQWxwVlNTRzI3elc4V05FUDczNmNQcW8wcTdPemJvOXpTbWpTTkoyY3VvQ2dyeWJoVDF6ZTNCTktrcmtKT0UwTHJwcHBaaHRna3AtdHU1Z1c4Z0xVTmNMZkZwTFoweHdyMVdPeEE3T29vQ0lSQkthRmh4Uk9XaHpTOVc2RjQ0RFJHbnNEMG5vZ0Q4UVNUMXU1eXczOGNnUWliX3BSUHlERVBhQ20tRDRkVExnVTdJd3pXMGRyemtiYk4tMndtX2E1eDNYbW5OUzM0ZUh4b0VTYTIwdTNaMnVMVm1vNkFraFVjQXZObDMzZ2c5Qk0tdHhQeVZmNUR0dnhjeXBLZVBVUHpsNWNRVXhRWUxfeFdncDZHc3FHLWJ6cm9J?oc=5",
+          "media": "巴士的報",
+          "published": "2026-11-27T10:01:52+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "d078fecdeae6",
+      "title": "增2宗登革熱及1宗基孔肯雅熱 均為輸入個案",
+      "summary": "增2宗登革熱及1宗基孔肯雅熱 均為輸入個案",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱、基孔肯雅熱",
+      "districts": [],
+      "first_seen": "2026-11-27T09:47:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "增2宗登革熱及1宗基孔肯雅熱 均為輸入個案",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xemVsUmJlb3RJcDBjV3F1YTFOTTdHS0tiOW5rNllQdml3SnZIQXlQU0d3ZWFiU0hySW9RZWhaMkpuSnctVWhCS2ROU3VnNG9zeUU3UUswNEPSAVhBVV95cUxPMXplbFJiZW90SXAwY1dxdWExTk03R0tLYjluazZZUHZpd0p2SEF5UFNHd2VhYlNIcklvUWVoWjJKbkp3LVVoQktkTlN1ZzRvc3lFN1FLMDRD?oc=5",
+          "media": "商業電台",
+          "published": "2026-11-27T09:47:00+00:00",
           "tier": "media"
         }
       ]
@@ -104,7 +180,7 @@
     {
       "id": "8d99d1709ab0",
       "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
-      "summary": "衞生署衞生防護中心（中心）今日（十一月二十七日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一…（共 2 個來源報道）",
+      "summary": "衞生署衞生防護中心（中心）今日（十一月二十七日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一…（共 3 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蚊患及病媒疾病",
@@ -128,6 +204,13 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5paW52N1dSQW8xbVpFbnF2TWdFdFpkOWZVTXdFeEVpSk45aVJhcGVaa2NnZjlQSFo0WTdRM0lGVzN5Q190cU9lM0FMTzNmQ19CdEZPSUJ2QlNGMDl5RWZGSEpmOE81VkN5R2tNYmp4R1U3Zw?oc=5",
           "media": "香港政府資訊中心",
           "published": "2026-11-27T09:45:00+00:00",
+          "tier": "official"
+        },
+        {
+          "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoSHI4UFBQV0NpUExLbE5XenBZRV9FTm1lcDg5T1luTUxxejlndEduUFdXWUhLRmJEN0FRbnAwY204ak5UN3I2Y0ljNzBGTFNiU25kMXhtQk4xbEdNWE9xSXFQVGRsVzExYUZfLUVtdVJwR2M?oc=5",
+          "media": "www.info.gov.hk",
+          "published": "2026-11-27T10:49:15+00:00",
           "tier": "official"
         }
       ]
@@ -181,6 +264,30 @@
           "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNFlWNGpHZnNBZGgxRXE5Z05Kd1BoeG9Gemx4OG83SWNYZmdxeXQ1YnVVNkdldjItbHBoNldzUHEyMUx4UklhbnFhUnQwemRRSHZzNzIwODRXdTJtR1FiUVF4UzJLUGtqZXFMYXMxU0g5cUVHaHI2dkU0SDdEYjlBRDlBN2E5YXpHMWlZeWwyeWNJdDliZEV1Z3dURUFCMmVNYmRjQWNoUmpxTmFOSkpKVUpaZl9jQU9pYlNyRVV5UDJPOGRjb1VBRjZ6THZ5aHpzY3dVZkVVMFgxdkhCY2trWHRxazEzeTFYX21XeFpFTnp1TWd4VGY3cDdzRTdYRHNqTUpHaDF1Vl9FU2lHMDBUWnVZMUxhMjNsNk5OSkU3dzdUT3pxNDM5UTF2LXFVVDc0S016MEZEM20xMUZoSFNHQmkwbENlUlU0VVpBRVE5cmpjQTc0UDNGbGltTXZ0SDIyeHZOZGcybHVKNFIyWG5fVGJzVWxveGNTM1Rj?oc=5",
           "media": "am730",
           "published": "2026-11-27T09:12:21+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "8309182d6107",
+      "title": "香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控",
+      "summary": "香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "檢控、消除蟲鼠通知、商場",
+      "districts": [],
+      "first_seen": "2026-11-27T07:41:56+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNdW1QQTBtc3pQWTlKT19KMU1BNUZJTEtvQV8xSHZuYy1waXptRHUxVk1CYlYwUFhNU3g0Y3prTGtzQU9sUkR6Y0Q5VmVPUXY1NHlPSGFZZjY1eS0xSVB0RUdyOWxRSTF0dTNLcmlYdFcyZEI0YmRXczZnbVpaYlE5YVZ4MGdCVERSaVUwUnhNQlFKd0c0MGxqLTF4czYzb1pfV3I5cGNDd1dkMlNBM1NRZWt6Um9vQWtHU0k3UXNQaDkzanNXMVluUzRKQkJsXy1OR1Z0MHZnMl9RUk01UVpndzhUZG0zQWw3OV81Nk9Oa0E5OUJlWWpDUHpaUjZWSUtKbEN5MVpvYm9kdWw5Z01pLTM2Y0hxd21XbkV0X2oxMHBSTnZmVUVDaFdNcVNieWNrOG9iaERKVVJEQXFBSnRRb2xlX3I4dmFLQXpPcUhybTNGNTVhZ0dETExNa21BZVFqekxkQnJsZEtBLS1id19HREYtZ1B2TzRHdDNKeTZ2MlJIdDZUY1lXTjUtdm9hS05tSTg5TmZQX0diQQ?oc=5",
+          "media": "香港01",
+          "published": "2026-11-27T07:41:56+00:00",
           "tier": "media"
         }
       ]
