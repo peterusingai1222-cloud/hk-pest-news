@@ -1,6 +1,48 @@
 # 香港蟲害管理新聞每日摘要（2026-11-27）
 
-過去24小時共 14 個事件；高關注 0 個。
+過去24小時共 25 個事件；高關注 5 個。
+
+## 【高】過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港電台新聞網](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWG1ndnNrSllEcjhQUF9JT2ZnODVfQzNHRzlrQXlweXVKMXFKNHNVWWZLNS1tTWhlZnVDcWVvMENYcGJmSzJqV25XTU5ETi02UFVCSG02Y0lVa3VySG4tZ0NPSTJZdExqVDdhaFYybw?oc=5)；[am730](https://news.google.com/rss/articles/CBMimwNBVV95cUxOd0U1WDJaVjVXVExkREFLODcwckpUOWFpV201WmRlTTJ6a1A2M252cC1qTnduTDhRWkRZOThpZDJxeV9xZGZ3Q2NMblBYWVBkNmloS1ZmN2xSelZzTHltSk5ZZnpHQWYwMHUzMnZ2XzJSeFlEcFNJanJPOHAtQUMtSVZfaXVzalFTMTI3RUs3R2xCd3NyTTBiT2ZjeHV2eWsyQ2FnUVFPSTB4dVhZT0ttczRNMGFVVU9oQTRxOHY4X0x1c0ZQWWdEOVU2MXpxaEpkdFYybXVqR0NYMS1GeG9XWnUzYTVNVFBJZWk5MW5OLTFmVUViRmpBbDRQS0YzWGxHa1NucWhsa3NnRWFWRkwxd2c4UnFoM2VXVlFaLW1WY3p2Rjh4S2tYaGhPS2gtcVZEaEF5QzhlUVJGMFVsdGxpYjdmTkNlejdqYVR4anJZNUg1T2NyMTNRc1RuUXpkUEpxZWVaMEtvWjRrTElEMHRPMFdRSkUxdU1jX2o3YWVMVU8wSU5aTEhGdi1HZHZlMGJwdzMtaktjOHQ2UzQ?oc=5)
+
+## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十七日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一…（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/27/P2026112700438.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5paW52N1dSQW8xbVpFbnF2TWdFdFpkOWZVTXdFeEVpSk45aVJhcGVaa2NnZjlQSFo0WTdRM0lGVzN5Q190cU9lM0FMTzNmQ19CdEZPSUJ2QlNGMDl5RWZGSEpmOE81VkN5R2tNYmp4R1U3Zw?oc=5)
+
+## 【高】51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVcxUy1ZeU5jSjhSczNpaXdxVFFIcXd5bkVRRzZrcjBFdUFxanBzeU0tY3gzbUQ4MFBTamFRMzhYZEk1bGlRWWlYd3ZFd0R2NEhsTTNScHE5QmFSdExXZGpuVUJLdzB4Y3RJdjgzeE03Z0RPc0pKalgtR2tnZkNxVW1wLWpkREdLaUFR?oc=5)
+
+## 【高】高雄登革熱群聚擴大！再增3病例 曾逛小北百貨、高師大蘭苑民眾需注意
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：高雄登革熱群聚擴大！再增3病例 曾逛小北百貨、高師大蘭苑民眾需注意
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ea3FQZ2s1anh4bzJBRVRjalFKUkZzWHItYXIyU09UMVQwYVlCdFJiZ0UxVldfamNjMkk0QTU1Wjl1ZnZ2dkpkVGJhNjhOYVlj0gFWQVVfeXFMTmpEcy1rY290ZHlteThLRFlKbUF4b19hUDk2NmdBYnEycjFBODJlZkNNMmRPYVN2bHR2aHFQSGJKT2dHYnBxSWs5ZDBZY2NYeFhKSktSckE?oc=5)
+
+## 【高】高師大餐廳員工確診登革熱 業者未停業遭罰6萬元
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：高師大餐廳員工確診登革熱 業者未停業遭罰6萬元
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[公視新聞](https://news.google.com/rss/articles/CBMiT0FVX3lxTE53UF9FVVMyNl8xeUs0ZkJGb3VkSjQyVEJPZ2stOTZiUlV2MlJCaE0tOVdrWVdRXzBlR0tNYTVSZ09OR3Q4dC1VT0xQYXR4bXM?oc=5)
+
+## 【中】廟宇木樑、匾額暗藏白蟻危機 高雄除蟲業者分享寺廟防治重點
+- 類別：白蟻及木材害蟲；地區：未註明
+- 摘要：廟宇木樑、匾額暗藏白蟻危機 高雄除蟲業者分享寺廟防治重點
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[yayanews.com.tw](https://news.google.com/rss/articles/CBMiREFVX3lxTFBhZkxGTl9PcU5PSHU2YWtkVTFUTFhpLXJMaXZOeWRJeW94QVJWbllWRklLa00yTHFPcnZFdmJFNUMzSVlN?oc=5)
 
 ## 【低】鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -8,6 +50,20 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQlg1bVVrNVNmd2djY1l2WEN2NUVUaHhZWFNNR2gyNmpMc0wxTWhKdkFMSjVFVDY0Z3RjSHZIaGxGX090Z1ZkT0ljUnBHX0V4c1FwRVdVZDh0WHFYS2FUTFNKczNiZUxRNS0ya2Y4SUkwMWZQNWI0MzQyeHVIcElMRDBETkUwVUM4QlE3a0k2dnN3OVVqZU1RN0ppLUNYaDBxMHJneWcyNGl1VTgzY2o0SFBnLXhnaEloMWRpMTBaWkVoMkwxbVpsaHctalNJQkVvQ281TU0yZGdvNGhiSUxYSnExVjBLamNxdVk4bEh4TnpVS3A2ZGpWeGo2b3NqcjRFR0J4QjNHNmVsUEd2dFhnekNGTEdMazhWdk1OOE55Y29KODNsNVhYUA?oc=5)；[Now 新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UktFYW1NbGRuTThCQ0trdGh5enl1TFh2djRqdDlRVHRYUjljRG14Nm5HWUFKbEtCcVo4N1lyWW9oaUJJOWxnaFBkZ3Nfdk5CLTZ5NS01ckd0NGFhRk5XV1Bn?oc=5)；[Yahoo](https://news.google.com/rss/articles/CBMizAJBVV95cUxNc2d2ZmU4MjJyQzhRMU1qTDFCa3RKMGtub3IzZmtBZUJ1S3JyWWJ2bmtKdWdKRmtlLTJENU5yX2tVOHVkTExFNGM2bzJWVHZWSkdxUFBGcnB1WG5YVlgxUEJONWVBa0hLREp3V05KNmVmNXBBSnJvR001WkxUUjZ4WVFDbW1GUmNzTzE0SGstNUVDN1Ytdk5XOXVQT3M0MmswbzF5ZEFGQjVMVnVyNjNqMjRCZzRoUXFsV0stX2hzcGpoMWJEZzJ6azYxOHdTNlNZR3lTbkd2eFJqZU9ZOXRVbklPWEx1Q0ZMYlJvNUctWnVtLVJJTXZqbWNMWDhrQU0xRTBfT2dRZWJ5MGZXdzVwUlRRX19aWF9tNVVFcDl2TmRZanhQRlVRSlBMVHZkU0pUR3lacXFCMjQxV3ZXVnJac0ItRlR1M1NQRUlFag?oc=5)
+
+## 【低】網上熱話｜女子街頭坑渠蓋放火龍果 掀餵老鼠疑雲(有片)
+- 類別：鼠患；地區：未註明
+- 摘要：網上熱話｜女子街頭坑渠蓋放火龍果 掀餵老鼠疑雲(有片)（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[Yahoo](https://news.google.com/rss/articles/CBMi6wJBVV95cUxNU1V0Z3dLSXgzaE5jMk5vLUtYd2FGTGwxSXhkM2Zldi1kNDc4QXFoVFJGUWhwVWNBWDF0QUlZLWF6bzdXMGlTeDQ2QmprdUVFU1lhQ08yTXBUWTBTejAwYkh3bGRQNU9SRnE4SGNRRzQzdjR3RWZ5TEhqeDE5UExQWGV2RXN0UjU2TmpOUjhROEl2a3dMRGJmdENfVG5EdkxHdXFEaWN4QlZvZG43elcwMEY4QnRnMzdieUs2MlFqN3ZtQ1V5LUpveFVjT3pWMVJzZzMzVTVmRE5KX3Y5dWZabmxXTjZEczJTc1lESllKRXlQdkFCTjJuLW1iQTVQSXQyNGUwNUhSS1NLTGtMc1NxSm8yMUJGMG03eVloem1fdi03ZHB1eGo3X2QyZ2FzamxZdkdwZWwzN1J2S3ktc2NWd1FCakptNGVsYzREZEc5cUFLZThTbzg3ejloaG40RkpJc3FKdmR5bGFVTTA?oc=5)；[am730](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNFlWNGpHZnNBZGgxRXE5Z05Kd1BoeG9Gemx4OG83SWNYZmdxeXQ1YnVVNkdldjItbHBoNldzUHEyMUx4UklhbnFhUnQwemRRSHZzNzIwODRXdTJtR1FiUVF4UzJLUGtqZXFMYXMxU0g5cUVHaHI2dkU0SDdEYjlBRDlBN2E5YXpHMWlZeWwyeWNJdDliZEV1Z3dURUFCMmVNYmRjQWNoUmpxTmFOSkpKVUpaZl9jQU9pYlNyRVV5UDJPOGRjb1VBRjZ6THZ5aHpzY3dVZkVVMFgxdkhCY2trWHRxazEzeTFYX21XeFpFTnp1TWd4VGY3cDdzRTdYRHNqTUpHaDF1Vl9FU2lHMDBUWnVZMUxhMjNsNk5OSkU3dzdUT3pxNDM5UTF2LXFVVDc0S016MEZEM20xMUZoSFNHQmkwbENlUlU0VVpBRVE5cmpjQTc0UDNGbGltTXZ0SDIyeHZOZGcybHVKNFIyWG5fVGJzVWxveGNTM1Rj?oc=5)
+
+## 【低】白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4
+- 類別：白蟻及木材害蟲；地區：未註明
+- 摘要：白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRFI0b0dRZDJ3bk9QTE9hNDQwMWphNFV0NjlVdno0N18zcHcxYUZnRXNVcTctQjRXWmE0NnlQZlBCeFZyOFNsRGNpbHZOYWJ0R3dqRHVhNm1CUVh0YjhRWFdfSjdOcGJoWDIzS3IySzEyOFJnc184OGhocE5FaGpQX25KU1lGQnhWamJ0TlRyNXFUNWI0UkJMbXQ2STh2cGZjTEhsVUQ3VHlCLUNTWnNVUVgxUFBLRUZhOF9BLUNWdFc1WFoya3hIOHRwbFVyZlRBRUVoQW12Q2w4MEY1MFBmaVduaGhVOUpqWlVsQkR3X0ZiM1FsV09FU3RLZGJRVGdJdmo3enRhZXNUTVpoOTFqQjkwd2R1NDB2T3JJbC1yR1UxUHJKTldUZ2gzOGdLMW92QVp2elp2a0doREhiOVFyUm1ONXJXVjJtYzJkSTJHYzFISVdTOXp6d0ZLUXZ1RzJOZXA1Z3Y4el9jS1A4aThXZkwycVF2Tld2UXlN?oc=5)；[堅料網](https://news.google.com/rss/articles/CBMi3wNBVV95cUxPaWZGeWdOVkNPTUlHQ0JMTENDNFZxam5XNUd1TDB3WmEtOFFNWTBNSWhodVltV0hGd0V4U0wxanFpQkM4ckhiaWx5MFFqRmNtczMtQmNreUY5UHAyRlMzc0NWd1JPOVpyYms2UVhHZVhPU2luNXNiN201eHlvelMxSVgwS1R5UHhkbHQ5RVMxLVcwX01lQXlrMmlkZUV0T2x3UG9qMzVpODk4dHRIRFI2bjBMRnlYdmVQZkIzZ3lQeDdVMGQtVmZVN1RLNHgyeXJrb2E2UVhaSll3cURicy05SDRjZklzVjJleFk2OUxOeXlSRTZPdFVjX3NfMVpvVWlSR2tMYmhLM1M4Z243aDMzOTNiSktVVExMSTc1RTMtOHd4a0dodWVfeENrYU9sQ1hpMnc2UGhpdlZSRmxiMzl0dW5jSFF4QjViRi1XNGZxR3BHMXZyUmNIc0R2QThmUWNhOWw3ZWpNYkk3bTJ6VnRab3NwOGlteU9Hc01QZE5rUmVVU1lfajFZZUJTYjdnanZrLW1EYXBNaUdkd0E5T2hxdlRldm4xR3pzX3ZCQmdUZlNmT0N6MHNoVWdJYkk0ejJXM0pfYmxZTW5LMmZOMXptVHpwU2FQQWUyWXd2dkh3TQ?oc=5)
 
 ## 【低】食環署展開雷霆行動直搗巢穴精準滅鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -23,6 +79,27 @@
 - 狀態：已發布
 - 來源：[TVBS新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5)；[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcl8zTUVZS3k1Sm1XaUJ4OHpVdl9YaTRzdkxkZlNnOHNwUXkyOFZjaTlSempTSGdTaXJBMWFFX1NTTGRCVHVPTTdneDJrY0gtTWlKQXd3?oc=5)
 
+## 【低】男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕
+- 類別：白蟻及木材害蟲；地區：未註明
+- 摘要：男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNE5oNVYzVnI5QW9Xb3I3OEpUalNWaUh1WUdWdkRWZnF6UHcydy1TcENHTTNCY2VFLTZscUtzbGtKTHRtMS1LcjFkWXRiOHFEaDI2empIWmpHbDBOVkk1MzlXS0lmeW51Nnc2SU92MzJ0UDd6Z1VFZ3BOT0hXNlREYVBWX09MYlp4TWxJ?oc=5)
+
+## 【低】Hong Kong Reports New Dengue and Chikungunya Cases; Public Urged to Prevent Mosquito Bites and Breeding
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：Hong Kong Reports New Dengue and Chikungunya Cases; Public Urged to Prevent Mosquito Bites and Breeding
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[巴士的報](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb2doYWdlM2xIREpJbmV0N2o1QUF0Zks1ZTZVcDdpT2NrWG1WcnlSM1FWYVFJdGZWLUVmTjk1R3F5YUJBb3hBOVU0VEU0Q1Aya0VGZ3MtQ3RrV1lERHU2cnI3aUI4cU04WVU2aXk0RFU3MENGOUNGMmFBUWZUUVAyRzc5SHBZbzRkQlBWQWVCNGI5RmZEbV8zQnUtZUV0clNWdmk3VnNqb3hfaHluaFRIeU9QbnRLcHR4cFFWYnhFMjkzX1lyM0ZxV3BpVlBlRHFUSXlCNU9ZVFQ4THl6SkFGZXN3UkJkVmY2Wmc?oc=5)
+
+## 【低】老鼠鑽褲強裝鎮定 「敬業老師」帳號突轉私密被疑擺拍
+- 類別：鼠患；地區：未註明
+- 摘要：老鼠鑽褲強裝鎮定 「敬業老師」帳號突轉私密被疑擺拍
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNLXI4c2lzMFRHSVhEMkVacWtoRTZ0UDFCcmNGa1lwOHVNSHdBVDVzeGtvU1A5U2ZGNzl6QS1WRmpMY1gyOHA3cWhMZlFjZWp4VzBkTkVlT0FOeXlVSnFkekZWWWZjZUFWUmFrT19XcFVWd1FGWXFvWlRJYVJlMzhlTWtFcV9MaEE0bUs5eTBDamhLLUxrTzV1LVJLVDZNTXd6NVpKSHpYOTQ1MzFOYjdPWUhBc1ZkZHNOQWxPd0hJY1FxNFRsY0pnQ090Umx2bi1ETjZrSUhQdWZMb2NMd0ZoMUhqRUFqNk8tejBFR2c0UEpGN09DVjg0Tk5jZERuMUd4ZUFKTGlpb3Z1bXNIdUJqRlRYXzMtX2phVWhTZC15NDhmWFBmNy1fV21nYmVmM1dOS0JJQTNWa2FVTVFVcVhqd2hlaWg3OFZEZ3NlQk1Lb05VTGNhLWh4SDJIVDVpR0psNGt6UHItY2g?oc=5)
+
 ## 【低】東張西望跟進｜街頭女子坑渠蓋放火龍果 網民熱議「餵老鼠」疑雲
 - 類別：鼠患；地區：未註明
 - 摘要：東張西望跟進｜街頭女子坑渠蓋放火龍果 網民熱議「餵老鼠」疑雲
@@ -30,12 +107,12 @@
 - 狀態：已發布
 - 來源：[myTV SUPER](https://news.google.com/rss/articles/CBMi5gNBVV95cUxQVUtrYUpScmFXQTdPRjBmSjhBckFKLU1jV0RhS0Q1ZlQ2Q3kwMDdPVWlCaDVnZ0dMLV9SUnlnTHFlckxJWE5aTnFMMldoR0dPYlVTU3lyQVQ3ZUJxUVg2LWRLTWs1VFpVQXltNW0yTkotelJ6ZkpqSFA4VFB4YXQxM2NlZUxUNk0tUm9jUmNzUjNxLUFJZjR2cWNCcmh6SzF0cEhYcWV2RmZDa0czRXNEUzhrbzJtanNFSzk5aGt5V0FrZTZNMktQbld1UWV4aFoxMTZQbUJtdXVsUi1jdTVBdGNiOHpfeFhqYVAwd0lFV1JHSUdTazU3WTJUYUFFZUhSaXp0VVlieVRCMl80OGhYTkxSeElFUGp3bGZGbnUzWjREeDF4VkotRFhUUVBQSkNiaEtwdGJSaUZSYWVhVVNCUGRMTWVQSE5IWDh2UU9xVWhxOFFVUXZIM2E4SzUzRk5MbnZmeWRydHBsMFg2al9NS09EME4yVjVWZDJjZkZNaXczb3lVNVNEQkNYamRTYmVIa0tkdDFmenE5WFFjVHRGbkRSU0tNbDg1VXBEQlk4V3NSeHhYM3Uta2xjeGlEek8zdm84andYRkN2VFVyNE12cWxmWTRRU3FCU3hhMHJvMmJqVDRTcXc?oc=5)
 
-## 【低】白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4
-- 類別：白蟻及木材害蟲；地區：未註明
-- 摘要：白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4
+## 【低】高雄海青工商營養午餐有蟑螂 本月7度發現異物、校方將調查
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：高雄海青工商營養午餐有蟑螂 本月7度發現異物、校方將調查
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[星島頭條](https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRFI0b0dRZDJ3bk9QTE9hNDQwMWphNFV0NjlVdno0N18zcHcxYUZnRXNVcTctQjRXWmE0NnlQZlBCeFZyOFNsRGNpbHZOYWJ0R3dqRHVhNm1CUVh0YjhRWFdfSjdOcGJoWDIzS3IySzEyOFJnc184OGhocE5FaGpQX25KU1lGQnhWamJ0TlRyNXFUNWI0UkJMbXQ2STh2cGZjTEhsVUQ3VHlCLUNTWnNVUVgxUFBLRUZhOF9BLUNWdFc1WFoya3hIOHRwbFVyZlRBRUVoQW12Q2w4MEY1MFBmaVduaGhVOUpqWlVsQkR3X0ZiM1FsV09FU3RLZGJRVGdJdmo3enRhZXNUTVpoOTFqQjkwd2R1NDB2T3JJbC1yR1UxUHJKTldUZ2gzOGdLMW92QVp2elp2a0doREhiOVFyUm1ONXJXVjJtYzJkSTJHYzFISVdTOXp6d0ZLUXZ1RzJOZXA1Z3Y4el9jS1A4aThXZkwycVF2Tld2UXlN?oc=5)
+- 來源：[公視新聞](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vVk9SZDZaYzBWRWk2aFhPNnVjYXdyZFFsWWwwVnA0aVBHc0FBLXY1Tk9xNEk2dUt2SGpYNENrU1BLdFhqUUZwYVZPRmRVX0U?oc=5)
 
 ## 【低】重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬
 - 類別：白蟻及木材害蟲；地區：未註明
