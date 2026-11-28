@@ -1,9 +1,102 @@
 {
-  "time": "2026-11-27T22:54:24.882161+00:00",
-  "fetched": 384,
-  "kept": 39,
-  "new_events": 4,
-  "merged": 2,
-  "errors": [],
+  "time": "2026-11-28T05:54:24.886378+00:00",
+  "fetched": 100,
+  "kept": 1,
+  "new_events": 0,
+  "merged": 0,
+  "errors": [
+    {
+      "source": "gn_rodent",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_mosquito",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_other_pests",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_tree_pests",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_fehd",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_en",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_singtao",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_headline",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_oncc",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_oriental",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_hkej",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_hket",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_am730",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_takungpao",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_wenweipo",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_rthk",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_tvb",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_cable",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_881903",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_now",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_mingpao",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_hk01",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "source": "gn_site_gov",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "drafts_pending": 0
 }
