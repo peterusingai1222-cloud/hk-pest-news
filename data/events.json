@@ -1,5 +1,63 @@
 [
   {
+    "id": "0e529c80c4e9",
+    "title": "《善男信女》片中的蟑螂是水溝抓的！ 導演爆笑揭幕後：不敢寫沒動物受傷",
+    "description": "",
+    "first_seen": "2026-11-28T06:09:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "《善男信女》片中的蟑螂是水溝抓的！ 導演爆笑揭幕後：不敢寫沒動物受傷",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnMFpKS0c4N3hUNjRJRlJIandhVXJuaGswSVQ4ZWh4WjRFWENqSHhsN1JWY0NSNm44QnE3WG5naEZHOHdvekE0NWc1SnJSQdIBTEFVX3lxTFA0VERlTkRxWmxxRzB6TXNWLWl4eDZPcWpndldwSV9PdzRtaFZCbzRzVUVZU1VZSVpxM01tRkMyaGszUVVJdjd6NFlkUm0?oc=5",
+        "media": "ETtoday星光雲| ETtoday新聞雲",
+        "published": "2026-11-28T06:09:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "《善男信女》片中的蟑螂是水溝抓的！ 導演爆笑揭幕後：不敢寫沒動物受傷",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-28T11:36:44.384746+00:00"
+  },
+  {
+    "id": "f1c7e02a6cd0",
+    "title": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+    "description": "",
+    "first_seen": "2026-11-28T00:10:23+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3BiOWdudTNNZkVKUUhtQUFxZXZhbjJ6Yk44MEhQdDdCU1VLQUZHZDdYRlRVbU9JaWZDbkt0dVJnTmlUZE04V0RuejZhbmVWdU81WEZkZWxUZXNPeWZNdEZyWFVOVklHQXpiN3JPSWhabTFfQkNxcFNMU1UyUDVWeXgya2RpRHdnV3REV2o5aEZZTHdYUm5oV3R0VklqV014SlZtMmQ0Uk5fbmx0MGx3ZEhfSkZqUjRsSVFvSU9lZXAzcmU0czQ0SjVVbkdNRm5rWFRlNnhCWkNkbC1DMmpnMmdWY2xiaEw2NzRHWW9jMGp6SUIxdjFFQXI4TVg1R3RCZk1xc2JhVlZ3U3VTUXlSRHhMOVhEeHFxRGkwdkN2SF9ybWlJUGJZS21TNHYxdVhEazBHOEdnM05oQTVDeHNVVGpiTVA?oc=5",
+        "media": "東方日報",
+        "published": "2026-11-28T00:10:23+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "categories": [
+      "白蟻及木材害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-28T11:36:44.384746+00:00"
+  },
+  {
     "id": "7db6b62ccb66",
     "title": "高雄本土登革熱+3 再發3千簡訊 | 中華日報",
     "description": "",
@@ -12,6 +70,13 @@
         "media": "LINE TODAY",
         "published": "2026-11-27T13:28:38+00:00",
         "tier": "media"
+      },
+      {
+        "title": "高雄本土登革熱+3！衛生局發3千封簡訊籲採檢投開票所加強噴藥防治| 生活",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XLS02YXZDS2RlZ1hnNzRSWTQzN1drQ3E0d0JmcldrWUQ0eEtzSVdPQ0FhWDhDSFZ1ZmJzSC1ZdG5tNC14a0puaw?oc=5",
+        "media": "三立新聞",
+        "published": "2026-11-27T14:37:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -22,11 +87,11 @@
     "districts": [],
     "priority": "高",
     "priority_reason": "登革熱",
-    "summary": "高雄本土登革熱+3 再發3千簡訊 | 中華日報",
+    "summary": "高雄本土登革熱+3 再發3千簡訊 | 中華日報（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T22:54:24.882161+00:00"
+    "updated": "2026-11-28T11:36:44.384746+00:00"
   },
   {
     "id": "2e719d8d1243",
